@@ -1,0 +1,290 @@
+- generic [active] [ref=f18e1]:
+  - complementary [ref=f18e2]:
+    - iframe [ref=f18e3]:
+      - link [ref=f25e4] [cursor=pointer]:
+        - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvCuXD2-kI_2R8Saz5HRMQRFRffPrtXsOtNL2o04F6O11W7Y02jC2pOaNUU61joUxtqZ9LUmF6C8SXXS18L0CZv3F8eXM6rOBD0JXy1WKdHA4qfa0cN38fHBM3lWnSBgfXB8GOUo57mfwcvKcXeEJPB0iJOkpkcQWqswGdJTu0Bq_It2HOyb1CyCDaKWNLBPMHArJQ0LcHXNqu_XIE68YeKmbQ8RQo0rhSaC-lmNSx19j5o7aiSd8vkXRh29XST64MmvR4ExRDD3bNeStLeuKe615VLG9NkpGGnGQ0nSPUrYNoJaZVe0NvFDItblZhsre21dL_PIL1mjpUi5UEMalsaGjSVQuLjJjioaVlkZZCNLM7uTMz9iik8PMUvlF5glYUG0vc1TOBsOZv5xv7rJt9FdUJzqvpsVAlp9-RG2Z9KfQ&sai=AMfl-YR71YC4njDq6anQxBJLWrMe2SNkXNaW4zpNVru9RngV-VyDtjLzIcAJAh3it7SZDwlX6CZlog34TB75bW_nHfjT8RfkI20oYUDbZ2qn3nLBt9HUTe0XW_x8_6xkVb3YuRC50I0aKe0vEeI2tJTnjX9RT-EFWUUQfgQZnH2NSS4IakN2KUnyWCOt_5TZqfxlcThg9SDwUICuzy0UOWQEYH_Cs4SC9UnD2QRt34zL1yzcmT_lhr6Ul-cvS9YLiR52haAAQJUKeeL7ByL0NygZOIoPGW9wwoARXyJzFSogtnxcjTSFHY6ZX-zXSzxoiiofKYJYGXVw0yECTHtad_llk6bV8Wm8dRubiaov7aKSl1uCTfXP63myPvcW&sig=Cg0ArKJSzAArT71wHAZbEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_MegaBillboard%26utm_content%3DHisteria1111_10Nov
+    - generic:
+      - generic [ref=f18e4]: TUTUP
+      - generic [ref=f18e5]: SCROLL UNTUK MELANJUTKAN MEMBACA
+  - generic [ref=f18e6]:
+    - complementary:
+      - complementary
+    - complementary:
+      - complementary
+    - complementary:
+      - generic:
+        - complementary
+    - banner [ref=f18e7]:
+      - complementary
+      - complementary
+      - generic [ref=f18e8]:
+        - button [ref=f18e11] [cursor=pointer]:
+          - img "hamburger-menu" [ref=f18e14]
+        - generic "kumparan logo" [ref=f18e15]:
+          - link [ref=f18e16] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f18e17]
+        - navigation [ref=f18e18]:
+          - list [ref=f18e19]:
+            - listitem [ref=f18e20]:
+              - link [ref=f18e21] [cursor=pointer]:
+                - /url: /search
+                - img "search" [ref=f18e24]
+            - listitem [ref=f18e25]:
+              - link [ref=f18e27] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f18e30]
+    - region "navigation side" [ref=f18e31]:
+      - generic [ref=f18e32]:
+        - heading "Menu" [level=2] [ref=f18e33]
+        - button [ref=f18e35] [cursor=pointer]:
+          - img "close" [ref=f18e38]
+      - navigation [ref=f18e39]:
+        - list [ref=f18e40]:
+          - listitem "viewport impression tracker" [ref=f18e41]:
+            - generic [ref=f18e43] [cursor=pointer]:
+              - img "profile" [ref=f18e46]
+              - generic [ref=f18e47]: Masuk
+          - listitem "viewport impression tracker" [ref=f18e51]:
+            - link "ic-new-kumplus-outline-black Berlangganan" [ref=f18e52] [cursor=pointer]:
+              - /url: /subscription
+              - generic [ref=f18e53]:
+                - img "ic-new-kumplus-outline-black" [ref=f18e56]
+                - generic [ref=f18e57]: Berlangganan
+          - listitem "viewport impression tracker" [ref=f18e61]:
+            - generic [ref=f18e63] [cursor=pointer]:
+              - img "moon" [ref=f18e65]
+              - generic [ref=f18e66]: Mode Gelap
+              - checkbox [ref=f18e72]
+          - listitem [ref=f18e75]
+          - listitem "viewport impression tracker" [ref=f18e77]:
+            - generic [ref=f18e79] [cursor=pointer]:
+              - img "mail" [ref=f18e81]
+              - generic [ref=f18e82]: Informasi Kerja Sama
+          - listitem [ref=f18e86]
+          - listitem "viewport impression tracker" [ref=f18e88]:
+            - link "home Beranda" [ref=f18e89] [cursor=pointer]:
+              - /url: /
+              - generic [ref=f18e90]:
+                - img "home" [ref=f18e93]
+                - generic [ref=f18e94]: Beranda
+          - listitem "viewport impression tracker" [ref=f18e98]:
+            - link "tv Video Story" [ref=f18e99] [cursor=pointer]:
+              - /url: /video-story
+              - generic [ref=f18e100]:
+                - img "tv" [ref=f18e103]
+                - generic [ref=f18e104]: Video Story
+          - listitem "viewport impression tracker" [ref=f18e108]:
+            - link "headphones Audio Story Baru" [ref=f18e109] [cursor=pointer]:
+              - /url: /audio-story
+              - generic [ref=f18e110]:
+                - img "headphones" [ref=f18e113]
+                - generic [ref=f18e114]: Audio Story
+                - generic [ref=f18e118]: Baru
+          - listitem "viewport impression tracker" [ref=f18e121]:
+            - link "tag Sumatera Pulih" [ref=f18e122] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+              - generic [ref=f18e123]:
+                - img "tag" [ref=f18e126]
+                - generic [ref=f18e127]: Sumatera Pulih
+          - listitem "viewport impression tracker" [ref=f18e131]:
+            - link "tag Green Initiative" [ref=f18e132] [cursor=pointer]:
+              - /url: /topic/green-initiative
+              - generic [ref=f18e133]:
+                - img "tag" [ref=f18e136]
+                - generic [ref=f18e137]: Green Initiative
+          - listitem "viewport impression tracker" [ref=f18e141]:
+            - link "trending Trending" [ref=f18e142] [cursor=pointer]:
+              - /url: /trending
+              - generic [ref=f18e143]:
+                - img "trending" [ref=f18e146]
+                - generic [ref=f18e147]: Trending
+          - listitem "viewport impression tracker" [ref=f18e151]:
+            - link "map-pin Kabar Daerah" [ref=f18e152] [cursor=pointer]:
+              - /url: /kabar-daerah
+              - generic [ref=f18e153]:
+                - img "map-pin" [ref=f18e156]
+                - generic [ref=f18e157]: Kabar Daerah
+          - listitem "viewport impression tracker" [ref=f18e161]:
+            - link "camera Galeri Foto" [ref=f18e162] [cursor=pointer]:
+              - /url: /topic/galeri-foto
+              - generic [ref=f18e163]:
+                - img "camera" [ref=f18e166]
+                - generic [ref=f18e167]: Galeri Foto
+          - listitem "viewport impression tracker" [ref=f18e171]:
+            - link "edit-line Opini & Cerita" [ref=f18e172] [cursor=pointer]:
+              - /url: /opini-cerita
+              - generic [ref=f18e173]:
+                - img "edit-line" [ref=f18e176]
+                - generic [ref=f18e177]: Opini & Cerita
+          - listitem "viewport impression tracker" [ref=f18e181]:
+            - link "bullet-list Peringkat Penulis" [ref=f18e182] [cursor=pointer]:
+              - /url: /user-campaign
+              - generic [ref=f18e183]:
+                - img "bullet-list" [ref=f18e186]
+                - generic [ref=f18e187]: Peringkat Penulis
+          - listitem [ref=f18e191]
+          - listitem "viewport impression tracker" [ref=f18e193]:
+            - link "News" [ref=f18e194] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f18e200]:
+            - link "Entertainment" [ref=f18e201] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f18e207]:
+            - link "Mom" [ref=f18e208] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f18e214]:
+            - link "Food & Travel" [ref=f18e215] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f18e221]:
+            - link "Tekno" [ref=f18e222] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f18e228]:
+            - link "Otomotif" [ref=f18e229] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f18e235]:
+            - link "Woman" [ref=f18e236] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f18e242]:
+            - link "Bola & Sports" [ref=f18e243] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f18e249]:
+            - link "Bisnis" [ref=f18e250] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f18e256]:
+            - link "Bolanita" [ref=f18e257] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - listitem [ref=f18e263]
+          - listitem "viewport impression tracker" [ref=f18e265]:
+            - generic [ref=f18e266] [cursor=pointer]: Cara Menulis di kumparan
+          - listitem "viewport impression tracker" [ref=f18e272]:
+            - generic [ref=f18e274] [cursor=pointer]:
+              - generic [ref=f18e275]: Tentang kumparan
+              - img "chevron-down" [ref=f18e280]
+          - listitem [ref=f18e281]
+          - listitem [ref=f18e283]:
+            - link "sosmed-instagram Instagram" [ref=f18e284] [cursor=pointer]:
+              - /url: https://www.instagram.com/kumparancom/
+              - generic [ref=f18e285]:
+                - img "sosmed-instagram" [ref=f18e288]
+                - generic [ref=f18e289]: Instagram
+          - listitem [ref=f18e293]:
+            - link "sosmed-facebook Facebook" [ref=f18e294] [cursor=pointer]:
+              - /url: https://www.facebook.com/kumparancom
+              - generic [ref=f18e295]:
+                - img "sosmed-facebook" [ref=f18e298]
+                - generic [ref=f18e299]: Facebook
+          - listitem [ref=f18e303]:
+            - link "sosmed-tiktok Tiktok" [ref=f18e304] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@kumparan
+              - generic [ref=f18e305]:
+                - img "sosmed-tiktok" [ref=f18e308]
+                - generic [ref=f18e309]: Tiktok
+          - listitem [ref=f18e313]:
+            - link "sosmed-youtube Youtube" [ref=f18e314] [cursor=pointer]:
+              - /url: https://www.youtube.com/kumparan
+              - generic [ref=f18e315]:
+                - img "sosmed-youtube" [ref=f18e318]
+                - generic [ref=f18e319]: Youtube
+          - listitem [ref=f18e323]:
+            - link "sosmed-whatsapp Whatsapp" [ref=f18e324] [cursor=pointer]:
+              - /url: https://www.whatsapp.com/channel/0029VaG5fW9EquiTFt1ZjN1r
+              - generic [ref=f18e325]:
+                - img "sosmed-whatsapp" [ref=f18e328]
+                - generic [ref=f18e329]: Whatsapp
+          - listitem [ref=f18e333]:
+            - link "sosmed-x X" [ref=f18e334] [cursor=pointer]:
+              - /url: https://x.com/kumparan
+              - generic [ref=f18e335]:
+                - img "sosmed-x" [ref=f18e338]
+                - generic [ref=f18e339]: X
+          - listitem [ref=f18e343]
+      - generic "footer" [ref=f18e345]:
+        - generic "copyright" [ref=f18e346]: 2026 © PT Dynamo Media Network
+        - generic "App Version 1.137.2" [ref=f18e347]: Version 1.137.2
+    - main [ref=f18e348]:
+      - heading "kumparan BREAKING NEWS Menyajikan Berita Peristiwa Penting Secara Kronologis dan Lengkap" [level=1]
+      - generic [ref=f18e349]:
+        - generic [ref=f18e350]: Informasi penting disajikan secara kronologis
+        - generic [ref=f18e355]:
+          - generic [ref=f18e356]: Breaking News Sebelumnya
+          - generic "viewport impression tracker" [ref=f18e362]:
+            - link "Periode 3-5 Nov 2026 Breaking News Title Divisi Propam Polri mengumumkan bahwa sejumlah jenderal polisi terkait kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto, tiga orang tersangka dengan inisial LSP, ASN, dan EH pada Selasa (3/11)." [ref=f18e363] [cursor=pointer]:
+              - /url: /breakingnews/listyo-sigit-tersangka-kasus-penyadapan-presiden-28VDVBdDyA8
+              - generic [ref=f18e364]:
+                - generic [ref=f18e368]:
+                  - generic [ref=f18e369]: Periode 3-5 Nov 2026
+                  - generic [ref=f18e371]: Listyo Sigit Tersangka Kasus Penyadapan Presiden
+                - paragraph [ref=f18e374]: Divisi Propam Polri mengumumkan bahwa sejumlah jenderal polisi terkait kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto, tiga orang tersangka dengan inisial LSP, ASN, dan EH pada Selasa (3/11).
+          - generic "viewport impression tracker" [ref=f18e376]:
+            - link "Periode 15 Okt-3 Nov 2026 Breaking News Title Presiden Prabowo Subianto melantik sejumlah pejabat negara di Istana, Kamis (15/10). Pejabat yang dilantik antara lain Jenderal TNI Maruli Simanjuntak sebagai Wakil Panglima TNI hingga Jenderal TNI Tandyo Budi Revita sebagai KSAD." [ref=f18e377] [cursor=pointer]:
+              - /url: /breakingnews/prabowo-lantik-wakil-panglima-ksad-hingga-kepala-bnpb-28NcX51PfG8
+              - generic [ref=f18e378]:
+                - generic [ref=f18e382]:
+                  - generic [ref=f18e383]: Periode 15 Okt-3 Nov 2026
+                  - generic [ref=f18e385]: Prabowo Lantik Wakil Panglima, KSAD hingga Kepala BNPB
+                - paragraph [ref=f18e388]: Presiden Prabowo Subianto melantik sejumlah pejabat negara di Istana, Kamis (15/10). Pejabat yang dilantik antara lain Jenderal TNI Maruli Simanjuntak sebagai Wakil Panglima TNI hingga Jenderal TNI Tandyo Budi Revita sebagai KSAD.
+          - generic "viewport impression tracker" [ref=f18e390]:
+            - link "Periode 14 Okt 2026 Breaking News Title KPK melakukan operasi tangkap tangan (OTT) di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) pada Selasa (13/10). KPK menyita uang tunai sekitar Rp 1,4 miliar dan logam mulia emas. KPK turut mengamankan 14 orang, termasuk Sestama hingga PPK." [ref=f18e391] [cursor=pointer]:
+              - /url: /breakingnews/kpk-ott-pejabat-bnpb-28N86NYjTaz
+              - generic [ref=f18e392]:
+                - generic [ref=f18e396]:
+                  - generic [ref=f18e397]: Periode 14 Okt 2026
+                  - generic [ref=f18e399]: KPK OTT Pejabat BNPB
+                - paragraph [ref=f18e402]: KPK melakukan operasi tangkap tangan (OTT) di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) pada Selasa (13/10). KPK menyita uang tunai sekitar Rp 1,4 miliar dan logam mulia emas. KPK turut mengamankan 14 orang, termasuk Sestama hingga PPK.
+          - generic "viewport impression tracker" [ref=f18e404]:
+            - link "Periode 6 Okt 2026 Breaking News Title Mahkamah Konstitusi (MK) akan membacakan putusan perkara Perselisihan Hasil Pemilihan Umum (PHPU) Presiden dan Wakil Presiden 2024 yang mempersoalkan syarat pendidikan Wakil Presiden Gibran Rakabuming Raka, Selasa (6/10) malam." [ref=f18e405] [cursor=pointer]:
+              - /url: /breakingnews/putusan-mk-terkait-polemik-ijazah-gibran-28K7ccVCo3A
+              - generic [ref=f18e406]:
+                - generic [ref=f18e410]:
+                  - generic [ref=f18e411]: Periode 6 Okt 2026
+                  - generic [ref=f18e413]: Putusan MK Terkait Polemik Ijazah Gibran
+                - paragraph [ref=f18e416]: Mahkamah Konstitusi (MK) akan membacakan putusan perkara Perselisihan Hasil Pemilihan Umum (PHPU) Presiden dan Wakil Presiden 2024 yang mempersoalkan syarat pendidikan Wakil Presiden Gibran Rakabuming Raka, Selasa (6/10) malam.
+          - generic "viewport impression tracker" [ref=f18e418]:
+            - link "Periode 1-2 Okt 2026 Breaking News Title Presiden Prabowo Subianto mereshuffle sejumlah pejabat negara di Istana Negara, Jakarta, pada Kamis (1/10)." [ref=f18e419] [cursor=pointer]:
+              - /url: /breakingnews/prabowo-reshuffle-kabinet-28Hz8s1MUbQ
+              - generic [ref=f18e420]:
+                - generic [ref=f18e424]:
+                  - generic [ref=f18e425]: Periode 1-2 Okt 2026
+                  - generic [ref=f18e427]: Prabowo Reshuffle Kabinet
+                - paragraph [ref=f18e430]: Presiden Prabowo Subianto mereshuffle sejumlah pejabat negara di Istana Negara, Jakarta, pada Kamis (1/10).
+          - generic "viewport impression tracker" [ref=f18e432]:
+            - link "Periode 23 Sep 2026 Breaking News Title Jenazah Surakman (60), ABK kapal Arupadatu 1, yang mengantar lima wartawan untuk meliput erupsi Gunung Anak Krakatau di Selat Sunda pada 7 September 2026 lalu ditemukan di Perairan Enggano." [ref=f18e433] [cursor=pointer]:
+              - /url: /breakingnews/kru-kapal-5-wartawan-hilang-ditemukan-28Es6evOmCp
+              - generic [ref=f18e434]:
+                - generic [ref=f18e438]:
+                  - generic [ref=f18e439]: Periode 23 Sep 2026
+                  - generic [ref=f18e441]: Kru Kapal "5 Wartawan Hilang" Ditemukan
+                - paragraph [ref=f18e444]: Jenazah Surakman (60), ABK kapal Arupadatu 1, yang mengantar lima wartawan untuk meliput erupsi Gunung Anak Krakatau di Selat Sunda pada 7 September 2026 lalu ditemukan di Perairan Enggano.
+          - generic "viewport impression tracker" [ref=f18e446]:
+            - link "Periode 14 Sep 2026 Breaking News Title Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan, Senin (14/9). Ia menggantikan posisi Purbaya Yudhi Sadewa. Suahasil sebelumnya merupakan Wamenkeu pendamping Purbaya." [ref=f18e447] [cursor=pointer]:
+              - /url: /breakingnews/suahasil-nazara-dilantik-jadi-menkeu-baru-28BLWvhGydB
+              - generic [ref=f18e448]:
+                - generic [ref=f18e452]:
+                  - generic [ref=f18e453]: Periode 14 Sep 2026
+                  - generic [ref=f18e455]: Suahasil Nazara Dilantik Jadi Menkeu Baru
+                - paragraph [ref=f18e458]: Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan, Senin (14/9). Ia menggantikan posisi Purbaya Yudhi Sadewa. Suahasil sebelumnya merupakan Wamenkeu pendamping Purbaya.
+          - generic "viewport impression tracker" [ref=f18e460]:
+            - link "Periode 13-14 Sep 2026 Breaking News Title Kapal feri Virgo Transport 8 dilaporkan hilang kontak saat berlayar dari Surabaya menuju Banjarmasin, Kalimantan Selatan, Minggu (13/9/2026). Kapal tersebut membawa 243 penumpang dan awak kapal. Selain itu, 6 orang juga dilaporkan meninggal dunia." [ref=f18e461] [cursor=pointer]:
+              - /url: /breakingnews/kmp-virgo-hilang-kontak-di-laut-jawa-28AtEdOrrrF
+              - generic [ref=f18e462]:
+                - generic [ref=f18e466]:
+                  - generic [ref=f18e467]: Periode 13-14 Sep 2026
+                  - generic [ref=f18e469]: KMP Virgo Hilang Kontak di Laut Jawa
+                - paragraph [ref=f18e472]: Kapal feri Virgo Transport 8 dilaporkan hilang kontak saat berlayar dari Surabaya menuju Banjarmasin, Kalimantan Selatan, Minggu (13/9/2026). Kapal tersebut membawa 243 penumpang dan awak kapal. Selain itu, 6 orang juga dilaporkan meninggal dunia.
+          - generic "viewport impression tracker" [ref=f18e474]:
+            - link "Periode 6-9 Sep 2026 Breaking News Title BMKG menyebut abu vulkanik Gunung Anak Krakatau yang dimuntahkan pada Sabtu (5/9) dan Minggu (6/9) sudah menyebar di wilayah Jakarta, Banten, Jawa Barat hingga Bengkulu. Per Selasa (8/9), bandara yang ditutup sudah dibuka, yaitu Bandara Soetta-Halim." [ref=f18e475] [cursor=pointer]:
+              - /url: /breakingnews/dampak-erupsi-gunung-anak-krakatau-2886O1wYxAS
+              - generic [ref=f18e476]:
+                - generic [ref=f18e480]:
+                  - generic [ref=f18e481]: Periode 6-9 Sep 2026
+                  - generic [ref=f18e483]: Dampak Erupsi Gunung Anak Krakatau
+                - paragraph [ref=f18e486]: BMKG menyebut abu vulkanik Gunung Anak Krakatau yang dimuntahkan pada Sabtu (5/9) dan Minggu (6/9) sudah menyebar di wilayah Jakarta, Banten, Jawa Barat hingga Bengkulu. Per Selasa (8/9), bandara yang ditutup sudah dibuka, yaitu Bandara Soetta-Halim.
+          - generic "viewport impression tracker" [ref=f18e488]:
+            - link "Periode 27 Agt 2026 Breaking News Title Banjir bandang dan longsor dahsyat melanda wilayah perbatasan Nepal-Tibet pada Rabu (26/8). Sebanyak 160 orang dinyatakan tewas dan 644 orang dilaporkan hilang akibat kejadian tersebut." [ref=f18e489] [cursor=pointer]:
+              - /url: /breakingnews/banjir-bandang-di-nepal-2848ReyV3oo
+              - generic [ref=f18e490]:
+                - generic [ref=f18e494]:
+                  - generic [ref=f18e495]: Periode 27 Agt 2026
+                  - generic [ref=f18e497]: Banjir Bandang di Nepal
+                - paragraph [ref=f18e500]: Banjir bandang dan longsor dahsyat melanda wilayah perbatasan Nepal-Tibet pada Rabu (26/8). Sebanyak 160 orang dinyatakan tewas dan 644 orang dilaporkan hilang akibat kejadian tersebut.

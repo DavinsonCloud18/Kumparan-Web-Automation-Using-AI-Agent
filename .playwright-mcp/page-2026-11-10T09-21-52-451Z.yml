@@ -1,0 +1,243 @@
+- generic [active] [ref=e1]:
+  - complementary
+  - generic [ref=e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic "kumparan logo" [ref=e5]:
+          - link "author" [ref=e523] [cursor=pointer]:
+            - /url: /channel/news
+            - generic [ref=e524]:
+              - img "kumparanNEWS" [ref=e528]
+              - paragraph [ref=e529]:
+                - generic [ref=e530]: kumparanNEWS
+                - img "verified" [ref=e531]
+        - search [ref=e8]:
+          - generic [ref=e9]: Pencarian
+          - generic [ref=e11]:
+            - img "search" [ref=e13]
+            - textbox "Pencarian" [ref=e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - link [ref=e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=e24]
+            - listitem [ref=e25]:
+              - button [ref=e28] [cursor=pointer]:
+                - img "moon" [ref=e31]
+            - listitem [ref=e32]:
+              - link [ref=e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=e39]
+            - listitem [ref=e40]:
+              - button "Masuk" [ref=e41] [cursor=pointer]
+            - listitem [ref=e45]:
+              - button "Buat Tulisan" [ref=e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=e51]:
+        - list [ref=e52]:
+          - listitem "viewport impression tracker" [ref=e53]:
+            - link "News" [ref=e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=e57]:
+            - link "Tekno" [ref=e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=e61]:
+            - link "Bisnis" [ref=e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=e65]:
+            - link "Otomotif" [ref=e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=e69]:
+            - link "Entertainment" [ref=e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=e73]:
+            - link "Food & Travel" [ref=e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=e77]:
+            - link "Bola & Sports" [ref=e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=e81]:
+            - link "Mom" [ref=e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=e85]:
+            - link "Woman" [ref=e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=e89]:
+            - link "Bolanita" [ref=e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=e95] [cursor=pointer]:
+            - img "more-vertical" [ref=e98]
+            - generic [ref=e99]: Lainnya
+      - navigation "header sub menu" [ref=e101]:
+        - list [ref=e102]:
+          - listitem [ref=e103]:
+            - link "Breaking News" [ref=e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=e109]:
+            - link "Sumatera Pulih" [ref=e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=e115]:
+            - link "Green Initiative" [ref=e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=e121]:
+            - link "Video Story" [ref=e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=e127]:
+            - link "Audio Story" [ref=e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=e133]:
+            - link "Trending" [ref=e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=e139]:
+            - link "kumparanPLUS" [ref=e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=e145]:
+            - link "Opini & Cerita" [ref=e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=e151]:
+      - generic:
+        - complementary
+      - generic [ref=e532]:
+        - complementary [ref=e533]
+        - generic [ref=e536]:
+          - generic:
+            - complementary
+          - generic:
+            - complementary
+          - generic [ref=e537]:
+            - navigation [ref=e538]:
+              - list [ref=e539]:
+                - listitem [ref=e540]:
+                  - link "Beranda" [ref=e541] [cursor=pointer]:
+                    - /url: /
+                  - img "chevron-next" [ref=e542]
+                - listitem [ref=e543]:
+                  - link "News" [ref=e544] [cursor=pointer]:
+                    - /url: /channel/news
+            - article [ref=e545]:
+              - generic "column wrapper" [ref=e546]:
+                - 'heading "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?" [level=1] [ref=e547]'
+                - generic [ref=e548]:
+                  - generic [ref=e549]:
+                    - generic [ref=e550]:
+                      - link "author" [ref=e551] [cursor=pointer]:
+                        - /url: /kumparannews
+                        - paragraph [ref=e552]:
+                          - generic [ref=e553]: kumparanNEWS
+                          - img "verified" [ref=e554]
+                      - paragraph [ref=e556]:
+                        - time [ref=e557]: 6 November 2026 13:24 WIB
+                        - generic [ref=e558]: ·
+                        - generic [ref=e559]: waktu baca 1 menit
+                    - generic [ref=e560]:
+                      - link "google add preference button" [ref=e561] [cursor=pointer]:
+                        - /url: https://www.google.com/preferences/source?q=kumparan.com
+                        - generic [ref=e562]:
+                          - img "google" [ref=e564]
+                          - generic [ref=e565]: Ikuti kumparan di Google
+                      - img "info" [ref=e569]
+                  - generic [ref=e571]:
+                    - generic [ref=e573]:
+                      - button "like 2" [ref=e574] [cursor=pointer]:
+                        - generic [ref=e575]:
+                          - img "like" [ref=e577]
+                          - generic [ref=e578]: "2"
+                      - link "comment 10" [ref=e580] [cursor=pointer]:
+                        - /url: /kumparannews/response/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                        - generic [ref=e581]:
+                          - img "comment" [ref=e583]
+                          - generic [ref=e584]: "10"
+                    - generic [ref=e586]:
+                      - img "sosmed-whatsapp-white" [ref=e588] [cursor=pointer]
+                      - img "copy-circle" [ref=e590] [cursor=pointer]
+                      - img "more-vertical" [ref=e592] [cursor=pointer]
+              - main [ref=e593]:
+                - 'figure "Presiden ke-7 RI Joko Widodo di Pengadilan Negeri Jakarta Timur, sebagai saksi pada sidang lanjutan perkara dugaan fitnah dan pencemaran nama baik terkait tuduhan ijazah palsu dengan terdakwa Roy Suryo dan dr. Tifa di Jakarta, Kamis (5/11/2026). Foto: Aditia Noviansyah/kumparan" [ref=e594]':
+                  - generic [ref=e598] [cursor=pointer]:
+                    - 'img "Presiden ke-7 RI Joko Widodo di Pengadilan Negeri Jakarta Timur, sebagai saksi pada sidang lanjutan perkara dugaan fitnah dan pencemaran nama baik terkait tuduhan ijazah palsu dengan terdakwa Roy Suryo dan dr. Tifa di Jakarta, Kamis (5/11/2026). Foto: Aditia Noviansyah/kumparan" [ref=e599]'
+                    - generic [ref=e600]:
+                      - img "zoom-in-white" [ref=e601]
+                      - generic [ref=e602]: Perbesar
+                - complementary [ref=e604]:
+                  - complementary [ref=e605]:
+                    - generic [ref=e606]: ADVERTISEMENT
+                - paragraph [ref=e609]: Presiden ke-7 RI Joko Widodo (Jokowi) mengaku mengalami nama baik dan reputasinya tercemar akibat tudingan ijazah palsu yang ditujukan kepadanya. Hal itu disampaikan Jokowi saat memberikan keterangan dalam persidangan kasus dugaan ijazah palsu di Pengadilan Negeri Jakarta Timur, Kamis (6/11).
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=e610]:
+                  - complementary [ref=e611]:
+                    - generic [ref=e612]: ADVERTISEMENT
+                - paragraph [ref=e615]: Ketika ditanya jaksa mengenai kerugian yang dialaminya akibat perbuatan terdakwa, Jokowi menyebut dirinya merasa dihina dan direndahkan.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=e616]: "\"Kerugian immaterial, Yang Mulia. Kerugian immaterial karena tercemarnya nama baik saya dan juga ee keluarga saya, dan kemudian saya juga merasa telah dihina, direndahkan dengan amat sangat,\" kata Jokowi."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - paragraph [ref=e617]: Jokowi menyebut tuduhan tersebut berdampak terhadap reputasi dan kepercayaan publik terhadap dirinya.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=e618]: Ia mengungkapkan, berdasarkan survei terakhir yang diingatnya, terdapat 18 persen masyarakat Indonesia yang percaya terhadap tuduhan ijazah palsu tersebut.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=e619]: "\"Karena kalau kita lihat dari survei terakhir, seingat saya 18% masyarakat Indonesia percaya terhadap tuduhan ijazah palsu ini, Yang Mulia. 18% itu kalau dikonversi ke orang itu kurang lebih 34 juta orang percaya mengenai tuduhan ijazah palsu ini, Yang Mulia,\" ujarnya."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=e620]:
+                  - complementary [ref=e621]:
+                    - generic [ref=e622]: ADVERTISEMENT
+                - paragraph [ref=e625]:
+                  - text: Lantas, apakah kamu salah satu orang yang percaya ijazah Jokowi palsu? Sampaikan jawaban kamu dalam polling
+                  - strong [ref=e626]: kumparan
+                  - text: di bawah ini.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - complementary
+                - generic:
+                  - generic "polling component"
+              - generic [ref=e627]:
+                - navigation [ref=e628]:
+                  - list [ref=e629]:
+                    - listitem [ref=e630]:
+                      - link "Jokowi" [ref=e631] [cursor=pointer]:
+                        - /url: /topic/jokowi
+                    - listitem [ref=e635]:
+                      - link "polling" [ref=e636] [cursor=pointer]:
+                        - /url: /topic/polling
+                    - listitem [ref=e640]:
+                      - link "Polling kumparan" [ref=e641] [cursor=pointer]:
+                        - /url: /topic/polling-kumparan
+                    - listitem [ref=e645]:
+                      - link "Ijazah Palsu" [ref=e646] [cursor=pointer]:
+                        - /url: /topic/ijazah-palsu
+                    - listitem [ref=e650]:
+                      - link "Isu Ijazah Palsu Jokowi" [ref=e651] [cursor=pointer]:
+                        - /url: /topic/isu-ijazah-palsu-jokowi
+                - navigation [ref=e655]:
+                  - list [ref=e656]:
+                    - listitem [ref=e657]:
+                      - link "Informasi Redaksi" [ref=e658] [cursor=pointer]:
+                        - /url: /kumparannews/organisation-info
+                    - listitem [ref=e659]: ·
+                    - listitem [ref=e660]:
+                      - link "Laporkan tulisan" [ref=e661] [cursor=pointer]:
+                        - /url: /report/story/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                - region "editor section" [ref=e662]:
+                  - generic [ref=e663] [cursor=pointer]:
+                    - heading "Editor Section" [level=2] [ref=e664]
+                    - generic [ref=e666]:
+                      - img "editor-avatar-0" [ref=e670]
+                      - img "editor-avatar-1" [ref=e674]
+                      - img "editor-avatar-2" [ref=e678]
+                    - button "drop-down Tim Editor" [ref=e680]:
+                      - generic [ref=e681]:
+                        - img "drop-down" [ref=e683]
+                        - generic [ref=e684]: Tim Editor
+          - generic [ref=e688]:
+            - complementary [ref=e689]
+            - complementary [ref=e692]

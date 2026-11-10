@@ -1,0 +1,259 @@
+- generic [active] [ref=f14e1]:
+  - complementary
+  - generic [ref=f14e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f14e3]:
+      - generic [ref=f14e4]:
+        - generic "kumparan logo" [ref=f14e5]:
+          - link "author" [ref=f14e6] [cursor=pointer]:
+            - /url: /channel/news
+            - generic [ref=f14e7]:
+              - img "kumparanNEWS" [ref=f14e11]
+              - paragraph [ref=f14e12]:
+                - generic [ref=f14e13]: kumparanNEWS
+                - img "verified" [ref=f14e14]
+        - search [ref=f14e15]:
+          - generic [ref=f14e16]: Pencarian
+          - generic [ref=f14e18]:
+            - img "search" [ref=f14e20]
+            - textbox "Pencarian" [ref=f14e22]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f14e23]:
+          - list [ref=f14e24]:
+            - listitem [ref=f14e25]:
+              - link [ref=f14e28] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f14e31]
+            - listitem [ref=f14e32]:
+              - button [ref=f14e35] [cursor=pointer]:
+                - img "moon" [ref=f14e38]
+            - listitem [ref=f14e39]:
+              - link [ref=f14e43] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f14e46]
+            - listitem [ref=f14e47]:
+              - button "Masuk" [ref=f14e48] [cursor=pointer]
+            - listitem [ref=f14e52]:
+              - button "Buat Tulisan" [ref=f14e54] [cursor=pointer]
+      - navigation "headermain menu" [ref=f14e58]:
+        - list [ref=f14e59]:
+          - listitem "viewport impression tracker" [ref=f14e60]:
+            - link "News" [ref=f14e61] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f14e64]:
+            - link "Tekno" [ref=f14e65] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f14e68]:
+            - link "Bisnis" [ref=f14e69] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f14e72]:
+            - link "Otomotif" [ref=f14e73] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f14e76]:
+            - link "Entertainment" [ref=f14e77] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f14e80]:
+            - link "Food & Travel" [ref=f14e81] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f14e84]:
+            - link "Bola & Sports" [ref=f14e85] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f14e88]:
+            - link "Mom" [ref=f14e89] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f14e92]:
+            - link "Woman" [ref=f14e93] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f14e96]:
+            - link "Bolanita" [ref=f14e97] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f14e102] [cursor=pointer]:
+            - img "more-vertical" [ref=f14e105]
+            - generic [ref=f14e106]: Lainnya
+      - navigation "header sub menu" [ref=f14e108]:
+        - list [ref=f14e109]:
+          - listitem [ref=f14e110]:
+            - link "Breaking News" [ref=f14e111] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f14e116]:
+            - link "Sumatera Pulih" [ref=f14e117] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f14e122]:
+            - link "Green Initiative" [ref=f14e123] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f14e128]:
+            - link "Video Story" [ref=f14e129] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f14e134]:
+            - link "Audio Story" [ref=f14e135] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f14e140]:
+            - link "Trending" [ref=f14e141] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f14e146]:
+            - link "kumparanPLUS" [ref=f14e147] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f14e152]:
+            - link "Opini & Cerita" [ref=f14e153] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f14e158]:
+      - generic:
+        - complementary
+      - generic [ref=f14e159]:
+        - complementary [ref=f14e160]:
+          - iframe [ref=f14e164]:
+            - link [ref=f26e3] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuYuu_w2qUHUdYOhxZEDfRlZblxCZ9fbUgUHvoEN0J-ff57afYDFYOpt6L2YLYmfB5vaVL5ojft-mRu2hxUldHifQZ9jLXTgrCUUB9nWe53QgVc7FQbYpxXPutAT4qTyhNCg4Hr5z9nOYaArlR_Mb5-mI6EyN7zA8EV9oIOse5F-rWfhhJM01P3rr059c8PTwrYBONq4VpbMsgJWgxFhVn2oRSkvPxd3FANkCINh94kWPIIpbRm0k-TUlV03Sxia1UP1IoPcrleALTlJNR1lKeEr2N6fRjGBInnWbtJf7Vg5K8LtHpv7UBjOBa5TvmXEHRPzxJAIJEtg3ImxU5XOpmMGk8EyRPfN2HlLBU9fkhIGV_1lwjQM3HhHEWX09fZ_wCk49fBcnhIwMlEExnfHRovDPGhZ_l-dOkexA%2526sai%253DAMfl-YRR2qXAWYZfC7ahrjjXIJBY2qO-EGDW3As3V41uPMRsuvEbA3nyuMQO4tSkq8OS1qi9b2euep3bednOElfkPvA8J3mSM8WRanVWswtDl0M6k5gT9si-UGbESTbRsLu64S85qcZp78EMYXzSwaH38hcsZf6MBMO9UZC2yzLEZ20AJXVuqPT5wNLJcboTbYqs9PqaGHlGPddQoVKv1faIhSQe7ed90zR-M1uSG5ywd7urfVPINCJqrr9DbAUpCBe8DS77IIDKZ1ws8plrE7ATGH3jo9AcAyTHEtTcNvWIfrsnm-snoXJYR3-o9jZwBruDiWcZ2yBOIDaeMFgTeSf5HtjZpKzmyg11R-xZrErzrp0CpqYRNypRwYNo%2526sig%253DCg0ArKJSzCRUfUi76sOHEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_DesktopBillboard%26utm_content%3DHisteria1111_10Nov
+              - img "Banner" [ref=f26e4]
+        - generic [ref=f14e165]:
+          - generic:
+            - complementary
+          - generic:
+            - complementary
+          - generic [ref=f14e166]:
+            - navigation [ref=f14e167]:
+              - list [ref=f14e168]:
+                - listitem [ref=f14e169]:
+                  - link "Beranda" [ref=f14e170] [cursor=pointer]:
+                    - /url: /
+                  - img "chevron-next" [ref=f14e171]
+                - listitem [ref=f14e172]:
+                  - link "News" [ref=f14e173] [cursor=pointer]:
+                    - /url: /channel/news
+            - article [ref=f14e174]:
+              - generic "column wrapper" [ref=f14e175]:
+                - 'heading "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?" [level=1] [ref=f14e176]'
+                - generic [ref=f14e177]:
+                  - generic [ref=f14e178]:
+                    - generic [ref=f14e179]:
+                      - link "author" [ref=f14e180] [cursor=pointer]:
+                        - /url: /kumparannews
+                        - paragraph [ref=f14e181]:
+                          - generic [ref=f14e182]: kumparanNEWS
+                          - img "verified" [ref=f14e183]
+                      - paragraph [ref=f14e185]:
+                        - time [ref=f14e186]: 6 November 2026 13:24 WIB
+                        - generic [ref=f14e187]: ·
+                        - generic [ref=f14e188]: waktu baca 1 menit
+                    - generic [ref=f14e189]:
+                      - link "google add preference button" [ref=f14e190] [cursor=pointer]:
+                        - /url: https://www.google.com/preferences/source?q=kumparan.com
+                        - generic [ref=f14e191]:
+                          - img "google" [ref=f14e193]
+                          - generic [ref=f14e194]: Ikuti kumparan di Google
+                      - img "info" [ref=f14e198]
+                  - generic [ref=f14e200]:
+                    - generic [ref=f14e202]:
+                      - button "like 2" [ref=f14e203] [cursor=pointer]:
+                        - generic [ref=f14e204]:
+                          - img "like" [ref=f14e206]
+                          - generic [ref=f14e207]: "2"
+                      - link "comment 10" [ref=f14e209] [cursor=pointer]:
+                        - /url: /kumparannews/response/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                        - generic [ref=f14e210]:
+                          - img "comment" [ref=f14e212]
+                          - generic [ref=f14e213]: "10"
+                    - generic [ref=f14e215]:
+                      - img "sosmed-whatsapp-white" [ref=f14e217] [cursor=pointer]
+                      - img "copy-circle" [ref=f14e219] [cursor=pointer]
+                      - img "more-vertical" [ref=f14e221] [cursor=pointer]
+              - main [ref=f14e222]:
+                - 'figure "Presiden ke-7 RI Joko Widodo di Pengadilan Negeri Jakarta Timur, sebagai saksi pada sidang lanjutan perkara dugaan fitnah dan pencemaran nama baik terkait tuduhan ijazah palsu dengan terdakwa Roy Suryo dan dr. Tifa di Jakarta, Kamis (5/11/2026). Foto: Aditia Noviansyah/kumparan" [ref=f14e223]':
+                  - generic [ref=f14e227] [cursor=pointer]:
+                    - 'img "Presiden ke-7 RI Joko Widodo di Pengadilan Negeri Jakarta Timur, sebagai saksi pada sidang lanjutan perkara dugaan fitnah dan pencemaran nama baik terkait tuduhan ijazah palsu dengan terdakwa Roy Suryo dan dr. Tifa di Jakarta, Kamis (5/11/2026). Foto: Aditia Noviansyah/kumparan" [ref=f14e228]'
+                    - generic [ref=f14e229]:
+                      - img "zoom-in-white" [ref=f14e230]
+                      - generic [ref=f14e231]: Perbesar
+                - complementary [ref=f14e233]:
+                  - complementary [ref=f14e234]:
+                    - generic [ref=f14e235]: ADVERTISEMENT
+                - paragraph [ref=f14e238]: Presiden ke-7 RI Joko Widodo (Jokowi) mengaku mengalami nama baik dan reputasinya tercemar akibat tudingan ijazah palsu yang ditujukan kepadanya. Hal itu disampaikan Jokowi saat memberikan keterangan dalam persidangan kasus dugaan ijazah palsu di Pengadilan Negeri Jakarta Timur, Kamis (6/11).
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f14e239]:
+                  - complementary [ref=f14e240]:
+                    - generic [ref=f14e241]: ADVERTISEMENT
+                - paragraph [ref=f14e244]: Ketika ditanya jaksa mengenai kerugian yang dialaminya akibat perbuatan terdakwa, Jokowi menyebut dirinya merasa dihina dan direndahkan.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f14e245]: "\"Kerugian immaterial, Yang Mulia. Kerugian immaterial karena tercemarnya nama baik saya dan juga ee keluarga saya, dan kemudian saya juga merasa telah dihina, direndahkan dengan amat sangat,\" kata Jokowi."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - paragraph [ref=f14e246]: Jokowi menyebut tuduhan tersebut berdampak terhadap reputasi dan kepercayaan publik terhadap dirinya.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f14e247]: Ia mengungkapkan, berdasarkan survei terakhir yang diingatnya, terdapat 18 persen masyarakat Indonesia yang percaya terhadap tuduhan ijazah palsu tersebut.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f14e248]: "\"Karena kalau kita lihat dari survei terakhir, seingat saya 18% masyarakat Indonesia percaya terhadap tuduhan ijazah palsu ini, Yang Mulia. 18% itu kalau dikonversi ke orang itu kurang lebih 34 juta orang percaya mengenai tuduhan ijazah palsu ini, Yang Mulia,\" ujarnya."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f14e249]:
+                  - complementary [ref=f14e250]:
+                    - generic [ref=f14e251]: ADVERTISEMENT
+                - paragraph [ref=f14e254]:
+                  - text: Lantas, apakah kamu salah satu orang yang percaya ijazah Jokowi palsu? Sampaikan jawaban kamu dalam polling
+                  - strong [ref=f14e255]: kumparan
+                  - text: di bawah ini.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - complementary
+                - generic [ref=f14e256]:
+                  - 'heading "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?" [level=2] [ref=f14e257]'
+                  - 'group "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?" [ref=f14e259]':
+                    - button "Iya" [ref=f14e261] [cursor=pointer]
+                    - button "Enggak, ijazahnya pasti asli" [ref=f14e265] [cursor=pointer]
+                  - paragraph [ref=f14e269]: 694 Pemilih · 3 hari
+              - generic [ref=f14e270]:
+                - navigation [ref=f14e271]:
+                  - list [ref=f14e272]:
+                    - listitem [ref=f14e273]:
+                      - link "Jokowi" [ref=f14e274] [cursor=pointer]:
+                        - /url: /topic/jokowi
+                    - listitem [ref=f14e278]:
+                      - link "polling" [ref=f14e279] [cursor=pointer]:
+                        - /url: /topic/polling
+                    - listitem [ref=f14e283]:
+                      - link "Polling kumparan" [ref=f14e284] [cursor=pointer]:
+                        - /url: /topic/polling-kumparan
+                    - listitem [ref=f14e288]:
+                      - link "Ijazah Palsu" [ref=f14e289] [cursor=pointer]:
+                        - /url: /topic/ijazah-palsu
+                    - listitem [ref=f14e293]:
+                      - link "Isu Ijazah Palsu Jokowi" [ref=f14e294] [cursor=pointer]:
+                        - /url: /topic/isu-ijazah-palsu-jokowi
+                - navigation [ref=f14e298]:
+                  - list [ref=f14e299]:
+                    - listitem [ref=f14e300]:
+                      - link "Informasi Redaksi" [ref=f14e301] [cursor=pointer]:
+                        - /url: /kumparannews/organisation-info
+                    - listitem [ref=f14e302]: ·
+                    - listitem [ref=f14e303]:
+                      - link "Laporkan tulisan" [ref=f14e304] [cursor=pointer]:
+                        - /url: /report/story/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                - region "editor section" [ref=f14e305]:
+                  - generic [ref=f14e306] [cursor=pointer]:
+                    - heading "Editor Section" [level=2] [ref=f14e307]
+                    - generic [ref=f14e309]:
+                      - img "editor-avatar-0" [ref=f14e313]
+                      - img "editor-avatar-1" [ref=f14e317]
+                      - img "editor-avatar-2" [ref=f14e321]
+                    - button "drop-down Tim Editor" [ref=f14e323]:
+                      - generic [ref=f14e324]:
+                        - img "drop-down" [ref=f14e326]
+                        - generic [ref=f14e327]: Tim Editor
+          - generic [ref=f14e331]:
+            - complementary [ref=f14e332]:
+              - iframe [ref=f14e336]:
+                - link [ref=f25e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstGRcZb2YqBsQKX2CwSjIBnnSs4ILQWAOuuWml12cwL8b3b9y8njWLnKoVMQRBRGR2LLOxKN1KrY859aIza2d56MzXv_85l1tczHZ2at1HvRmOcRisS-B5IfBQu9lsvg40FiFEQovbS4Fq-LHKVhKGq9UsmHa-6lfTON4EKArLHRHqkdJ-WS7mji4uXbLqHF9CYaZZjy4tle5cowDvTEtj1-2QnFFsaqNFvopRjdncV9F8tU5-N0Mv2DdjKLqoBLMMykE1nBgQH23ztQFOtgGGB_Hm7umZ0oA_SSag4g1lhMGLLi8J7dKv1FG5p9_jiMyCwNtD3VUzVGbckr7DuIYbkwOBl-_yKesa6ye3kPfz6osdh8kETSdwhoKHIbO6WMuR7n7t4JQ_1KdSld6hge_uZHeRvs-WOjk5Sh-ncJWBLgA%2526sai%253DAMfl-YR-9LHV2FcSYHKDDcP7Y6QsAsso62oATpy38lp8pfsjzoGi_xtQVRXJYuL91cmoo3WHKg6johw87RZchhVHsYWfrIIcuPH-TmA3BT80j1EWkey-ejoKYQLgVWIii1ZLeN0HJcfy6vPcZY024IrOMjQ_wvIqkkFKQcdZPhIFrCwMYWT9fUrWfOvh87ZUTKugpXHW0gFpCRMncqsFEvFhcHmEjBLmgPq01Di-YIsWUmbe_Ht4V5Eo5iOoAeC-AuVfOk3aQMTfE3XgbwNvFjPCtcmjwsewIVGpoP7rTq45vbkzMbT1-oe5yg2CQ_PHNjksQ09Vj8GsjCpBuwLOZEk8wl7mL7ZAAczweReV-jt9KrapwJBUv7UMtlcn%2526sig%253DCg0ArKJSzD3AKRKaC5jxEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://chat.whatsapp.com/FRbO4kXdv0r2349A68Us8Q
+                  - img "Banner" [ref=f25e4]
+            - complementary [ref=f14e337]:
+              - iframe [ref=f14e341]:
+                - link [ref=f24e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsviWD1B4nWWWMM4MWtGnoaBsap543gsXcpnqZjIBmc8ExllNdxPXasojYV1CFYIW_I9LMNzKgpSjflMZlBqaul-wHYMRYHO2MaxRKkF35bu0PvUM_1Ac4lAlEXvtViYL_jRAAORec5sj_CcYt45duNGGdCW5rn4lo5zCEU0_f-3PRSZdsY6UuXq8NoCZsBbZEbrgpR1kcUyAvBYx1V65Q_x3jwdIABCrLAh1oRjeGa01oXEKISZ-o0OmPMS4SVhmecxEAP0N7Cp59aOLYBljmU3g8MiJT25uHSGXqmfDfGch6Y6R0xGsrkhgUercV8IIvwB5cZYybTDxl9PBiCl6dzP4DRbNeoahxIoDzPYDE253TdszOWunKVOSUoq4hkA990XuNC2e2Svh_G8AYbo8GciNXVbW5X1knM5chYoaRdHtQ%2526sai%253DAMfl-YSZFWi_in12CinjHzWFBv_s6EuFbtUWgwGpo05nB168S0YyeTQ6arREdVqNhseRofjWieZbX8UDk1VkGqk4Ju91nrVU1xHsyaomb96MfhdkMWxTsBeSUnchevTsuXkixsAGZMMZ0YQhLnOOPeylOUtX8lO-QW8qlRmsAWpdPkQF1ZSf9WKT02bIxtJAJu5Uql67dspHEMj8r4v7FvGOGBq9-5edPDVNn6q3qouCl_NfxtzEQlr5x5uDEUNvxESJMuNUyn92LDaRPkO8qKfqmLab1XQcJYHBYha7jCPWtgTLBRPvPN7csYmpsvkrg3ORO8RHzemMJCHDqejgo6_M_bLYs-nnabuWCo34C0xGYR8M_SlT7CZk7kS9%2526sig%253DCg0ArKJSzAmrkRGfmsrKEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.instagram.com/kumparanoto.id/
+                  - img "Banner" [ref=f24e4]

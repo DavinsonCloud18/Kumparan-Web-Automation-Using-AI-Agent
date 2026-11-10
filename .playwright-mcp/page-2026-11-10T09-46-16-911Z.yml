@@ -1,0 +1,261 @@
+- generic [active] [ref=f43e1]:
+  - complementary [ref=f43e2]:
+    - iframe [ref=f43e3]:
+      - link [ref=f50e4] [cursor=pointer]:
+        - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvA9MCb4Kpws9pT2CFa0oueVyu-boIaDcyTmecsX1qs-bUKyiMsKBHOf9fvKKUTFDtP2zkU7UuMshnpXvDFVcsNxagN_6K3JaB-3WKq0lDmZpsdIj2D6xVQ255XRk79RGRmbhiHndZVgprZae5Fx9rhhd5TmiZrJ8rEL0oIWQC2y2LORV6kfzWsVoiyQ-vixMUoRs1Tx6H07099qPClfzzwBE3uDRxsT9xdofjBAhhaAzGxTpP-BnqI5OcT2jz2AYFmajnQmF1hLV_lJ2wPzc36QNAGxWVLxGFv2Ezv7eZA9t-J7sO25kFBxjo9h9ZC6onTpQmALxnprbl6sYJkBK3E4TnCcdGk4RevnlYOIcbUDYiIGQjYI4AQcu5Hsn5uA8tfowQP945Fh5i9jcSl7A1t4JgGiNMWFlgknzP8knD-rA&sai=AMfl-YRWHd2EIewUNUPs9IFpmJ4psuLuJSgwHVDhIhPY5oQT1uA6zTkYMqHnZUAWWjyLJ80EXPPQo8Qlfzr7MiUHXXBrFNKcdIO0KIbreNLBKci7ETdBnpxdxXjy5dg7-y2Gr_MGeIn16lhZtJTrAPhntVOJST7xGqVDCcRTlIkHbBaAoIQJZDzMMwUeKXSWaWUD3zubSxa17DyyQZ_lGZwIjzZpgVA1oPU_RYCg_ccunxVC1YPR_NMzhevnfw9cJhgVJUTDNF6aGDQ3CsN_EdLznFt6UXEmybJ1fjtcAoNGVI2xnFhIhA4A1D2376dApG5ZAhFSIJ2HTQeZMaH2Ix8kp4G3fP3jI8-YF-nTWm_7Lxw8mnAVGs48pSlB&sig=Cg0ArKJSzFlftVFcU92SEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_MegaBillboard%26utm_content%3DHisteria1111_10Nov
+    - generic:
+      - generic [ref=f43e4]: TUTUP
+      - generic [ref=f43e5]: SCROLL UNTUK MELANJUTKAN MEMBACA
+  - generic [ref=f43e6]:
+    - complementary:
+      - complementary
+    - complementary:
+      - complementary
+    - complementary:
+      - generic:
+        - complementary
+    - banner [ref=f43e7]:
+      - complementary
+      - complementary
+      - generic [ref=f43e8]:
+        - button [ref=f43e11] [cursor=pointer]:
+          - img "hamburger-menu" [ref=f43e14]
+        - generic "kumparan logo" [ref=f43e15]:
+          - link [ref=f43e16] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f43e17]
+        - navigation [ref=f43e18]:
+          - list [ref=f43e19]:
+            - listitem [ref=f43e20]:
+              - link [ref=f43e21] [cursor=pointer]:
+                - /url: /search
+                - img "search" [ref=f43e24]
+            - listitem [ref=f43e25]:
+              - link [ref=f43e27] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f43e30]
+      - navigation [ref=f43e31]:
+        - list [ref=f43e32]:
+          - listitem "viewport impression tracker" [ref=f43e33]:
+            - link "Breaking News" [ref=f43e34] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem "viewport impression tracker" [ref=f43e37]:
+            - generic [ref=f43e38] [cursor=pointer]: Video Story
+          - listitem "viewport impression tracker" [ref=f43e41]:
+            - link "Audio Story" [ref=f43e42] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem "viewport impression tracker" [ref=f43e45]:
+            - link "Trending" [ref=f43e46] [cursor=pointer]:
+              - /url: /trending
+          - listitem "viewport impression tracker" [ref=f43e49]:
+            - link "News" [ref=f43e50] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f43e53]:
+            - link "Tekno" [ref=f43e54] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f43e57]:
+            - link "Bisnis" [ref=f43e58] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f43e61]:
+            - link "Otomotif" [ref=f43e62] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f43e65]:
+            - link "Entertainment" [ref=f43e66] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f43e69]:
+            - link "Food & Travel" [ref=f43e70] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f43e73]:
+            - link "Bola & Sports" [ref=f43e74] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f43e77]:
+            - link "Mom" [ref=f43e78] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f43e81]:
+            - link "Woman" [ref=f43e82] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f43e85]:
+            - link "Bolanita" [ref=f43e86] [cursor=pointer]:
+              - /url: /channel/bolanita
+    - navigation "pinned premium topic" [ref=f43e89]:
+      - list [ref=f43e90]:
+        - listitem "viewport impression tracker" [ref=f43e91]:
+          - link "Sumatera Pulih" [ref=f43e92] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem "viewport impression tracker" [ref=f43e95]:
+          - link "Green Initiative" [ref=f43e96] [cursor=pointer]:
+            - /url: /topic/green-initiative
+    - region "navigation side" [ref=f43e99]:
+      - generic [ref=f43e100]:
+        - heading "Menu" [level=2] [ref=f43e101]
+        - button [ref=f43e103] [cursor=pointer]:
+          - img "close" [ref=f43e106]
+      - navigation [ref=f43e107]:
+        - list [ref=f43e108]:
+          - listitem "viewport impression tracker" [ref=f43e109]:
+            - generic [ref=f43e111] [cursor=pointer]:
+              - img "profile" [ref=f43e114]
+              - generic [ref=f43e115]: Masuk
+          - listitem "viewport impression tracker" [ref=f43e119]:
+            - link "ic-new-kumplus-outline-black Berlangganan" [ref=f43e120] [cursor=pointer]:
+              - /url: /subscription
+              - generic [ref=f43e121]:
+                - img "ic-new-kumplus-outline-black" [ref=f43e124]
+                - generic [ref=f43e125]: Berlangganan
+          - listitem "viewport impression tracker" [ref=f43e129]:
+            - generic [ref=f43e131] [cursor=pointer]:
+              - img "moon" [ref=f43e133]
+              - generic [ref=f43e134]: Mode Gelap
+              - checkbox [ref=f43e140]
+          - listitem [ref=f43e143]
+          - listitem "viewport impression tracker" [ref=f43e145]:
+            - generic [ref=f43e147] [cursor=pointer]:
+              - img "mail" [ref=f43e149]
+              - generic [ref=f43e150]: Informasi Kerja Sama
+          - listitem [ref=f43e154]
+          - listitem "viewport impression tracker" [ref=f43e156]:
+            - link "home Beranda" [ref=f43e157] [cursor=pointer]:
+              - /url: /
+              - generic [ref=f43e158]:
+                - img "home" [ref=f43e161]
+                - generic [ref=f43e162]: Beranda
+          - listitem "viewport impression tracker" [ref=f43e166]:
+            - link "tv Video Story" [ref=f43e167] [cursor=pointer]:
+              - /url: /video-story
+              - generic [ref=f43e168]:
+                - img "tv" [ref=f43e171]
+                - generic [ref=f43e172]: Video Story
+          - listitem "viewport impression tracker" [ref=f43e176]:
+            - link "headphones Audio Story Baru" [ref=f43e177] [cursor=pointer]:
+              - /url: /audio-story
+              - generic [ref=f43e178]:
+                - img "headphones" [ref=f43e181]
+                - generic [ref=f43e182]: Audio Story
+                - generic [ref=f43e186]: Baru
+          - listitem "viewport impression tracker" [ref=f43e189]:
+            - link "tag Sumatera Pulih" [ref=f43e190] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+              - generic [ref=f43e191]:
+                - img "tag" [ref=f43e194]
+                - generic [ref=f43e195]: Sumatera Pulih
+          - listitem "viewport impression tracker" [ref=f43e199]:
+            - link "tag Green Initiative" [ref=f43e200] [cursor=pointer]:
+              - /url: /topic/green-initiative
+              - generic [ref=f43e201]:
+                - img "tag" [ref=f43e204]
+                - generic [ref=f43e205]: Green Initiative
+          - listitem "viewport impression tracker" [ref=f43e209]:
+            - link "trending Trending" [ref=f43e210] [cursor=pointer]:
+              - /url: /trending
+              - generic [ref=f43e211]:
+                - img "trending" [ref=f43e214]
+                - generic [ref=f43e215]: Trending
+          - listitem "viewport impression tracker" [ref=f43e219]:
+            - link "map-pin Kabar Daerah" [ref=f43e220] [cursor=pointer]:
+              - /url: /kabar-daerah
+              - generic [ref=f43e221]:
+                - img "map-pin" [ref=f43e224]
+                - generic [ref=f43e225]: Kabar Daerah
+          - listitem "viewport impression tracker" [ref=f43e229]:
+            - link "camera Galeri Foto" [ref=f43e230] [cursor=pointer]:
+              - /url: /topic/galeri-foto
+              - generic [ref=f43e231]:
+                - img "camera" [ref=f43e234]
+                - generic [ref=f43e235]: Galeri Foto
+          - listitem "viewport impression tracker" [ref=f43e239]:
+            - link "edit-line Opini & Cerita" [ref=f43e240] [cursor=pointer]:
+              - /url: /opini-cerita
+              - generic [ref=f43e241]:
+                - img "edit-line" [ref=f43e244]
+                - generic [ref=f43e245]: Opini & Cerita
+          - listitem "viewport impression tracker" [ref=f43e249]:
+            - link "bullet-list Peringkat Penulis" [ref=f43e250] [cursor=pointer]:
+              - /url: /user-campaign
+              - generic [ref=f43e251]:
+                - img "bullet-list" [ref=f43e254]
+                - generic [ref=f43e255]: Peringkat Penulis
+          - listitem [ref=f43e259]
+          - listitem "viewport impression tracker" [ref=f43e261]:
+            - link "News" [ref=f43e262] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f43e268]:
+            - link "Entertainment" [ref=f43e269] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f43e275]:
+            - link "Mom" [ref=f43e276] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f43e282]:
+            - link "Food & Travel" [ref=f43e283] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f43e289]:
+            - link "Tekno" [ref=f43e290] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f43e296]:
+            - link "Otomotif" [ref=f43e297] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f43e303]:
+            - link "Woman" [ref=f43e304] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f43e310]:
+            - link "Bola & Sports" [ref=f43e311] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f43e317]:
+            - link "Bisnis" [ref=f43e318] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f43e324]:
+            - link "Bolanita" [ref=f43e325] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - listitem [ref=f43e331]
+          - listitem "viewport impression tracker" [ref=f43e333]:
+            - generic [ref=f43e334] [cursor=pointer]: Cara Menulis di kumparan
+          - listitem "viewport impression tracker" [ref=f43e340]:
+            - generic [ref=f43e342] [cursor=pointer]:
+              - generic [ref=f43e343]: Tentang kumparan
+              - img "chevron-down" [ref=f43e348]
+          - listitem [ref=f43e349]
+          - listitem [ref=f43e351]:
+            - link "sosmed-instagram Instagram" [ref=f43e352] [cursor=pointer]:
+              - /url: https://www.instagram.com/kumparancom/
+              - generic [ref=f43e353]:
+                - img "sosmed-instagram" [ref=f43e356]
+                - generic [ref=f43e357]: Instagram
+          - listitem [ref=f43e361]:
+            - link "sosmed-facebook Facebook" [ref=f43e362] [cursor=pointer]:
+              - /url: https://www.facebook.com/kumparancom
+              - generic [ref=f43e363]:
+                - img "sosmed-facebook" [ref=f43e366]
+                - generic [ref=f43e367]: Facebook
+          - listitem [ref=f43e371]:
+            - link "sosmed-tiktok Tiktok" [ref=f43e372] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@kumparan
+              - generic [ref=f43e373]:
+                - img "sosmed-tiktok" [ref=f43e376]
+                - generic [ref=f43e377]: Tiktok
+          - listitem [ref=f43e381]:
+            - link "sosmed-youtube Youtube" [ref=f43e382] [cursor=pointer]:
+              - /url: https://www.youtube.com/kumparan
+              - generic [ref=f43e383]:
+                - img "sosmed-youtube" [ref=f43e386]
+                - generic [ref=f43e387]: Youtube
+          - listitem [ref=f43e391]:
+            - link "sosmed-whatsapp Whatsapp" [ref=f43e392] [cursor=pointer]:
+              - /url: https://www.whatsapp.com/channel/0029VaG5fW9EquiTFt1ZjN1r
+              - generic [ref=f43e393]:
+                - img "sosmed-whatsapp" [ref=f43e396]
+                - generic [ref=f43e397]: Whatsapp
+          - listitem [ref=f43e401]:
+            - link "sosmed-x X" [ref=f43e402] [cursor=pointer]:
+              - /url: https://x.com/kumparan
+              - generic [ref=f43e403]:
+                - img "sosmed-x" [ref=f43e406]
+                - generic [ref=f43e407]: X
+          - listitem [ref=f43e411]
+      - generic "footer" [ref=f43e413]:
+        - generic "copyright" [ref=f43e414]: 2026 © PT Dynamo Media Network
+        - generic "App Version 1.137.2" [ref=f43e415]: Version 1.137.2
+    - main [ref=f43e416]:
+      - generic [ref=f43e418]:
+        - generic [ref=f43e422]: Maaf, halaman tidak ditemukan
+        - generic [ref=f43e424]: Tapi tenang, masih banyak konten menarik lainnya
+        - link "Lihat konten lain" [ref=f43e427] [cursor=pointer]:
+          - /url: /

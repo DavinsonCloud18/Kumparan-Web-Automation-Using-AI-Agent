@@ -2,6 +2,9 @@ import { type Page, type Locator } from '@playwright/test';
 
 export class SearchPage {
   readonly page: Page;
+  readonly searchInput: Locator;
+  readonly clearButton: Locator;
+  readonly clearIcon: Locator;
   readonly pageTitle: Locator;
   readonly tabStory: Locator;
   readonly tabVideoStory: Locator;
@@ -17,6 +20,9 @@ export class SearchPage {
 
   constructor(page: Page) {
     this.page = page;
+    this.searchInput = page.locator('input[data-qa-id="input-search"]');
+    this.clearButton = page.locator('[data-qa-id="right-add-on"] button');
+    this.clearIcon = page.locator('img[data-qa-id="x-circle"]');
     this.pageTitle = page.locator('h1[data-qa-id="page-title"]');
     this.tabStory = page.locator('[data-qa-id="tab-story"]');
     this.tabVideoStory = page.locator('[data-qa-id="tab-video-story"]');
@@ -31,8 +37,26 @@ export class SearchPage {
     this.popularSearchSection = page.locator('[data-qa-id="popular-search-section"]');
   }
 
+  async goto(): Promise<void> {
+    await this.page.goto('https://kumparan.com/search', {
+      waitUntil: 'domcontentloaded',
+    });
+  }
+
+  async fillSearch(query: string): Promise<void> {
+    await this.searchInput.fill(query);
+  }
+
+  async submitSearch(query: string): Promise<void> {
+    await this.fillSearch(query);
+    await this.searchInput.press('Enter');
+  }
+
+  async clickClear(): Promise<void> {
+    await this.clearIcon.click();
+  }
+
   getFirstResultCard(): Locator {
     return this.resultCards.first();
   }
 }
-

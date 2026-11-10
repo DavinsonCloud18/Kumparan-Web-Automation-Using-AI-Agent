@@ -1,0 +1,457 @@
+- generic [ref=e1]:
+  - complementary [ref=e2]:
+    - iframe [ref=e3]:
+      - link [ref=f16e4] [cursor=pointer]:
+        - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstWitHtemFbPASdoNKwbTp613xGXtLmNYl74ASRiV8ye4prm_I4RO2zw320yYkbpBgfxxM2yL-EZJTvuAnAxAjFl6aIT_OHtVQINHhN4F69Tm8wTp0aA_i4t-YuVaZGo4LaZVhuArAYcasmv9gmcSgt1M3nubOH8NgIY2OlIRSwCkA8551MBJln6WQSogzaoCkw1utRQw245LbfX6A5SPRkwDXYezxyMAU9rMjpfNRULHNNRpuE4381lYrlZNT3u4_F-yGe39CpI_tGGkBDwbH5GqEFTxERAIx0_h2CFairJIa7CsEHGcB3wYLVmGzra6zfVJkzaaXDnPAzqPPMmHsd5esP5lONvK9CqKw6ccnG5ysIro68OHOzQ6Lxw3srsV0IwKO5xraqsvnEUXSAoTqpiPfoeSWEx0a7I-o6B0Gg0g&sai=AMfl-YR-qLjCDdj_4Xu43Yoe78U5DYBzojyZNeFoSu5lTB7gQ6WBCPgxp5Sv6idIXpEnuVvQZ-1LDewNC52psqJH5G2ojAKq9BrMzyh18ASdIgDm4teiB4zQ8Cprz4UXrhiavc5Uq3yqmM7n54xAJG7nnMp1MqsNlUS_cn8a48OYu3kELfiPRJh7gI2MVfvkaEIGMX7oVHzBeo3rXMz_btCFm5eauG4MVoRz7-ZuaHZZhFgty6o35HjVa8Ta9pglScFmryZteGXpz7G6EPgLSmbTfknhgzv-uB_68i3O1ZF-1alliPUtpCRTG_BDb_wTlkektaTBN_2pPZZnMEhsR9dP_W5RpaL9mwYa30JIQTQSc287lpxPsS5Mfv5B&sig=Cg0ArKJSzKXm1h2x21okEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_MegaBillboard%26utm_content%3DHisteria1111_10Nov
+    - generic:
+      - generic [ref=e4]: TUTUP
+      - generic [ref=e5]: SCROLL UNTUK MELANJUTKAN MEMBACA
+  - generic [ref=e6]:
+    - complementary:
+      - complementary
+    - complementary:
+      - complementary
+    - complementary:
+      - generic:
+        - complementary
+    - banner [ref=e7]:
+      - complementary
+      - complementary
+      - generic [ref=e8]:
+        - button [ref=e11] [cursor=pointer]:
+          - img "hamburger-menu" [ref=e14]
+        - generic "kumparan logo" [ref=e15]:
+          - link [ref=e16] [cursor=pointer]:
+            - /url: /channel/tekno
+            - img "Kumparan Logo" [ref=e17]
+        - navigation [ref=e18]:
+          - list [ref=e19]:
+            - listitem [ref=e20]:
+              - link [ref=e21] [cursor=pointer]:
+                - /url: /search
+                - img "search" [ref=e24]
+            - listitem [ref=e25]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=e30]
+      - navigation [ref=e31]:
+        - list [ref=e32]:
+          - listitem "viewport impression tracker" [ref=e33]:
+            - link "Breaking News" [ref=e34] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem "viewport impression tracker" [ref=e37]:
+            - generic [ref=e38] [cursor=pointer]: Video Story
+          - listitem "viewport impression tracker" [ref=e41]:
+            - link "Audio Story" [ref=e42] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem "viewport impression tracker" [ref=e45]:
+            - link "Trending" [ref=e46] [cursor=pointer]:
+              - /url: /trending
+          - listitem "viewport impression tracker" [ref=e49]:
+            - link "News" [ref=e50] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=e53]:
+            - link "Tekno" [active] [ref=e54] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=e57]:
+            - link "Bisnis" [ref=e58] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=e61]:
+            - link "Otomotif" [ref=e62] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=e65]:
+            - link "Entertainment" [ref=e66] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=e69]:
+            - link "Food & Travel" [ref=e70] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=e73]:
+            - link "Bola & Sports" [ref=e74] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=e77]:
+            - link "Mom" [ref=e78] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=e81]:
+            - link "Woman" [ref=e82] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=e85]:
+            - link "Bolanita" [ref=e86] [cursor=pointer]:
+              - /url: /channel/bolanita
+    - navigation "pinned premium topic" [ref=e89]:
+      - list [ref=e90]:
+        - listitem "viewport impression tracker" [ref=e91]:
+          - link "Sumatera Pulih" [ref=e92] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem "viewport impression tracker" [ref=e95]:
+          - link "Green Initiative" [ref=e96] [cursor=pointer]:
+            - /url: /topic/green-initiative
+    - region "navigation side" [ref=e99]:
+      - generic [ref=e100]:
+        - heading "Menu" [level=2] [ref=e101]
+        - button [ref=e103] [cursor=pointer]:
+          - img "close" [ref=e106]
+      - navigation [ref=e107]:
+        - list [ref=e108]:
+          - listitem "viewport impression tracker" [ref=e109]:
+            - generic [ref=e111] [cursor=pointer]:
+              - img "profile" [ref=e114]
+              - generic [ref=e115]: Masuk
+          - listitem "viewport impression tracker" [ref=e119]:
+            - link "ic-new-kumplus-outline-black Berlangganan" [ref=e120] [cursor=pointer]:
+              - /url: /subscription
+              - generic [ref=e121]:
+                - img "ic-new-kumplus-outline-black" [ref=e124]
+                - generic [ref=e125]: Berlangganan
+          - listitem "viewport impression tracker" [ref=e129]:
+            - generic [ref=e131] [cursor=pointer]:
+              - img "moon" [ref=e133]
+              - generic [ref=e134]: Mode Gelap
+              - checkbox [ref=e140]
+          - listitem [ref=e143]
+          - listitem "viewport impression tracker" [ref=e145]:
+            - generic [ref=e147] [cursor=pointer]:
+              - img "mail" [ref=e149]
+              - generic [ref=e150]: Informasi Kerja Sama
+          - listitem [ref=e154]
+          - listitem "viewport impression tracker" [ref=e156]:
+            - link "home Beranda" [ref=e157] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e158]:
+                - img "home" [ref=e161]
+                - generic [ref=e162]: Beranda
+          - listitem "viewport impression tracker" [ref=e166]:
+            - link "tv Video Story" [ref=e167] [cursor=pointer]:
+              - /url: /video-story
+              - generic [ref=e168]:
+                - img "tv" [ref=e171]
+                - generic [ref=e172]: Video Story
+          - listitem "viewport impression tracker" [ref=e176]:
+            - link "headphones Audio Story Baru" [ref=e177] [cursor=pointer]:
+              - /url: /audio-story
+              - generic [ref=e178]:
+                - img "headphones" [ref=e181]
+                - generic [ref=e182]: Audio Story
+                - generic [ref=e186]: Baru
+          - listitem "viewport impression tracker" [ref=e189]:
+            - link "tag Sumatera Pulih" [ref=e190] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+              - generic [ref=e191]:
+                - img "tag" [ref=e194]
+                - generic [ref=e195]: Sumatera Pulih
+          - listitem "viewport impression tracker" [ref=e199]:
+            - link "tag Green Initiative" [ref=e200] [cursor=pointer]:
+              - /url: /topic/green-initiative
+              - generic [ref=e201]:
+                - img "tag" [ref=e204]
+                - generic [ref=e205]: Green Initiative
+          - listitem "viewport impression tracker" [ref=e209]:
+            - link "trending Trending" [ref=e210] [cursor=pointer]:
+              - /url: /trending
+              - generic [ref=e211]:
+                - img "trending" [ref=e214]
+                - generic [ref=e215]: Trending
+          - listitem "viewport impression tracker" [ref=e219]:
+            - link "map-pin Kabar Daerah" [ref=e220] [cursor=pointer]:
+              - /url: /kabar-daerah
+              - generic [ref=e221]:
+                - img "map-pin" [ref=e224]
+                - generic [ref=e225]: Kabar Daerah
+          - listitem "viewport impression tracker" [ref=e229]:
+            - link "camera Galeri Foto" [ref=e230] [cursor=pointer]:
+              - /url: /topic/galeri-foto
+              - generic [ref=e231]:
+                - img "camera" [ref=e234]
+                - generic [ref=e235]: Galeri Foto
+          - listitem "viewport impression tracker" [ref=e239]:
+            - link "edit-line Opini & Cerita" [ref=e240] [cursor=pointer]:
+              - /url: /opini-cerita
+              - generic [ref=e241]:
+                - img "edit-line" [ref=e244]
+                - generic [ref=e245]: Opini & Cerita
+          - listitem "viewport impression tracker" [ref=e249]:
+            - link "bullet-list Peringkat Penulis" [ref=e250] [cursor=pointer]:
+              - /url: /user-campaign
+              - generic [ref=e251]:
+                - img "bullet-list" [ref=e254]
+                - generic [ref=e255]: Peringkat Penulis
+          - listitem [ref=e259]
+          - listitem "viewport impression tracker" [ref=e261]:
+            - link "News" [ref=e262] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=e268]:
+            - link "Entertainment" [ref=e269] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=e275]:
+            - link "Mom" [ref=e276] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=e282]:
+            - link "Food & Travel" [ref=e283] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=e289]:
+            - link "Tekno" [ref=e290] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=e296]:
+            - link "Otomotif" [ref=e297] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=e303]:
+            - link "Woman" [ref=e304] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=e310]:
+            - link "Bola & Sports" [ref=e311] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=e317]:
+            - link "Bisnis" [ref=e318] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=e324]:
+            - link "Bolanita" [ref=e325] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - listitem [ref=e331]
+          - listitem "viewport impression tracker" [ref=e333]:
+            - generic [ref=e334] [cursor=pointer]: Cara Menulis di kumparan
+          - listitem "viewport impression tracker" [ref=e340]:
+            - generic [ref=e342] [cursor=pointer]:
+              - generic [ref=e343]: Tentang kumparan
+              - img "chevron-down" [ref=e348]
+          - listitem [ref=e349]
+          - listitem [ref=e351]:
+            - link "sosmed-instagram Instagram" [ref=e352] [cursor=pointer]:
+              - /url: https://www.instagram.com/kumparancom/
+              - generic [ref=e353]:
+                - img "sosmed-instagram" [ref=e356]
+                - generic [ref=e357]: Instagram
+          - listitem [ref=e361]:
+            - link "sosmed-facebook Facebook" [ref=e362] [cursor=pointer]:
+              - /url: https://www.facebook.com/kumparancom
+              - generic [ref=e363]:
+                - img "sosmed-facebook" [ref=e366]
+                - generic [ref=e367]: Facebook
+          - listitem [ref=e371]:
+            - link "sosmed-tiktok Tiktok" [ref=e372] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@kumparan
+              - generic [ref=e373]:
+                - img "sosmed-tiktok" [ref=e376]
+                - generic [ref=e377]: Tiktok
+          - listitem [ref=e381]:
+            - link "sosmed-youtube Youtube" [ref=e382] [cursor=pointer]:
+              - /url: https://www.youtube.com/kumparan
+              - generic [ref=e383]:
+                - img "sosmed-youtube" [ref=e386]
+                - generic [ref=e387]: Youtube
+          - listitem [ref=e391]:
+            - link "sosmed-whatsapp Whatsapp" [ref=e392] [cursor=pointer]:
+              - /url: https://www.whatsapp.com/channel/0029VaG5fW9EquiTFt1ZjN1r
+              - generic [ref=e393]:
+                - img "sosmed-whatsapp" [ref=e396]
+                - generic [ref=e397]: Whatsapp
+          - listitem [ref=e401]:
+            - link "sosmed-x X" [ref=e402] [cursor=pointer]:
+              - /url: https://x.com/kumparan
+              - generic [ref=e403]:
+                - img "sosmed-x" [ref=e406]
+                - generic [ref=e407]: X
+          - listitem [ref=e411]
+      - generic "footer" [ref=e413]:
+        - generic "copyright" [ref=e414]: 2026 © PT Dynamo Media Network
+        - generic "App Version 1.137.2" [ref=e415]: Version 1.137.2
+    - main [ref=e416]:
+      - generic [ref=e417]:
+        - complementary [ref=e420]:
+          - iframe [ref=e424]:
+            - link [ref=f17e3] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstz6_lulW1tqQoxB6BRs3CeBFHv4ZQSFERi5O053folxkUCSsFlnVpmOrh2jeVsjcVyEi1I_dkWOmfM8ACW9HAWgi2a8K3hkz824UzBAwB6jrKxJKu4x9CizYd3X6r41nudJ_kPTAHJujrC-RsR0ZTENxmsbl4Q-g7VXQiBXPatrk_sCQEln0rJblSXbrNGMmfcT_ydJNmkdz7E3UB3lp9Y6oA8pwySYQ77zOOZAjVLO833rEheeJUr8S6eznDfwFlGd1s-dGwh_NyscpNVhPL3GkPHIVn6TSK9-XuhJdjj0our4KyqAQyp8z5LNboENtxEI6N0XdRBb2V1c3wnUl4kCHJLeLb8jhNWDWV781xdVb_0NWckY96Nu5fprDk0zT0pWEk9ffyvCQWKtdfvBSyw5mRqGdIzIR3oMruc%2526sai%253DAMfl-YQVgE16iFYeDb_-w7zZUGLpjr1mvAySs3oVdGamgyRVfK1sivYzQ8MonaQ5R6dQGZJFWXI6ZcFXdrYEii_xYxwbFtKz9hb0bkOeQ-dDmbG3pDSS0zaCPZxDJ6U9Z-zIoT92g4Oc2dQ79L_yfkEKe-iRiMsuZVg5i_nLP03iIUMKlqtYkuvPp6k5adlpLvi7avnbMLs9OgvrZ1_o1HlaYYNTI2fIN9fdvAWvQJLu4Yb3igjbZF0V-2vxjm-JqyMPMyRWtaR9oPn1YF33L0Ly_4O9kjI2lEzDyXf3SFIZkgJvc3FmPEBOqxqQcVjwRctLWvVcvz4h8DkvlwCrP571Lpa2euZPESrkSTTD-MRQdokNflTnanxy2xlP%2526sig%253DCg0ArKJSzJ1MRIBQhKYDEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://chat.whatsapp.com/KjyEM3xxuO07pdwV13WuO5%3Fs%3Dcl%26p%3Di%26mlu%3D0%26ilr%3D4
+              - img "Banner" [ref=f17e4]
+        - generic [ref=e438]:
+          - generic [ref=e441]:
+            - generic "viewport impression tracker" [ref=e443]:
+              - generic [ref=e444]:
+                - link [ref=e445] [cursor=pointer]:
+                  - /url: /kumparantekno/mengenal-megaspeed-mitra-chip-nvidia-yang-viral-karena-skandal-jensen-huang-dan-alice-huang-28XopuOHMXB
+                  - img "Situs Megaspeed" [ref=e449]
+                - generic [ref=e451]:
+                  - link "news-card-label-link" [ref=e452] [cursor=pointer]:
+                    - /url: /kumparantekno/mengenal-megaspeed-mitra-chip-nvidia-yang-viral-karena-skandal-jensen-huang-dan-alice-huang-28XopuOHMXB
+                    - generic [ref=e453]: Mengenal Megaspeed, Mitra Chip Nvidia yang Viral karena Skandal Jensen Huang dan Alice Huang
+                    - generic [ref=e456]:
+                      - img "kumparanTEKNO" [ref=e462]
+                      - generic [ref=e464]:
+                        - generic [ref=e465]: kumparanTEKNO
+                        - img "verified-round" [ref=e469]
+                  - generic [ref=e470]: 3 jam
+            - generic:
+              - complementary
+          - generic [ref=e476]:
+            - generic "viewport impression tracker" [ref=e478]:
+              - generic [ref=e479]:
+                - link [ref=e480] [cursor=pointer]:
+                  - /url: /kumparantekno/bagaimana-nasib-jensen-huang-di-pucuk-pimpinan-nvidia-28XY3fXxND2
+                  - img "Jensen Huang" [ref=e484]
+                - generic [ref=e486]:
+                  - link "news-card-label-link" [ref=e487] [cursor=pointer]:
+                    - /url: /kumparantekno/bagaimana-nasib-jensen-huang-di-pucuk-pimpinan-nvidia-28XY3fXxND2
+                    - generic [ref=e488]: Bagaimana Nasib Jensen Huang di Pucuk Pimpinan Nvidia?
+                    - generic [ref=e491]:
+                      - img "kumparanTEKNO" [ref=e497]
+                      - generic [ref=e499]:
+                        - generic [ref=e500]: kumparanTEKNO
+                        - img "verified-round" [ref=e504]
+                  - generic [ref=e505]: 5 jam
+            - generic:
+              - complementary
+          - generic "viewport impression tracker" [ref=e512]:
+            - generic [ref=e513]:
+              - link [ref=e514] [cursor=pointer]:
+                - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                - img "Ketua dan CEO Advanced Micro Devices (AMD), Lisa Su." [ref=e518]
+              - generic [ref=e520]:
+                - link "news-card-label-link" [ref=e521] [cursor=pointer]:
+                  - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                  - generic [ref=e522]: "AMD: Jualan Cip Data Center Q3 2026 Cuan, Pendapatan Naik 97%"
+                  - generic [ref=e525]:
+                    - img "kumparanTEKNO" [ref=e531]
+                    - generic [ref=e533]:
+                      - generic [ref=e534]: kumparanTEKNO
+                      - img "verified-round" [ref=e538]
+                - generic [ref=e539]: 7 jam
+          - generic [ref=e545]:
+            - generic "viewport impression tracker" [ref=e547]:
+              - generic [ref=e548]:
+                - link [ref=e549] [cursor=pointer]:
+                  - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                  - img "Untitled Image" [ref=e553]
+                - generic [ref=e555]:
+                  - link "news-card-label-link" [ref=e556] [cursor=pointer]:
+                    - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                    - generic [ref=e557]: "Bitera Data Center: Pusat Data Kapasitas 30 MW, Tawarkan Latensi Rendah dan AI-ready"
+                    - generic [ref=e560]:
+                      - img "kumparanTEKNO" [ref=e566]
+                      - generic [ref=e568]:
+                        - generic [ref=e569]: kumparanTEKNO
+                        - img "verified-round" [ref=e573]
+                  - generic [ref=e574]: 9 Nov 2026
+            - generic:
+              - complementary
+          - generic [ref=e580]:
+            - generic "viewport impression tracker" [ref=e582]:
+              - generic [ref=e583]:
+                - link [ref=e584] [cursor=pointer]:
+                  - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                  - img "CEO Nvidia Jensen Huang" [ref=e588]
+                - generic [ref=e590]:
+                  - link "news-card-label-link" [ref=e591] [cursor=pointer]:
+                    - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                    - generic [ref=e592]: Nvidia Investigasi Perselingkuhan CEO Jensen Huang dengan Terduga Agen Intel China
+                    - generic [ref=e595]:
+                      - img "kumparanTEKNO" [ref=e601]
+                      - generic [ref=e603]:
+                        - generic [ref=e604]: kumparanTEKNO
+                        - img "verified-round" [ref=e608]
+                  - generic [ref=e609]: 9 Nov 2026
+            - generic:
+              - complementary
+        - generic [ref=e615]:
+          - generic [ref=e617]:
+            - link [ref=e618] [cursor=pointer]:
+              - /url: /trending/tekno
+              - heading "Trending di Tekno" [level=2] [ref=e619]
+            - link [ref=e621] [cursor=pointer]:
+              - /url: /trending/tekno
+              - img "arrow-right" [ref=e624]
+          - list [ref=e625]:
+            - listitem [ref=e626]:
+              - generic "viewport impression tracker" [ref=e628]:
+                - generic [ref=e629]:
+                  - generic [ref=e630]:
+                    - link "news-card-label-link" [ref=e631] [cursor=pointer]:
+                      - /url: /kumparantech/5-keunggulan-acer-swift-air-14-ai-laptop-tipis-and-ringan-dengan-bonus-menarik-28XpSiRBVGD
+                      - generic [ref=e632]: 5 Keunggulan Acer Swift Air 14 AI, Laptop Tipis & Ringan dengan Bonus Menarik
+                      - generic [ref=e635]:
+                        - img "kumparanTECH" [ref=e641]
+                        - generic [ref=e643]:
+                          - generic [ref=e644]: kumparanTECH
+                          - img "verified-round" [ref=e648]
+                    - generic [ref=e649]: 6 jam
+                  - generic [ref=e653]:
+                    - link:
+                      - /url: /kumparantech/5-keunggulan-acer-swift-air-14-ai-laptop-tipis-and-ringan-dengan-bonus-menarik-28XpSiRBVGD
+                      - generic [ref=e654] [cursor=pointer]
+            - listitem [ref=e658]:
+              - generic "viewport impression tracker" [ref=e660]:
+                - generic [ref=e661]:
+                  - generic [ref=e662]:
+                    - link "news-card-label-link" [ref=e663] [cursor=pointer]:
+                      - /url: /kumparantekno/bagaimana-nasib-jensen-huang-di-pucuk-pimpinan-nvidia-28XY3fXxND2
+                      - generic [ref=e664]: Bagaimana Nasib Jensen Huang di Pucuk Pimpinan Nvidia?
+                      - generic [ref=e667]:
+                        - img "kumparanTEKNO" [ref=e673]
+                        - generic [ref=e675]:
+                          - generic [ref=e676]: kumparanTEKNO
+                          - img "verified-round" [ref=e680]
+                    - generic [ref=e681]: 5 jam
+                  - generic [ref=e685]:
+                    - link:
+                      - /url: /kumparantekno/bagaimana-nasib-jensen-huang-di-pucuk-pimpinan-nvidia-28XY3fXxND2
+                      - generic [ref=e686] [cursor=pointer]
+            - listitem [ref=e690]:
+              - generic "viewport impression tracker" [ref=e692]:
+                - generic [ref=e693]:
+                  - generic [ref=e694]:
+                    - link "news-card-label-link" [ref=e695] [cursor=pointer]:
+                      - /url: /kumparantekno/mengenal-megaspeed-mitra-chip-nvidia-yang-viral-karena-skandal-jensen-huang-dan-alice-huang-28XopuOHMXB
+                      - generic [ref=e696]: Mengenal Megaspeed, Mitra Chip Nvidia yang Viral karena Skandal Jensen Huang dan Alice Huang
+                      - generic [ref=e699]:
+                        - img "kumparanTEKNO" [ref=e705]
+                        - generic [ref=e707]:
+                          - generic [ref=e708]: kumparanTEKNO
+                          - img "verified-round" [ref=e712]
+                    - generic [ref=e713]: 3 jam
+                  - generic [ref=e717]:
+                    - link:
+                      - /url: /kumparantekno/mengenal-megaspeed-mitra-chip-nvidia-yang-viral-karena-skandal-jensen-huang-dan-alice-huang-28XopuOHMXB
+                      - generic [ref=e718] [cursor=pointer]
+            - listitem [ref=e722]:
+              - generic "viewport impression tracker" [ref=e724]:
+                - generic [ref=e725]:
+                  - generic [ref=e726]:
+                    - link "news-card-label-link" [ref=e727] [cursor=pointer]:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=e728]: "AMD: Jualan Cip Data Center Q3 2026 Cuan, Pendapatan Naik 97%"
+                      - generic [ref=e731]:
+                        - img "kumparanTEKNO" [ref=e737]
+                        - generic [ref=e739]:
+                          - generic [ref=e740]: kumparanTEKNO
+                          - img "verified-round" [ref=e744]
+                    - generic [ref=e745]: 7 jam
+                  - generic [ref=e749]:
+                    - link:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=e750] [cursor=pointer]
+            - listitem [ref=e754]:
+              - generic "viewport impression tracker" [ref=e756]:
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - link "news-card-label-link" [ref=e759] [cursor=pointer]:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=e760]: "Bitera Data Center: Pusat Data Kapasitas 30 MW, Tawarkan Latensi Rendah dan AI-ready"
+                      - generic [ref=e763]:
+                        - img "kumparanTEKNO" [ref=e769]
+                        - generic [ref=e771]:
+                          - generic [ref=e772]: kumparanTEKNO
+                          - img "verified-round" [ref=e776]
+                    - generic [ref=e777]: 9 Nov 2026
+                  - generic [ref=e781]:
+                    - link:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=e782] [cursor=pointer]
+          - link "arrow-right Lihat Lebih Banyak" [ref=e788] [cursor=pointer]:
+            - /url: /trending/tekno
+            - generic [ref=e789]:
+              - img "arrow-right" [ref=e791]
+              - generic [ref=e792]: Lihat Lebih Banyak
+        - complementary "sticky bottom ads" [ref=e802]:
+          - button [ref=e805] [cursor=pointer]:
+            - img "close" [ref=e806]
+          - complementary [ref=e807]:
+            - iframe [ref=e811]:
+              - link [ref=f15e3] [cursor=pointer]:
+                - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuGMlO7OoecXPcgYuVucp6jNItI-dZc6VBZy7Pk4IdRi0qtYoiDm-PAgNiC3EZ1TR3fJzIPiVcdn-xl2PrR_X0GJkfipKEzxUh6tCaG75QQkzk_bv9SqTSgWXV9fvHeXP572IG0WAdplZjvEQic6U_MnDaRrSI7AFZ3Yy6xvXNM7fV5yPwX76wMNc1rQYVVyC-AKcKdvMle7crHOeb6RfjJctGKK9IbbZA3Qp4a3RQjhGeoZHghwDfdu8U1n7Bo_zBoZH2_RxhsaJhkdzNej3w5_jmwNaaYbQ1fI-3e3GIejoQUfk3Tewebo4FGoXE6dAoB5h-Q1pFwuUbhfRTZ61Tn6AVMDIzOmvLfAvdhBElF_87h-pt8QgZnzNWBsfJWM8-Iu4GX_b3n5R1BvMSusmVL4l44xAb-8YvyBGzlZ-WWFrXg1W62aCU%2526sai%253DAMfl-YSCBIwx3sKZuMy_5lKlURyrfSL-xE4A-InRNXBGmIRKnptCK_pkIqKN81hYQrSCzpNN6qPE3N9hQBlto3f0DBFnhcNFJW6pG2fVngqu80IWiiCc3Ii3iqdCARsABD3Yy7TdZnyuHRtrLhk1350NCpVIVGd1X_-17uGIC48luoAKeGZpnKKpmEd1Pol1lUha2yOujGf3tQi4xrwb3bXsPOU7c-5s_g72SHmXUKfn211w74qciCN1D4WzmgPXyCxbPHZQsY4SgpOU6dkGy7SI8j2WUCMPwqzCEVTH_WG6vVhkrmPSrx0T1707Jo3rTHfX4SFx3Ce38iiMzfG7y8Pw6t9tx2paJdY88fLkHMMOaqhYJDavMmc5XrY4%2526sig%253DCg0ArKJSzKci_uI_NvezEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://kumparancom.typeform.com/to/xc6aqU0N
+                - img "Banner" [ref=f15e4]

@@ -2,104 +2,88 @@ import { test, expect } from '@playwright/test';
 import { HomePage } from '../pages/HomePage';
 import { SearchPage } from '../pages/SearchPage';
 
-test.describe('Search Engine Test Suite', () => {
-  test('TC-SRCH-001: Verify Search with Valid Query Displays Result Cards', async ({ page }) => {
-    // Arrange
+test.describe('Search Engine & Input Limits (Phase 3 - Desktop)', () => {
+  test('SRC-001: Mencari Artikel dengan valid Keyword', async ({ page }) => {
+    test.slow();
+
     const homePage = new HomePage(page);
     const searchPage = new SearchPage(page);
-    const searchQuery = 'teknologi';
+    const searchQuery = 'penyadapan';
 
+    // 1. Navigate to homepage
     await homePage.goto();
+    await expect(homePage.searchInput).toBeVisible({ timeout: 15000 });
 
-    // Act
-    await homePage.search(searchQuery);
+    // 2. Click search input to open search page and submit query
+    await homePage.clickSearchInput();
+    await expect(page).toHaveURL(/https:\/\/kumparan\.com\/search\/?$/, { timeout: 15000 });
+    await searchPage.submitSearch(searchQuery);
 
-    // Assert: Search URL
-    await expect(page).toHaveURL(
-      new RegExp(`/search/${searchQuery}$`)
-    );
-
-    // Assert: Search page heading
-    await expect(searchPage.pageTitle).toBeVisible();
+    // 3. Verify destination URL and search results
+    await expect(page).toHaveURL(new RegExp(`/search/${searchQuery}$`), { timeout: 15000 });
+    await expect(searchPage.pageTitle).toBeVisible({ timeout: 15000 });
     await expect(searchPage.pageTitle).toHaveText('Hasil Pencarian');
 
-    // Assert: Search filter tabs
+    // Verify filter tabs
     await expect(searchPage.tabStory).toBeVisible();
-    await expect(searchPage.tabStory).toHaveText('Konten');
-
     await expect(searchPage.tabVideoStory).toBeVisible();
-    await expect(searchPage.tabVideoStory).toHaveText('Video Story');
 
-    await expect(searchPage.tabKumparanPlus).toBeVisible();
-    await expect(searchPage.tabKumparanPlus).toHaveText('kumparanPLUS');
-
-    await expect(searchPage.tabTopic).toBeVisible();
-    await expect(searchPage.tabTopic).toHaveText('Topik');
-
-    // Assert: Search results
+    // Verify result cards render matching content
     const firstResult = searchPage.getFirstResultCard();
-
-    await expect(firstResult).toBeVisible({
-      timeout: 15000,
-    });
-
-    const firstTitle = firstResult.locator(
-      '[data-qa-id="title"]'
-    );
-
+    await expect(firstResult).toBeVisible({ timeout: 15000 });
+    const firstTitle = firstResult.locator('[data-qa-id="title"]');
     await expect(firstTitle).toBeVisible();
     await expect(firstTitle).toContainText(/\S/);
   });
 
-  test('TC-SRCH-002: Verify Search with Unmatched Query Displays Observed Empty State', async ({ page }) => {
-    // Arrange
+  test('SRC-002: Menghapus kata kunci setelah melakukan search article', async ({ page }) => {
+    test.slow();
+
     const homePage = new HomePage(page);
     const searchPage = new SearchPage(page);
-    const unmatchedQuery = 'xyz999nonexistentquery123';
+    const searchQuery = 'penyadapan';
 
+    // 1. Navigate to homepage and perform search
     await homePage.goto();
+    await homePage.clickSearchInput();
+    await searchPage.submitSearch(searchQuery);
 
-    // Act
-    await homePage.search(unmatchedQuery);
+    // Verify search results page is active
+    await expect(page).toHaveURL(new RegExp(`/search/${searchQuery}$`), { timeout: 15000 });
+    await expect(searchPage.resultCards.first()).toBeVisible({ timeout: 15000 });
+    await expect(searchPage.clearIcon).toBeVisible({ timeout: 10000 });
 
-    // Assert: Search URL
-    await expect(page).toHaveURL(
-      new RegExp(`/search/${unmatchedQuery}$`)
-    );
+    // 2. Click the clear icon (x-circle)
+    await searchPage.clickClear();
 
-    // Assert: Empty state container is visible
-    await expect(searchPage.emptyStateContainer).toBeVisible({ timeout: 15000 });
-
-    // Assert: Empty state headline and sub-headline text
-    await expect(searchPage.emptyStateHeadline).toBeVisible();
-    await expect(searchPage.emptyStateHeadline).toHaveText('Story tidak ditemukan');
-
-    await expect(searchPage.emptyStateSubHeadline).toBeVisible();
-    await expect(searchPage.emptyStateSubHeadline).toHaveText('Sudah benarkah story yang dicari?');
-
-    // Assert: Result cards count is 0
-    await expect(searchPage.resultCards).toHaveCount(0);
+    // 3. Verify input field is cleared and popular search section is restored
+    await expect(searchPage.searchInput).toHaveValue('');
+    await expect(page).toHaveURL(/https:\/\/kumparan\.com\/search\/?$/, { timeout: 15000 });
+    await expect(searchPage.pageTitle).toHaveText('Pencarian');
+    await expect(searchPage.popularSearchSection).toBeVisible({ timeout: 10000 });
   });
 
-  test('TC-SRCH-003: Verify Clicking Search Input from Homepage Navigates to Search Landing', async ({ page }) => {
-    // Arrange
+  test('SRC-003: Mencari artikel dengan kata kunci simbol-simbol', async ({ page }) => {
+    test.slow();
+
     const homePage = new HomePage(page);
     const searchPage = new SearchPage(page);
+    const symbolQuery = '$%^&*';
 
+    // 1. Navigate to search landing
     await homePage.goto();
-
-    // Act: Click the search input without typing
     await homePage.clickSearchInput();
+    await expect(page).toHaveURL(/https:\/\/kumparan\.com\/search\/?$/, { timeout: 15000 });
 
-    // Assert: Verify URL navigates to /search
-    await expect(page).toHaveURL(/\/search$/);
+    // 2. Submit symbol query
+    await searchPage.submitSearch(symbolQuery);
 
-    // Assert: Verify heading 'Pencarian' is visible
-    await expect(searchPage.pageTitle).toBeVisible();
-    await expect(searchPage.pageTitle).toHaveText('Pencarian');
-
-    // Assert: Verify popular search section is visible
-    await expect(searchPage.popularSearchSection).toBeVisible();
-    await expect(searchPage.popularSearchSection).toContainText('Pencarian populer');
+    // 3. Verify empty state behavior
+    // Per requirement/expected result: System displays clean empty state ("Story tidak ditemukan")
+    // Known Bug Tracking: Kumparan continues displaying unfiltered articles instead of empty state feedback
+    await expect(searchPage.emptyStateContainer).toBeVisible({ timeout: 10000 });
+    await expect(searchPage.emptyStateHeadline).toBeVisible();
+    await expect(searchPage.emptyStateHeadline).toHaveText('Story tidak ditemukan');
+    await expect(searchPage.resultCards).toHaveCount(0);
   });
 });

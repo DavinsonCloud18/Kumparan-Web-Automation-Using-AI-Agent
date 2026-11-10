@@ -1,0 +1,386 @@
+- generic [active] [ref=e1]:
+  - complementary
+  - generic [ref=e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic "kumparan logo" [ref=e5]:
+          - link [ref=e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=e7]
+        - search [ref=e8]:
+          - generic [ref=e9]: Pencarian
+          - generic [ref=e11]:
+            - img "search" [ref=e13]
+            - textbox "Pencarian" [ref=e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - link [ref=e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=e24]
+            - listitem [ref=e25]:
+              - button [ref=e28] [cursor=pointer]:
+                - img "moon" [ref=e31]
+            - listitem [ref=e32]:
+              - link [ref=e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=e39]
+            - listitem [ref=e40]:
+              - button "Masuk" [ref=e41] [cursor=pointer]
+            - listitem [ref=e45]:
+              - button "Buat Tulisan" [ref=e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=e51]:
+        - list [ref=e52]:
+          - listitem "viewport impression tracker" [ref=e53]:
+            - link "News" [ref=e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=e57]:
+            - link "Tekno" [ref=e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=e61]:
+            - link "Bisnis" [ref=e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=e65]:
+            - link "Otomotif" [ref=e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=e69]:
+            - link "Entertainment" [ref=e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=e73]:
+            - link "Food & Travel" [ref=e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=e77]:
+            - link "Bola & Sports" [ref=e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=e81]:
+            - link "Mom" [ref=e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=e85]:
+            - link "Woman" [ref=e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=e89]:
+            - link "Bolanita" [ref=e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=e95] [cursor=pointer]:
+            - img "more-vertical" [ref=e98]
+            - generic [ref=e99]: Lainnya
+      - navigation "header sub menu" [ref=e101]:
+        - button [ref=e102] [cursor=pointer]:
+          - img "chevron-back" [ref=e105]
+        - list [ref=e106]:
+          - listitem [ref=e107]:
+            - link "Breaking News" [ref=e108] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=e113]:
+            - link "Sumatera Pulih" [ref=e114] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=e119]:
+            - link "Green Initiative" [ref=e120] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=e125]:
+            - link "Video Story" [ref=e126] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=e131]:
+            - link "Audio Story" [ref=e132] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=e137]:
+            - link "Trending" [ref=e138] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=e143]:
+            - link "kumparanPLUS" [ref=e144] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=e149]:
+            - link "Opini & Cerita" [ref=e150] [cursor=pointer]:
+              - /url: /opini-cerita
+        - button [ref=e155] [cursor=pointer]:
+          - img "chevron-next" [ref=e158]
+    - main [ref=e159]:
+      - generic [ref=e160]:
+        - generic:
+          - complementary
+        - generic [ref=e161]:
+          - heading "kumparan.com - Bicara Fakta Lewat Berita" [level=1]
+          - complementary [ref=e164]
+          - generic [ref=e169]:
+            - button [ref=e171] [cursor=pointer]:
+              - img "arrow-right" [ref=e174]
+            - generic [ref=e175]:
+              - generic "viewport impression tracker" [ref=e177]: Update Sore
+              - generic "viewport impression tracker" [ref=e188]: Sumatera Pulih
+              - generic "viewport impression tracker" [ref=e199]: Bisnis
+              - generic "viewport impression tracker" [ref=e210]: News
+              - generic "viewport impression tracker" [ref=e221]: Otomotif
+              - generic "viewport impression tracker" [ref=e232]: Entertainment
+              - generic "viewport impression tracker" [ref=e243]: Bolanita
+              - generic "viewport impression tracker" [ref=e254]: Food & Travel
+              - generic "viewport impression tracker" [ref=e265]: Tekno & Sains
+              - generic "viewport impression tracker" [ref=e276]: Bola & Sports
+              - generic "viewport impression tracker" [ref=e287]: Woman
+          - generic [ref=e300]:
+            - heading "Live Streaming" [level=2] [ref=e301]
+            - generic "viewport impression tracker" [ref=e302]:
+              - generic [ref=e305]:
+                - generic "viewport impression tracker" [ref=e308]:
+                  - region "Video Player" [ref=e311]:
+                    - application [ref=e312]
+                    - generic [ref=e313] [cursor=pointer]
+                    - button "Play Video" [ref=e315] [cursor=pointer]: 
+                    - text:           
+                - generic [ref=e317]: Gibran Bertemu Prabowo, Sampaikan Niatan Mundur
+          - generic [ref=e322]:
+            - generic "viewport impression tracker" [ref=e325]:
+              - link "Hak Menyatakan Pendapat soal Gibran" [ref=e326] [cursor=pointer]:
+                - /url: /topic/hak-menyatakan-pendapat-soal-gibran
+            - generic "viewport impression tracker" [ref=e332]:
+              - link "Jensen Huang Selingkuh" [ref=e333] [cursor=pointer]:
+                - /url: /topic/jensen-huang-selingkuh
+            - generic "viewport impression tracker" [ref=e339]:
+              - link "Listyo Sigit Sadap Presiden" [ref=e340] [cursor=pointer]:
+                - /url: /topic/listyo-sigit-tersangka-kasus-penyadapan-presiden
+            - generic "viewport impression tracker" [ref=e346]:
+              - link "Menteri-Wamen PSI Mundur" [ref=e347] [cursor=pointer]:
+                - /url: /topic/menteri-wamen-psi-mundur
+          - generic [ref=e353]:
+            - generic [ref=e356]:
+              - generic [ref=e362]:
+                - generic [ref=e364]:
+                  - generic [ref=e366]:
+                    - complementary
+                    - generic "viewport impression tracker" [ref=e368]:
+                      - generic [ref=e370]:
+                        - img "Mensesneg Prasetyo soal Gibran mundur" [ref=e374]
+                        - generic [ref=e376]:
+                          - link "news-card-label-link" [ref=e377] [cursor=pointer]:
+                            - /url: /kumparannews/mensesneg-wapres-bertemu-presiden-nyatakan-niat-mundur-memohon-waktu-buktikan-keabsahan-dokumen-28Xuaiq1tgR
+                            - generic [ref=e378]: "Mensesneg: Wapres Bertemu Presiden, Nyatakan Niat Mundur, Memohon Waktu Buktikan Keabsahan Dokumen"
+                            - generic [ref=e381]:
+                              - img "kumparanNEWS" [ref=e387]
+                              - generic [ref=e389]:
+                                - generic [ref=e390]: kumparanNEWS
+                                - img "verified-round" [ref=e394]
+                          - generic [ref=e395]: 36 menit
+                  - generic [ref=e399]:
+                    - generic [ref=e401]:
+                      - complementary
+                      - generic "viewport impression tracker" [ref=e403]:
+                        - generic [ref=e405]:
+                          - img "Kompol Ras Maju Tarigan" [ref=e409]
+                          - generic [ref=e411]:
+                            - link "news-card-label-link" [ref=e412] [cursor=pointer]:
+                              - /url: /kumparannews/viral-brigadir-is-pakai-vape-narkoba-polrestabes-medan-copot-dan-patsus-28XugOl9cCQ
+                              - generic [ref=e413]: Viral Brigadir IS Pakai Vape Narkoba, Polrestabes Medan Copot dan Patsus
+                              - generic [ref=e416]:
+                                - img "kumparanNEWS" [ref=e422]
+                                - generic [ref=e424]:
+                                  - generic [ref=e425]: kumparanNEWS
+                                  - img "verified-round" [ref=e429]
+                            - generic [ref=e430]: 33 menit
+                    - generic "viewport impression tracker" [ref=e437]:
+                      - generic [ref=e439]:
+                        - img "Ilustrasi kereta bandara Soekarno-Hatta" [ref=e443]
+                        - generic [ref=e445]:
+                          - link "news-card-label-link" [ref=e446] [cursor=pointer]:
+                            - /url: /kumparanbisnis/kai-targetkan-konstruksi-kereta-bandara-bali-ngurah-rai-canggu-dimulai-awal-2027-28XuX24hrTb
+                            - generic [ref=e447]: KAI Targetkan Konstruksi Kereta Bandara Bali Ngurah Rai-Canggu Dimulai Awal 2027
+                            - generic [ref=e450]:
+                              - img "kumparanBISNIS" [ref=e456]
+                              - generic [ref=e458]:
+                                - generic [ref=e459]: kumparanBISNIS
+                                - img "verified-round" [ref=e463]
+                          - generic [ref=e464]: 42 menit
+                - generic [ref=e469]:
+                  - generic [ref=e471]:
+                    - complementary
+                    - generic "viewport impression tracker" [ref=e473]:
+                      - generic [ref=e475]:
+                        - img "Ilustrasi pergerakan bursam saham di Bursa Efek Indonesia" [ref=e479]
+                        - generic [ref=e481]:
+                          - link "news-card-label-link" [ref=e482] [cursor=pointer]:
+                            - /url: /kumparanbisnis/indonesia-terbitkan-panda-bond-usd-1-8-miliar-pekan-ini-di-tengah-tekanan-msci-28Xu07u63kC
+                            - generic [ref=e483]: Indonesia Terbitkan Panda Bond USD 1,8 Miliar Pekan Ini di Tengah Tekanan MSCI
+                            - generic [ref=e486]:
+                              - img "kumparanBISNIS" [ref=e492]
+                              - generic [ref=e494]:
+                                - generic [ref=e495]: kumparanBISNIS
+                                - img "verified-round" [ref=e499]
+                          - generic [ref=e500]: sejam
+                  - generic [ref=e504]:
+                    - generic [ref=e506]:
+                      - complementary
+                      - generic "viewport impression tracker" [ref=e508]:
+                        - generic [ref=e510]:
+                          - img "RDP Komisi III terkait RUU Perampasan Aset" [ref=e514]
+                          - generic [ref=e516]:
+                            - link "news-card-label-link" [ref=e517] [cursor=pointer]:
+                              - /url: /kumparannews/ruu-perampasan-aset-diminta-atur-pasal-ganti-rugi-jika-aparat-salah-sita-28XtmBqxQHJ
+                              - generic [ref=e518]: RUU Perampasan Aset Diminta Atur Pasal Ganti Rugi jika Aparat Salah Sita
+                              - generic [ref=e521]:
+                                - img "kumparanNEWS" [ref=e527]
+                                - generic [ref=e529]:
+                                  - generic [ref=e530]: kumparanNEWS
+                                  - img "verified-round" [ref=e534]
+                            - generic [ref=e535]: 2 jam
+                    - generic "viewport impression tracker" [ref=e542]:
+                      - generic [ref=e544]:
+                        - img "Lipsus - Misteri Emas Rp 189 Triliun" [ref=e548]
+                        - generic [ref=e550]:
+                          - link "news-card-label-link" [ref=e551] [cursor=pointer]:
+                            - /url: /kumparanbisnis/singapura-meluncurkan-layanan-penyimpanan-emas-untuk-bank-sentral-asing-28XtDLZXsPg
+                            - generic [ref=e552]: Singapura Meluncurkan Layanan Penyimpanan Emas untuk Bank Sentral Asing
+                            - generic [ref=e555]:
+                              - img "kumparanBISNIS" [ref=e561]
+                              - generic [ref=e563]:
+                                - generic [ref=e564]: kumparanBISNIS
+                                - img "verified-round" [ref=e568]
+                          - generic [ref=e569]: 2 jam
+                - generic [ref=e574]:
+                  - generic "viewport impression tracker" [ref=e578]:
+                    - generic [ref=e580]:
+                      - img "Golkar Sampaikan Somasi Terbuka ke Said Didu dan Sri Radjasa" [ref=e584]
+                      - generic [ref=e586]:
+                        - link "news-card-label-link" [ref=e587] [cursor=pointer]:
+                          - /url: /kumparannews/golkar-nilai-narasi-bahlil-terlibat-penyadapan-presiden-bisa-ganggu-pemerintahan-prabowo-28XsygfHDwt
+                          - generic [ref=e588]: Golkar Nilai Narasi Bahlil Terlibat Penyadapan Presiden Bisa Ganggu Pemerintahan Prabowo
+                          - generic [ref=e591]:
+                            - img "kumparanNEWS" [ref=e597]
+                            - generic [ref=e599]:
+                              - generic [ref=e600]: kumparanNEWS
+                              - img "verified-round" [ref=e604]
+                        - generic [ref=e605]: 2 jam
+                  - generic [ref=e609]:
+                    - generic "viewport impression tracker" [ref=e613]:
+                      - generic [ref=e615]:
+                        - img "Polsek Koja Tangkap Sindikat SIM dan KTP Palsu di Jakut" [ref=e619]
+                        - generic [ref=e621]:
+                          - link "news-card-label-link" [ref=e622] [cursor=pointer]:
+                            - /url: /kumparannews/polisi-bongkar-sindikat-pemalsuan-ktp-dan-sim-di-jakut-5-orang-ditangkap-28XsyPROKZo
+                            - generic [ref=e623]: Polisi Bongkar Sindikat Pemalsuan KTP dan SIM di Jakut, 5 Orang Ditangkap
+                            - generic [ref=e626]:
+                              - img "kumparanNEWS" [ref=e632]
+                              - generic [ref=e634]:
+                                - generic [ref=e635]: kumparanNEWS
+                                - img "verified-round" [ref=e639]
+                          - generic [ref=e640]: 2 jam
+                    - generic "viewport impression tracker" [ref=e647]:
+                      - generic [ref=e649]:
+                        - img "Ilustrasi para pengguna KRL di Jakarta" [ref=e653]
+                        - generic [ref=e655]:
+                          - link "news-card-label-link" [ref=e656] [cursor=pointer]:
+                            - /url: /kumparanbisnis/krl-rute-nambo-beroperasi-hingga-pukul-23-32-wib-mulai-1-desember-2026-28XscMMMHP2
+                            - generic [ref=e657]: KRL Rute Nambo Beroperasi hingga Pukul 23.32 WIB Mulai 1 Desember 2026
+                            - generic [ref=e660]:
+                              - img "kumparanBISNIS" [ref=e666]
+                              - generic [ref=e668]:
+                                - generic [ref=e669]: kumparanBISNIS
+                                - img "verified-round" [ref=e673]
+                          - generic [ref=e674]: 3 jam
+              - img "chevron-next" [ref=e679] [cursor=pointer]
+              - tablist [ref=e682]:
+                - tab "Page 1" [ref=e683]
+                - tab "Page 2" [ref=e684]
+                - tab "Page 3" [ref=e685]
+            - generic [ref=e687]:
+              - generic [ref=e689]:
+                - link [ref=e690] [cursor=pointer]:
+                  - /url: /trending
+                  - heading "Trending" [level=2] [ref=e691]
+                - link "arrow-right Lihat lainnya" [ref=e693] [cursor=pointer]:
+                  - /url: /trending
+                  - generic [ref=e694]:
+                    - img "arrow-right" [ref=e696]
+                    - generic [ref=e697]: Lihat lainnya
+              - list [ref=e700]:
+                - listitem [ref=e701]:
+                  - generic "viewport impression tracker" [ref=e704]:
+                    - generic [ref=e705]:
+                      - generic [ref=e706]:
+                        - link "news-card-label-link" [ref=e707] [cursor=pointer]:
+                          - /url: /kumparannews/403-anggota-dpr-hadiri-paripurna-hari-ini-dipimpin-puan-cucun-dan-saan-28XpjWv4uSM
+                          - generic [ref=e708]: 403 Anggota DPR Hadiri Paripurna Hari Ini, Dipimpin Puan, Cucun dan Saan
+                          - generic [ref=e711]:
+                            - img "kumparanNEWS" [ref=e717]
+                            - generic [ref=e719]:
+                              - generic [ref=e720]: kumparanNEWS
+                              - img "verified-round" [ref=e724]
+                        - generic [ref=e725]: 5 jam
+                      - generic [ref=e729]:
+                        - link:
+                          - /url: /kumparannews/403-anggota-dpr-hadiri-paripurna-hari-ini-dipimpin-puan-cucun-dan-saan-28XpjWv4uSM
+                          - generic [ref=e730] [cursor=pointer]
+                - listitem [ref=e734]:
+                  - generic "viewport impression tracker" [ref=e737]:
+                    - generic [ref=e738]:
+                      - generic [ref=e739]:
+                        - link "news-card-label-link" [ref=e740] [cursor=pointer]:
+                          - /url: /kumparannews/polri-gelar-sidang-etik-irjen-ahrie-sonta-terkait-kasus-dugaan-penyadapan-presiden-28XqdwewNOT
+                          - generic [ref=e741]: Polri Gelar Sidang Etik Irjen Ahrie Sonta Terkait Kasus Dugaan Penyadapan Presiden
+                          - generic [ref=e744]:
+                            - img "kumparanNEWS" [ref=e750]
+                            - generic [ref=e752]:
+                              - generic [ref=e753]: kumparanNEWS
+                              - img "verified-round" [ref=e757]
+                        - generic [ref=e758]: 5 jam
+                      - generic [ref=e762]:
+                        - link:
+                          - /url: /kumparannews/polri-gelar-sidang-etik-irjen-ahrie-sonta-terkait-kasus-dugaan-penyadapan-presiden-28XqdwewNOT
+                          - generic [ref=e763] [cursor=pointer]
+                - listitem [ref=e767]:
+                  - generic "viewport impression tracker" [ref=e770]:
+                    - generic [ref=e771]:
+                      - generic [ref=e772]:
+                        - link "news-card-label-link" [ref=e773] [cursor=pointer]:
+                          - /url: /kumparanbisnis/digempur-dari-berbagai-arah-ke-mana-ihsg-akan-melangkah-28XbXbpcMyp
+                          - generic [ref=e774]: Digempur dari Berbagai Arah, ke Mana IHSG Akan Melangkah?
+                          - generic [ref=e777]:
+                            - img "kumparanBISNIS" [ref=e783]
+                            - generic [ref=e785]:
+                              - generic [ref=e786]: kumparanBISNIS
+                              - img "verified-round" [ref=e790]
+                        - generic [ref=e791]: 4 jam
+                      - generic [ref=e795]:
+                        - link:
+                          - /url: /kumparanbisnis/digempur-dari-berbagai-arah-ke-mana-ihsg-akan-melangkah-28XbXbpcMyp
+                          - generic [ref=e796] [cursor=pointer]
+                - listitem [ref=e800]:
+                  - generic "viewport impression tracker" [ref=e803]:
+                    - generic [ref=e804]:
+                      - generic [ref=e805]:
+                        - link "news-card-label-link" [ref=e806] [cursor=pointer]:
+                          - /url: /kumparannews/kapolri-mutasi-sejumlah-pejabat-tinggi-polri-2-jenderal-ditarik-dari-ksp-28Xp1WQdQcG
+                          - generic [ref=e807]: Kapolri Mutasi Sejumlah Pejabat Tinggi Polri, 2 Jenderal Ditarik dari KSP
+                          - generic [ref=e810]:
+                            - img "kumparanNEWS" [ref=e816]
+                            - generic [ref=e818]:
+                              - generic [ref=e819]: kumparanNEWS
+                              - img "verified-round" [ref=e823]
+                        - generic [ref=e824]: 6 jam
+                      - generic [ref=e828]:
+                        - link:
+                          - /url: /kumparannews/kapolri-mutasi-sejumlah-pejabat-tinggi-polri-2-jenderal-ditarik-dari-ksp-28Xp1WQdQcG
+                          - generic [ref=e829] [cursor=pointer]
+                - listitem [ref=e833]:
+                  - generic "viewport impression tracker" [ref=e836]:
+                    - generic [ref=e837]:
+                      - generic [ref=e838]:
+                        - link "news-card-label-link" [ref=e839] [cursor=pointer]:
+                          - /url: /kumparannews/cerita-anak-kades-djantoe-yang-kenal-jokowi-saat-kkn-tahun-1985-bikin-papan-nama-masjid-28Xrl64LsIe
+                          - generic [ref=e840]: "Cerita Anak Kades Djantoe yang Kenal Jokowi Saat KKN Tahun 1985: Bikin Papan Nama Masjid"
+                          - generic [ref=e843]:
+                            - img "kumparanNEWS" [ref=e849]
+                            - generic [ref=e851]:
+                              - generic [ref=e852]: kumparanNEWS
+                              - img "verified-round" [ref=e856]
+                        - generic [ref=e857]: 3 jam
+                      - generic [ref=e861]:
+                        - link:
+                          - /url: /kumparannews/cerita-anak-kades-djantoe-yang-kenal-jokowi-saat-kkn-tahun-1985-bikin-papan-nama-masjid-28Xrl64LsIe
+                          - generic [ref=e862] [cursor=pointer]
+          - complementary [ref=e866]
+          - generic:
+            - complementary
+          - generic:
+            - complementary

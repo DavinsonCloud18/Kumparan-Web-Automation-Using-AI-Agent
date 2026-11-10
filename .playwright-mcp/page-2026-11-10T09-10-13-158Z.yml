@@ -1,0 +1,145 @@
+- generic [ref=e2]:
+  - complementary
+  - complementary:
+    - complementary
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic "kumparan logo" [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Kumparan Logo" [ref=e7]
+      - search [ref=e8]:
+        - generic [ref=e9]: Pencarian
+        - generic [ref=e11]:
+          - img "search" [ref=e13]
+          - textbox "Pencarian" [active] [ref=e15]:
+            - /placeholder: Cari di sini...
+      - navigation "user menu" [ref=e16]:
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - link [ref=e21] [cursor=pointer]:
+              - /url: /
+              - img "home" [ref=e24]
+          - listitem [ref=e25]:
+            - button [ref=e28] [cursor=pointer]:
+              - img "moon" [ref=e31]
+          - listitem [ref=e32]:
+            - link [ref=e36] [cursor=pointer]:
+              - /url: /notifications
+              - img "notification" [ref=e39]
+          - listitem [ref=e40]:
+            - button "Masuk" [ref=e41] [cursor=pointer]
+          - listitem [ref=e45]:
+            - button "Buat Tulisan" [ref=e47] [cursor=pointer]
+    - navigation "headermain menu" [ref=e51]:
+      - list [ref=e52]:
+        - listitem "viewport impression tracker" [ref=e53]:
+          - link "News" [ref=e54] [cursor=pointer]:
+            - /url: /channel/news
+        - listitem "viewport impression tracker" [ref=e57]:
+          - link "Tekno" [ref=e58] [cursor=pointer]:
+            - /url: /channel/tekno
+        - listitem "viewport impression tracker" [ref=e61]:
+          - link "Bisnis" [ref=e62] [cursor=pointer]:
+            - /url: /channel/bisnis
+        - listitem "viewport impression tracker" [ref=e65]:
+          - link "Otomotif" [ref=e66] [cursor=pointer]:
+            - /url: /channel/otomotif
+        - listitem "viewport impression tracker" [ref=e69]:
+          - link "Entertainment" [ref=e70] [cursor=pointer]:
+            - /url: /channel/entertainment
+        - listitem "viewport impression tracker" [ref=e73]:
+          - link "Food & Travel" [ref=e74] [cursor=pointer]:
+            - /url: /channel/food-travel
+        - listitem "viewport impression tracker" [ref=e77]:
+          - link "Bola & Sports" [ref=e78] [cursor=pointer]:
+            - /url: /channel/bola-sports
+        - listitem "viewport impression tracker" [ref=e81]:
+          - link "Mom" [ref=e82] [cursor=pointer]:
+            - /url: /channel/mom
+        - listitem "viewport impression tracker" [ref=e85]:
+          - link "Woman" [ref=e86] [cursor=pointer]:
+            - /url: /channel/woman
+        - listitem "viewport impression tracker" [ref=e89]:
+          - link "Bolanita" [ref=e90] [cursor=pointer]:
+            - /url: /channel/bolanita
+        - generic [ref=e95] [cursor=pointer]:
+          - img "more-vertical" [ref=e98]
+          - generic [ref=e99]: Lainnya
+    - navigation "header sub menu" [ref=e101]:
+      - list [ref=e102]:
+        - listitem [ref=e103]:
+          - link "Breaking News" [ref=e104] [cursor=pointer]:
+            - /url: /breakingnews
+        - listitem [ref=e109]:
+          - link "Sumatera Pulih" [ref=e110] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem [ref=e115]:
+          - link "Green Initiative" [ref=e116] [cursor=pointer]:
+            - /url: /topic/green-initiative
+        - listitem [ref=e121]:
+          - link "Video Story" [ref=e122] [cursor=pointer]:
+            - /url: /video-story
+        - listitem [ref=e127]:
+          - link "Audio Story" [ref=e128] [cursor=pointer]:
+            - /url: /audio-story
+        - listitem [ref=e133]:
+          - link "Trending" [ref=e134] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=e139]:
+          - link "kumparanPLUS" [ref=e140] [cursor=pointer]:
+            - /url: /kumparan-plus
+        - listitem [ref=e145]:
+          - link "Opini & Cerita" [ref=e146] [cursor=pointer]:
+            - /url: /opini-cerita
+  - main [ref=e151]:
+    - generic:
+      - complementary
+    - generic [ref=e1560]:
+      - generic:
+        - complementary
+      - generic:
+        - complementary
+      - generic [ref=e1561]:
+        - complementary [ref=e1562]:
+          - iframe [ref=e1566]:
+            - link [ref=f16e3] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsszPsuC2fnUKXZaHRNZaloNbxm0ZkkldnpklZSUYI5nys4Tnoc3tpJUbPNDvKJHaiNjosHv3j-O0o36Pg60vGhRce5dhuhP4qAgTKqM9G6dWwIN811YGpZtQ3FJnKpudvWWJaCOwNzF7zwr4ie2loAeWzmI9LGG0myUO4st1c7-cgi21EglqHVaRX8p_c-pVg1Q12PdZEgjApEbWtXtlnoOcy_eWm7GTLDIwX_LJJR4hx6qPYjLm8T9cTw0HeIprjTvYDMp3OcD49O6xnHEInuky1d5yemJibBplTnH8fISb2hS6aEszNsk39qKB3Rc29WQVmYuJGd5ztIwxm3I137SjVr0vk6ZtWM1OF_nAe91WrKLW4uq51Apnx8qn9gNFgYWLGQymPS7U6OX1j8CizSlCY0kSAMCq9SePg%2526sai%253DAMfl-YR1FOp_gbJGAEvWYghVrm_551BM0dxT9imws83elj6vcXCoMeUfyDfjgDJTy_LuJTfIV_R2jmXMrFWEWL2d4xCPae7-ar_fNphfAr1cSHJ7dIs2RQzVoBhh4ZxaKL958u47A_rjevyxbNQOlgfNmrIOykcst9of4pOcqM2BLVwJeIoFxG5BykpXbrFXjIu1ovdWHrl9fvhaw-kjFxLpVoEg_oBG_lt-yOuvaQtSN399BC9nID-m_NWI2J8vVLT1PNJLz9TLAtZEk8mMVUkY5PJ5phYpFhncoIeqTGERJgDso8KWklTfFRL8Ee1VFIZHc19JrKjZ839ShdEtrlcxCzPsHn1VMRDpadY670pZ6c2oC9iE8OvzZbyC6OMPj5eM-JLIzYYiJ-VTc-Lcnja0wFQF%2526sig%253DCg0ArKJSzPH5-ubxTpdrEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_DesktopBillboard%26utm_content%3DHisteria1111_10Nov
+              - img "Banner" [ref=f16e4]
+        - generic [ref=e1567]:
+          - generic [ref=e1568]:
+            - heading "Pencarian" [level=1] [ref=e1570]
+            - generic [ref=e1572]:
+              - generic [ref=e1573]: Pencarian populer
+              - generic [ref=e1577]:
+                - link "cucun ahmad syamsurijal" [ref=e1579] [cursor=pointer]:
+                  - /url: /search/cucun ahmad syamsurijal
+                - link "raja juli" [ref=e1584] [cursor=pointer]:
+                  - /url: /search/raja juli
+                - link "giring" [ref=e1589] [cursor=pointer]:
+                  - /url: /search/giring
+                - link "lpsk" [ref=e1594] [cursor=pointer]:
+                  - /url: /search/lpsk
+                - link "mabes polri" [ref=e1599] [cursor=pointer]:
+                  - /url: /search/mabes polri
+                - link "mutasi polri" [ref=e1604] [cursor=pointer]:
+                  - /url: /search/mutasi polri
+                - link "hilang" [ref=e1609] [cursor=pointer]:
+                  - /url: /search/hilang
+                - link "delisting" [ref=e1614] [cursor=pointer]:
+                  - /url: /search/delisting
+                - link "ihsg" [ref=e1619] [cursor=pointer]:
+                  - /url: /search/ihsg
+                - link "pajero" [ref=e1624] [cursor=pointer]:
+                  - /url: /search/pajero
+          - generic [ref=e1629]:
+            - complementary [ref=e1630]:
+              - iframe [ref=e1634]:
+                - link [ref=f15e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjss34TUdu-W_TUANMv-Ie4xVQPgXpvUB3-Ur0r3l1RQW3xcxKa_JPkicgWXqF_hiMFXkAo3ovhL_wMS46aKEkB5PVdwWn89ASRdO5qayH1UJmJouH8kAovcLRgjA2YEfF1_yNYJn04mSdkvNglEjqjSaKehLi432H5cLz9UeviH1rOtDV4plzoDGGE6Z_TBkX0Yp9t5eMHxHvjgQ1crWYj43gym2f1lt2xe3ozD1UIFA3lwgG8guMYEGC7062kdYbUAqB2Nv0fMB90BhGmMZcsMBrUtC6QQJaB3KtgnldcYNEqAuwqxNCQYxndvtn3jB-uFcDwq8PYZZ7BcMCdy5jNYc2dAARS9cUlpRkrUQ9e8Ael52im9ZRac83csiDEFK4skbMJc7B80b0MBljDC3NWQDwmh44z-s0WHEG1C45NguSA%2526sai%253DAMfl-YQrVUP0MLeBOPfUJQFokNBI8nryRbb8XoXRDgM6pYxWX-9EFVtc0TMEl7FySEyGWFTf1lShC0yMES-LD7XkIj__pUk4Sv0VJCUx9vMy5Kl5G3kVJiCQxXvviNcWtipmcolsWjstg9Y2-NrNG-2NFl1zmcemEO_YIV5gSemLMj6WWdQMsmgK7bUMl30CSLnalNk4yh92weUYrAi7BmDEjUrQK8Ld6nhUwX4omKAHhuFDku9A923VQUQkd889IPo3FybVIzXqnMhowiV2cmk3l6JG1pDuTGdNIzZKTt6MwVqlf7HkWck1wqhKap8-eaZF91ghPYGGz-3OYVRlWk0fzKfKQLmTB20aqhV4IdEi4SEZf7sjNmOV2fn_tij2Hzjo2JYY9ocQLnwJ0k8deYw9SviK%2526sig%253DCg0ArKJSzKKqQzPdDc2ZEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.instagram.com/kumparanbolanita/
+                  - img "Banner" [ref=f15e4]
+            - complementary [ref=e1635]:
+              - iframe [ref=e1639]:
+                - link [ref=f14e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsvlg5W9j_rXNamFJi_NKqiMJ4baM45tSCKh_EOQ1Xc5WmVRWx7cQKVoHqAYDT2Iuw00CiAUkLaOpNMeDkFyI9gHqf-VwFu6j4e2GQVeUI7hKdtNR8-30h_V_9XneBFYJOISWFvAy2t0TZak9iH6BWGq1y0r-5kKJ6ABznwHkEiyT-Y_enCmVJcB3nVoj6RovD2qH5__FGF00LViqkit8hEkYoNE3y-USMNF-VBmgOvnxY0JD3o9nF9heJUlcHbqiUU_Ek_XrF0SyqhN0ui-Q2SwStaF-Q3AVzAUMW3Hhb9KckudE7X1vFqkhj8RHSPCd-Xw_EqPXbfdiEIvJGQDMaWmMImzbuNySmcEBmnVwlJ0oNuzytmcbh0yZD2M3Tw-5XnSy-1oNEE_LHL6ewtHqxVesXkfArJmL_uqUfgqC98S_g%2526sai%253DAMfl-YSrFUex1THGX0ia-zpgruGxwDRH3Bc7_9LkgEq9Ma4VYt96NVvcn5h2iNUcXE6apGkpT1KAumSKp2Njsdq4P8_k9Vo01FGe4GK8zYLGSj4KgZPP-n8PZXNjN4c9K4pl6XIhJU75YBe460ieCd1rze7ZecUnlQYi6NyIegvDLoMxh9kkpnqJ9QRHkA6OJkE2i8PC5epajrtKKdmXGePSVaKUxsaIS0fFuXIYKjrNgJ4JlQPsRTzaazG5b6MqjLwfxVye8_NeqItVto6AEuvb3jP0vGfFQfsEQi1l6GoJIcSSWWKtqQUgumKhqjh7W46cqQtTiG0zspXSXLfz-ubZbZR5XbrCgTKatteoXt-9CBg6_96MePTzDETdqp5TO8VHFHhzVn6cQhe8Z8nxeN0DRNHV%2526sig%253DCg0ArKJSzFCs8bwmz3a7EAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.instagram.com/kumparancom
+                  - img "Banner" [ref=f14e4]

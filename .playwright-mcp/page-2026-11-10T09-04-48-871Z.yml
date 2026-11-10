@@ -1,0 +1,178 @@
+- generic [active] [ref=f26e1]:
+  - complementary
+  - generic [ref=f26e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f26e3]:
+      - generic [ref=f26e4]:
+        - generic "kumparan logo" [ref=f26e5]:
+          - link [ref=f26e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f26e7]
+        - search [ref=f26e8]:
+          - generic [ref=f26e9]: Pencarian
+          - generic [ref=f26e11]:
+            - img "search" [ref=f26e13]
+            - textbox "Pencarian" [ref=f26e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f26e16]:
+          - list [ref=f26e17]:
+            - listitem [ref=f26e18]:
+              - link [ref=f26e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f26e24]
+            - listitem [ref=f26e25]:
+              - button [ref=f26e28] [cursor=pointer]:
+                - img "moon" [ref=f26e31]
+            - listitem [ref=f26e32]:
+              - link [ref=f26e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f26e39]
+            - listitem [ref=f26e40]:
+              - button "Masuk" [ref=f26e41] [cursor=pointer]
+            - listitem [ref=f26e45]:
+              - button "Buat Tulisan" [ref=f26e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f26e51]:
+        - list [ref=f26e52]:
+          - listitem "viewport impression tracker" [ref=f26e53]:
+            - link "News" [ref=f26e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f26e57]:
+            - link "Tekno" [ref=f26e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f26e61]:
+            - link "Bisnis" [ref=f26e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f26e65]:
+            - link "Otomotif" [ref=f26e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f26e69]:
+            - link "Entertainment" [ref=f26e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f26e73]:
+            - link "Food & Travel" [ref=f26e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f26e77]:
+            - link "Bola & Sports" [ref=f26e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f26e81]:
+            - link "Mom" [ref=f26e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f26e85]:
+            - link "Woman" [ref=f26e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f26e89]:
+            - link "Bolanita" [ref=f26e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f26e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f26e98]
+            - generic [ref=f26e99]: Lainnya
+      - navigation "header sub menu" [ref=f26e101]:
+        - list [ref=f26e102]:
+          - listitem [ref=f26e103]:
+            - link "Breaking News" [ref=f26e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f26e109]:
+            - link "Sumatera Pulih" [ref=f26e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f26e115]:
+            - link "Green Initiative" [ref=f26e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f26e121]:
+            - link "Video Story" [ref=f26e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f26e127]:
+            - link "Audio Story" [ref=f26e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f26e133]:
+            - link "Trending" [ref=f26e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f26e139]:
+            - link "kumparanPLUS" [ref=f26e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f26e145]:
+            - link "Opini & Cerita" [ref=f26e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f26e151]:
+      - heading "kumparan BREAKING NEWS Menyajikan Berita Peristiwa Penting Secara Kronologis dan Lengkap" [level=1]
+      - generic [ref=f26e152]:
+        - generic [ref=f26e153]: Informasi penting disajikan secara kronologis
+        - generic [ref=f26e160]:
+          - generic [ref=f26e161]: Breaking News Sebelumnya
+          - generic [ref=f26e165]:
+            - generic [ref=f26e166]:
+              - generic "viewport impression tracker" [ref=f26e169]:
+                - link "Periode 3-5 Nov 2026 Breaking News Title Divisi Propam Polri mengumumkan bahwa sejumlah jenderal polisi terkait kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto, tiga orang tersangka dengan inisial LSP, ASN, dan EH pada Selasa (3/11)." [ref=f26e170] [cursor=pointer]:
+                  - /url: /breakingnews/listyo-sigit-tersangka-kasus-penyadapan-presiden-28VDVBdDyA8
+                  - generic [ref=f26e171]:
+                    - generic [ref=f26e175]:
+                      - generic [ref=f26e176]: Periode 3-5 Nov 2026
+                      - generic "Breaking News Title" [ref=f26e179]: Listyo Sigit Tersangka Kasus Penyadapan Presiden
+                    - paragraph [ref=f26e182]: Divisi Propam Polri mengumumkan bahwa sejumlah jenderal polisi terkait kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto, tiga orang tersangka dengan inisial LSP, ASN, dan EH pada Selasa (3/11).
+              - generic "viewport impression tracker" [ref=f26e185]:
+                - link "Periode 15 Okt-3 Nov 2026 Breaking News Title Presiden Prabowo Subianto melantik sejumlah pejabat negara di Istana, Kamis (15/10). Pejabat yang dilantik antara lain Jenderal TNI Maruli Simanjuntak sebagai Wakil Panglima TNI hingga Jenderal TNI Tandyo Budi Revita sebagai KSAD." [ref=f26e186] [cursor=pointer]:
+                  - /url: /breakingnews/prabowo-lantik-wakil-panglima-ksad-hingga-kepala-bnpb-28NcX51PfG8
+                  - generic [ref=f26e187]:
+                    - generic [ref=f26e191]:
+                      - generic [ref=f26e192]: Periode 15 Okt-3 Nov 2026
+                      - generic "Breaking News Title" [ref=f26e195]: Prabowo Lantik Wakil Panglima, KSAD hingga Kepala BNPB
+                    - paragraph [ref=f26e198]: Presiden Prabowo Subianto melantik sejumlah pejabat negara di Istana, Kamis (15/10). Pejabat yang dilantik antara lain Jenderal TNI Maruli Simanjuntak sebagai Wakil Panglima TNI hingga Jenderal TNI Tandyo Budi Revita sebagai KSAD.
+              - generic "viewport impression tracker" [ref=f26e201]:
+                - link "Periode 14 Okt 2026 Breaking News Title KPK melakukan operasi tangkap tangan (OTT) di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) pada Selasa (13/10). KPK menyita uang tunai sekitar Rp 1,4 miliar dan logam mulia emas. KPK turut mengamankan 14 orang, termasuk Sestama hingga PPK." [ref=f26e202] [cursor=pointer]:
+                  - /url: /breakingnews/kpk-ott-pejabat-bnpb-28N86NYjTaz
+                  - generic [ref=f26e203]:
+                    - generic [ref=f26e207]:
+                      - generic [ref=f26e208]: Periode 14 Okt 2026
+                      - generic "Breaking News Title" [ref=f26e211]: KPK OTT Pejabat BNPB
+                    - paragraph [ref=f26e214]: KPK melakukan operasi tangkap tangan (OTT) di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) pada Selasa (13/10). KPK menyita uang tunai sekitar Rp 1,4 miliar dan logam mulia emas. KPK turut mengamankan 14 orang, termasuk Sestama hingga PPK.
+            - generic [ref=f26e215]:
+              - generic "viewport impression tracker" [ref=f26e218]:
+                - link "Periode 6 Okt 2026 Breaking News Title Mahkamah Konstitusi (MK) akan membacakan putusan perkara Perselisihan Hasil Pemilihan Umum (PHPU) Presiden dan Wakil Presiden 2024 yang mempersoalkan syarat pendidikan Wakil Presiden Gibran Rakabuming Raka, Selasa (6/10) malam." [ref=f26e219] [cursor=pointer]:
+                  - /url: /breakingnews/putusan-mk-terkait-polemik-ijazah-gibran-28K7ccVCo3A
+                  - generic [ref=f26e220]:
+                    - generic [ref=f26e224]:
+                      - generic [ref=f26e225]: Periode 6 Okt 2026
+                      - generic "Breaking News Title" [ref=f26e228]: Putusan MK Terkait Polemik Ijazah Gibran
+                    - paragraph [ref=f26e231]: Mahkamah Konstitusi (MK) akan membacakan putusan perkara Perselisihan Hasil Pemilihan Umum (PHPU) Presiden dan Wakil Presiden 2024 yang mempersoalkan syarat pendidikan Wakil Presiden Gibran Rakabuming Raka, Selasa (6/10) malam.
+              - generic "viewport impression tracker" [ref=f26e234]:
+                - link "Periode 1-2 Okt 2026 Breaking News Title Presiden Prabowo Subianto mereshuffle sejumlah pejabat negara di Istana Negara, Jakarta, pada Kamis (1/10)." [ref=f26e235] [cursor=pointer]:
+                  - /url: /breakingnews/prabowo-reshuffle-kabinet-28Hz8s1MUbQ
+                  - generic [ref=f26e236]:
+                    - generic [ref=f26e240]:
+                      - generic [ref=f26e241]: Periode 1-2 Okt 2026
+                      - generic "Breaking News Title" [ref=f26e244]: Prabowo Reshuffle Kabinet
+                    - paragraph [ref=f26e247]: Presiden Prabowo Subianto mereshuffle sejumlah pejabat negara di Istana Negara, Jakarta, pada Kamis (1/10).
+              - generic "viewport impression tracker" [ref=f26e250]:
+                - link "Periode 23 Sep 2026 Breaking News Title Jenazah Surakman (60), ABK kapal Arupadatu 1, yang mengantar lima wartawan untuk meliput erupsi Gunung Anak Krakatau di Selat Sunda pada 7 September 2026 lalu ditemukan di Perairan Enggano." [ref=f26e251] [cursor=pointer]:
+                  - /url: /breakingnews/kru-kapal-5-wartawan-hilang-ditemukan-28Es6evOmCp
+                  - generic [ref=f26e252]:
+                    - generic [ref=f26e256]:
+                      - generic [ref=f26e257]: Periode 23 Sep 2026
+                      - generic "Breaking News Title" [ref=f26e260]: Kru Kapal "5 Wartawan Hilang" Ditemukan
+                    - paragraph [ref=f26e263]: Jenazah Surakman (60), ABK kapal Arupadatu 1, yang mengantar lima wartawan untuk meliput erupsi Gunung Anak Krakatau di Selat Sunda pada 7 September 2026 lalu ditemukan di Perairan Enggano.
+            - generic [ref=f26e264]:
+              - generic "viewport impression tracker" [ref=f26e267]:
+                - link "Periode 14 Sep 2026 Breaking News Title Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan, Senin (14/9). Ia menggantikan posisi Purbaya Yudhi Sadewa. Suahasil sebelumnya merupakan Wamenkeu pendamping Purbaya." [ref=f26e268] [cursor=pointer]:
+                  - /url: /breakingnews/suahasil-nazara-dilantik-jadi-menkeu-baru-28BLWvhGydB
+                  - generic [ref=f26e269]:
+                    - generic [ref=f26e273]:
+                      - generic [ref=f26e274]: Periode 14 Sep 2026
+                      - generic "Breaking News Title" [ref=f26e277]: Suahasil Nazara Dilantik Jadi Menkeu Baru
+                    - paragraph [ref=f26e280]: Presiden Prabowo Subianto melantik Suahasil Nazara sebagai Menteri Keuangan, Senin (14/9). Ia menggantikan posisi Purbaya Yudhi Sadewa. Suahasil sebelumnya merupakan Wamenkeu pendamping Purbaya.
+              - generic "viewport impression tracker" [ref=f26e283]:
+                - link "Periode 13-14 Sep 2026 Breaking News Title Kapal feri Virgo Transport 8 dilaporkan hilang kontak saat berlayar dari Surabaya menuju Banjarmasin, Kalimantan Selatan, Minggu (13/9/2026). Kapal tersebut membawa 243 penumpang dan awak kapal. Selain itu, 6 orang juga dilaporkan meninggal dunia." [ref=f26e284] [cursor=pointer]:
+                  - /url: /breakingnews/kmp-virgo-hilang-kontak-di-laut-jawa-28AtEdOrrrF
+                  - generic [ref=f26e285]:
+                    - generic [ref=f26e289]:
+                      - generic [ref=f26e290]: Periode 13-14 Sep 2026
+                      - generic "Breaking News Title" [ref=f26e293]: KMP Virgo Hilang Kontak di Laut Jawa
+                    - paragraph [ref=f26e296]: Kapal feri Virgo Transport 8 dilaporkan hilang kontak saat berlayar dari Surabaya menuju Banjarmasin, Kalimantan Selatan, Minggu (13/9/2026). Kapal tersebut membawa 243 penumpang dan awak kapal. Selain itu, 6 orang juga dilaporkan meninggal dunia.
+              - generic "viewport impression tracker" [ref=f26e299]:
+                - link "Periode 6-9 Sep 2026 Breaking News Title BMKG menyebut abu vulkanik Gunung Anak Krakatau yang dimuntahkan pada Sabtu (5/9) dan Minggu (6/9) sudah menyebar di wilayah Jakarta, Banten, Jawa Barat hingga Bengkulu. Per Selasa (8/9), bandara yang ditutup sudah dibuka, yaitu Bandara Soetta-Halim." [ref=f26e300] [cursor=pointer]:
+                  - /url: /breakingnews/dampak-erupsi-gunung-anak-krakatau-2886O1wYxAS
+                  - generic [ref=f26e301]:
+                    - generic [ref=f26e305]:
+                      - generic [ref=f26e306]: Periode 6-9 Sep 2026
+                      - generic "Breaking News Title" [ref=f26e309]: Dampak Erupsi Gunung Anak Krakatau
+                    - paragraph [ref=f26e312]: BMKG menyebut abu vulkanik Gunung Anak Krakatau yang dimuntahkan pada Sabtu (5/9) dan Minggu (6/9) sudah menyebar di wilayah Jakarta, Banten, Jawa Barat hingga Bengkulu. Per Selasa (8/9), bandara yang ditutup sudah dibuka, yaitu Bandara Soetta-Halim.

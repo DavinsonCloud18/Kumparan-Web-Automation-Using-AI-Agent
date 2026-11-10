@@ -1,0 +1,133 @@
+- generic [ref=e2]:
+  - complementary
+  - complementary:
+    - complementary
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic "kumparan logo" [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Kumparan Logo" [ref=e7]
+      - search [ref=e8]:
+        - generic [ref=e9]: Pencarian
+        - generic [ref=e11]:
+          - img "search" [ref=e13]
+          - textbox "Pencarian" [active] [ref=e15]:
+            - /placeholder: Cari di sini...
+      - navigation "user menu" [ref=e16]:
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - link [ref=e21] [cursor=pointer]:
+              - /url: /
+              - img "home" [ref=e24]
+          - listitem [ref=e25]:
+            - button [ref=e28] [cursor=pointer]:
+              - img "moon" [ref=e31]
+          - listitem [ref=e32]:
+            - link [ref=e36] [cursor=pointer]:
+              - /url: /notifications
+              - img "notification" [ref=e39]
+          - listitem [ref=e40]:
+            - button "Masuk" [ref=e41] [cursor=pointer]
+          - listitem [ref=e45]:
+            - button "Buat Tulisan" [ref=e47] [cursor=pointer]
+    - navigation "headermain menu" [ref=e51]:
+      - list [ref=e52]:
+        - listitem "viewport impression tracker" [ref=e53]:
+          - link "News" [ref=e54] [cursor=pointer]:
+            - /url: /channel/news
+        - listitem "viewport impression tracker" [ref=e57]:
+          - link "Tekno" [ref=e58] [cursor=pointer]:
+            - /url: /channel/tekno
+        - listitem "viewport impression tracker" [ref=e61]:
+          - link "Bisnis" [ref=e62] [cursor=pointer]:
+            - /url: /channel/bisnis
+        - listitem "viewport impression tracker" [ref=e65]:
+          - link "Otomotif" [ref=e66] [cursor=pointer]:
+            - /url: /channel/otomotif
+        - listitem "viewport impression tracker" [ref=e69]:
+          - link "Entertainment" [ref=e70] [cursor=pointer]:
+            - /url: /channel/entertainment
+        - listitem "viewport impression tracker" [ref=e73]:
+          - link "Food & Travel" [ref=e74] [cursor=pointer]:
+            - /url: /channel/food-travel
+        - listitem "viewport impression tracker" [ref=e77]:
+          - link "Bola & Sports" [ref=e78] [cursor=pointer]:
+            - /url: /channel/bola-sports
+        - listitem "viewport impression tracker" [ref=e81]:
+          - link "Mom" [ref=e82] [cursor=pointer]:
+            - /url: /channel/mom
+        - listitem "viewport impression tracker" [ref=e85]:
+          - link "Woman" [ref=e86] [cursor=pointer]:
+            - /url: /channel/woman
+        - listitem "viewport impression tracker" [ref=e89]:
+          - link "Bolanita" [ref=e90] [cursor=pointer]:
+            - /url: /channel/bolanita
+        - generic [ref=e95] [cursor=pointer]:
+          - img "more-vertical" [ref=e98]
+          - generic [ref=e99]: Lainnya
+    - navigation "header sub menu" [ref=e101]:
+      - list [ref=e102]:
+        - listitem [ref=e103]:
+          - link "Breaking News" [ref=e104] [cursor=pointer]:
+            - /url: /breakingnews
+        - listitem [ref=e109]:
+          - link "Sumatera Pulih" [ref=e110] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem [ref=e115]:
+          - link "Green Initiative" [ref=e116] [cursor=pointer]:
+            - /url: /topic/green-initiative
+        - listitem [ref=e121]:
+          - link "Video Story" [ref=e122] [cursor=pointer]:
+            - /url: /video-story
+        - listitem [ref=e127]:
+          - link "Audio Story" [ref=e128] [cursor=pointer]:
+            - /url: /audio-story
+        - listitem [ref=e133]:
+          - link "Trending" [ref=e134] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=e139]:
+          - link "kumparanPLUS" [ref=e140] [cursor=pointer]:
+            - /url: /kumparan-plus
+        - listitem [ref=e145]:
+          - link "Opini & Cerita" [ref=e146] [cursor=pointer]:
+            - /url: /opini-cerita
+  - main [ref=e151]:
+    - generic:
+      - complementary
+    - generic [ref=e1961]:
+      - generic:
+        - complementary
+      - generic:
+        - complementary
+      - generic [ref=e1962]:
+        - complementary [ref=e1963]
+        - generic [ref=e1964]:
+          - generic [ref=e1965]:
+            - heading "Pencarian" [level=1] [ref=e1967]
+            - generic [ref=e1969]:
+              - generic [ref=e1970]: Pencarian populer
+              - generic [ref=e1974]:
+                - link "cucun ahmad syamsurijal" [ref=e1976] [cursor=pointer]:
+                  - /url: /search/cucun ahmad syamsurijal
+                - link "raja juli" [ref=e1981] [cursor=pointer]:
+                  - /url: /search/raja juli
+                - link "giring" [ref=e1986] [cursor=pointer]:
+                  - /url: /search/giring
+                - link "lpsk" [ref=e1991] [cursor=pointer]:
+                  - /url: /search/lpsk
+                - link "mabes polri" [ref=e1996] [cursor=pointer]:
+                  - /url: /search/mabes polri
+                - link "mutasi polri" [ref=e2001] [cursor=pointer]:
+                  - /url: /search/mutasi polri
+                - link "hilang" [ref=e2006] [cursor=pointer]:
+                  - /url: /search/hilang
+                - link "delisting" [ref=e2011] [cursor=pointer]:
+                  - /url: /search/delisting
+                - link "ihsg" [ref=e2016] [cursor=pointer]:
+                  - /url: /search/ihsg
+                - link "pajero" [ref=e2021] [cursor=pointer]:
+                  - /url: /search/pajero
+          - generic [ref=e2026]:
+            - complementary [ref=e2027]
+            - complementary [ref=e2030]
