@@ -11,9 +11,6 @@ export class HomePage {
   readonly standardEditorialCards: Locator;
   readonly firstStandardArticleLink: Locator;
   readonly firstStandardArticleTitle: Locator;
-  readonly themeToggleButton: Locator;
-  readonly moonIcon: Locator;
-  readonly sunIcon: Locator;
   readonly loginButton: Locator;
   readonly userAvatar: Locator;
   readonly logoutButton: Locator;
@@ -25,14 +22,11 @@ export class HomePage {
 
   constructor(page: Page) {
     this.page = page;
-    this.brandLogo = page.locator('[data-qa-id="hd-logo"]');
+    this.brandLogo = page.locator('[data-qa-id="hd-logo"]').first();
     this.channelNavigation = page.locator('nav[data-qa-id="main-menu"]');
     this.subMenuNavigation = page.locator('header[data-qa-id="header-section"] nav[aria-label="header sub menu"]');
     this.searchInput = page.locator('input[data-qa-id="input-search"]');
     this.mobileSearchButton = page.locator('a[data-qa-id="hd-search"]');
-    this.themeToggleButton = page.locator('button[data-qa-id="hd-theme"]');
-    this.moonIcon = this.themeToggleButton.locator('img[data-qa-id="moon"], img[alt="moon"]');
-    this.sunIcon = this.themeToggleButton.locator('img[data-qa-id="sun"], img[alt="sun"]');
     this.loginButton = page.locator('button[data-qa-id="hd-login"]');
     this.userAvatar = page.locator('div[data-qa-id="hd-pic-user"].avsmini');
     this.logoutButton = page.locator('a[data-qa-id="log-out"]');
@@ -94,18 +88,6 @@ export class HomePage {
     await this.searchInput.click();
   }
 
-  async search(keyword: string): Promise<void> {
-    await this.page.waitForLoadState('load');
-    await this.searchInput.click();
-    await this.searchInput.fill(keyword);
-    await this.searchInput.press('Enter');
-  }
-
-  async toggleTheme(): Promise<void> {
-    await this.page.waitForLoadState('load');
-    await this.themeToggleButton.click();
-  }
-
   async clickLogin(): Promise<void> {
     await this.loginButton.click();
   }
@@ -145,9 +127,5 @@ export class HomePage {
   async logout(): Promise<void> {
     await this.clickUserAvatar();
     await this.clickLogout();
-  }
-
-  getFirstStandardArticle(): Locator {
-    return this.standardEditorialCards.first();
   }
 }

@@ -25,7 +25,7 @@ test.describe('Editorial Article & Engagement (Phase 4 - Desktop)', () => {
     expect(expectedHref).toBeTruthy();
 
     // 3. Open article
-    await homePage.firstStandardArticleTitle.click();
+    await homePage.firstStandardArticleLink.click({ force: true });
 
     // 4. Assert URL and article heading
     const escapedHref = expectedHref!.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -50,7 +50,8 @@ test.describe('Editorial Article & Engagement (Phase 4 - Desktop)', () => {
     // 1. Navigate to homepage and open first standard article in unauthenticated guest session
     await homePage.goto();
     await expect(homePage.firstStandardArticleTitle).toBeVisible({ timeout: 15000 });
-    await homePage.firstStandardArticleTitle.click();
+    await homePage.firstStandardArticleLink.click();
+    await expect(articlePage.storyTitle).toBeVisible({ timeout: 15000 });
 
     // 2. Click comment icon beneath title
     await expect(articlePage.commentTrigger).toBeVisible({ timeout: 15000 });

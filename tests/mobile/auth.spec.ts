@@ -141,6 +141,7 @@ test.describe('Mobile Authentication & Session Management (Phase 1 - Mobile)', (
     await expect(homePage.brandLogo).toBeVisible({ timeout: 15000 });
 
     // 3. Verify mobile editorial content is loaded for guest users
+    await page.waitForLoadState('load');
     await expect(homePage.getFirstArticleCard()).toBeVisible({ timeout: 15000 });
 
     // 4. Open burger menu and verify guest "Masuk" drawer option is present

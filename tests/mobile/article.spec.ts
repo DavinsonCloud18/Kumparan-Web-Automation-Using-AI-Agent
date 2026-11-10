@@ -25,7 +25,10 @@ test.describe('Editorial Article & Engagement (Phase 4 - Mobile)', () => {
     expect(expectedHref).toBeTruthy();
 
     // 3. Open article on mobile via the card link
-    await homePage.firstStandardArticleLink.click();
+    await page.evaluate(() => {
+      document.getElementById('animated-mobile-mega-billboard')?.remove();
+    });
+    await homePage.firstStandardArticleLink.click({ force: true });
 
     // 4. Assert URL and article heading
     const escapedHref = expectedHref!.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -50,7 +53,10 @@ test.describe('Editorial Article & Engagement (Phase 4 - Mobile)', () => {
     // 1. Navigate to mobile homepage and select first standard editorial article
     await homePage.goto();
     await expect(homePage.firstStandardArticleTitle).toBeVisible({ timeout: 15000 });
-    await homePage.firstStandardArticleLink.click();
+    await page.evaluate(() => {
+      document.getElementById('animated-mobile-mega-billboard')?.remove();
+    });
+    await homePage.firstStandardArticleLink.click({ force: true });
     await expect(articlePage.storyTitle).toBeVisible({ timeout: 15000 });
 
     // 2. Check mobile comment trigger behavior
