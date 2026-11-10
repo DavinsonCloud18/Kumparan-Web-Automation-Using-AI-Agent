@@ -1,0 +1,718 @@
+- generic [active] [ref=f33e1]:
+  - complementary
+  - generic [ref=f33e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f33e3]:
+      - generic [ref=f33e4]:
+        - generic "kumparan logo" [ref=f33e5]:
+          - link [ref=f33e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f33e7]
+        - search [ref=f33e8]:
+          - generic [ref=f33e9]: Pencarian
+          - generic [ref=f33e11]:
+            - img "search" [ref=f33e13]
+            - textbox "Pencarian" [ref=f33e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f33e16]:
+          - list [ref=f33e17]:
+            - listitem [ref=f33e18]:
+              - link [ref=f33e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f33e24]
+            - listitem [ref=f33e25]:
+              - button [ref=f33e28] [cursor=pointer]:
+                - img "moon" [ref=f33e31]
+            - listitem [ref=f33e32]:
+              - link [ref=f33e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f33e39]
+            - listitem [ref=f33e40]:
+              - button "Masuk" [ref=f33e41] [cursor=pointer]
+            - listitem [ref=f33e45]:
+              - button "Buat Tulisan" [ref=f33e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f33e51]:
+        - list [ref=f33e52]:
+          - listitem "viewport impression tracker" [ref=f33e53]:
+            - link "News" [ref=f33e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f33e57]:
+            - link "Tekno" [ref=f33e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f33e61]:
+            - link "Bisnis" [ref=f33e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f33e65]:
+            - link "Otomotif" [ref=f33e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f33e69]:
+            - link "Entertainment" [ref=f33e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f33e73]:
+            - link "Food & Travel" [ref=f33e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f33e77]:
+            - link "Bola & Sports" [ref=f33e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f33e81]:
+            - link "Mom" [ref=f33e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f33e85]:
+            - link "Woman" [ref=f33e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f33e89]:
+            - link "Bolanita" [ref=f33e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f33e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f33e98]
+            - generic [ref=f33e99]: Lainnya
+      - navigation "header sub menu" [ref=f33e101]:
+        - list [ref=f33e102]:
+          - listitem [ref=f33e103]:
+            - link "Breaking News" [ref=f33e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f33e109]:
+            - link "Sumatera Pulih" [ref=f33e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f33e115]:
+            - link "Green Initiative" [ref=f33e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f33e121]:
+            - link "Video Story" [ref=f33e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f33e127]:
+            - link "Audio Story" [ref=f33e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f33e133]:
+            - link "Trending" [ref=f33e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f33e139]:
+            - link "kumparanPLUS" [ref=f33e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f33e145]:
+            - link "Opini & Cerita" [ref=f33e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f33e151]:
+      - generic [ref=f33e152]:
+        - generic:
+          - complementary
+        - generic [ref=f33e153]:
+          - heading "kumparan.com - Bicara Fakta Lewat Berita" [level=1]
+          - complementary [ref=f33e156]:
+            - iframe [ref=f33e160]:
+              - link [ref=f40e3] [cursor=pointer]:
+                - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsukmTbP_qCg5_yev1xB-HJYDjsulhFgW86xsNksExBg-u8Cs2tSZGDjraLkBBwnX5YV8moRSz6X_7p0w3nFdSaYSVuuzrttJfWy_nHMCmaRCRk423zc3AxTFm73o_ima1Yl39joWn-LCiahOicZL8Njj-5vJ-tI9tq0N-gEo30Deup9Ey8qwUOeXVxoo5FWlKN3gh1Zbg2xrpxFZgfyUE0hsh7hKCIfszeTZ7ge-o59LiKOUPuAPW1nsi_C_3Vt1EoNv9itP0Ir_PjGAgjarOkl9uwx2nvpDlq0mr9W4GqtMyI07RzaJcFmo7UIStfqqdGcQ1rvEwo8RPhi7ETgLyyj5EnzehbMQXVLjnSYnXf1PM23YAD5bKDfNJFsnJ6JjEGpHUi5n4A7ueOTeMee-kJj--G-Rqt8tNTnwT9tpwS4CWaCHA%2526sai%253DAMfl-YTcGavIO_vne4P2oHbtkVjJpbPDHIdZe-g1ic2lUIsxCKAQS4sPZi45f_Ru04WfT4wB233YXwaAa8QaFjCz4uLcpcxRvTfN9QLJmhJdooAY6Cf8D4XTE8mGTaT9CFZiZLNeie2F1HXV-ToYhEdE4009bAkvT0RNPW_M7yzC63eOYKiRNlG7eI99W8ROcKduy3c3cLSZ_BM3zGC0l_gTHegGYnMDn2uKF01NypQdQtC2dG7mAxMWzEi3M5a5Kc1BDBrKp_6zoBzpb1U4d4cmEWs2tcEbQlwD1VLfkWgglszHps8vxCqrJLfChERRYVGNf-OUr2vVfkF89_HjrlKviAwb2czGmW1Vonz5BCqgH0kyKHnnhyY9cdv0-FYGZM_pS86CdA4xhID1nsThqFVnqxc%2526sig%253DCg0ArKJSzG00o-4mxwRaEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_DesktopBillboard%26utm_content%3DHisteria1111_10Nov
+                - img "Banner" [ref=f40e4]
+          - generic [ref=f33e165]:
+            - button [ref=f33e167] [cursor=pointer]:
+              - img "arrow-right" [ref=f33e170]
+            - generic [ref=f33e171]:
+              - generic "viewport impression tracker" [ref=f33e173]: Sorotan Siang
+              - generic "viewport impression tracker" [ref=f33e184]: Sumatera Pulih
+              - generic "viewport impression tracker" [ref=f33e195]: Food & Travel
+              - generic "viewport impression tracker" [ref=f33e206]: Entertainment
+              - generic "viewport impression tracker" [ref=f33e217]: News
+              - generic "viewport impression tracker" [ref=f33e228]: Otomotif
+              - generic "viewport impression tracker" [ref=f33e239]: Bola & Sports
+              - generic "viewport impression tracker" [ref=f33e250]: Bisnis
+              - generic "viewport impression tracker" [ref=f33e261]: Tekno & Sains
+              - generic "viewport impression tracker" [ref=f33e272]: Bolanita
+              - generic "viewport impression tracker" [ref=f33e283]: Woman
+          - generic [ref=f33e296]:
+            - generic "viewport impression tracker" [ref=f33e299]:
+              - link "Hak Menyatakan Pendapat soal Gibran" [ref=f33e300] [cursor=pointer]:
+                - /url: /topic/hak-menyatakan-pendapat-soal-gibran
+            - generic "viewport impression tracker" [ref=f33e306]:
+              - link "Jensen Huang Selingkuh" [ref=f33e307] [cursor=pointer]:
+                - /url: /topic/jensen-huang-selingkuh
+            - generic "viewport impression tracker" [ref=f33e313]:
+              - link "Listyo Sigit Sadap Presiden" [ref=f33e314] [cursor=pointer]:
+                - /url: /topic/listyo-sigit-tersangka-kasus-penyadapan-presiden
+            - generic "viewport impression tracker" [ref=f33e320]:
+              - link "Menteri-Wamen PSI Mundur" [ref=f33e321] [cursor=pointer]:
+                - /url: /topic/menteri-wamen-psi-mundur
+          - generic [ref=f33e327]:
+            - generic [ref=f33e330]:
+              - generic [ref=f33e336]:
+                - generic [ref=f33e338]:
+                  - generic [ref=f33e340]:
+                    - complementary
+                    - generic "viewport impression tracker" [ref=f33e342]:
+                      - generic [ref=f33e344]:
+                        - img "Lansia yang menempati Rumah Lansia di Karawang" [ref=f33e348]
+                        - generic [ref=f33e350]:
+                          - link "news-card-label-link" [ref=f33e351] [cursor=pointer]:
+                            - /url: /kumparannews/mak-caswi-and-cerita-lansia-sejawatnya-di-karawang-temukan-tempat-berteduh-usai-hidup-sebatang-kara-28XrdeqQjlE
+                            - generic [ref=f33e352]: "Mak Caswi & Cerita Lansia Sejawatnya di Karawang: Temukan Tempat Berteduh Usai Hidup Sebatang Kara"
+                            - generic [ref=f33e355]:
+                              - img "kumparanNEWS" [ref=f33e361]
+                              - generic [ref=f33e363]:
+                                - generic [ref=f33e364]: kumparanNEWS
+                                - img "verified-round" [ref=f33e368]
+                          - generic [ref=f33e369]: 2 menit
+                  - generic [ref=f33e373]:
+                    - generic [ref=f33e375]:
+                      - complementary
+                      - generic "viewport impression tracker" [ref=f33e377]:
+                        - generic [ref=f33e379]:
+                          - img "Untitled Image" [ref=f33e383]
+                          - generic [ref=f33e385]:
+                            - link "news-card-label-link" [ref=f33e386] [cursor=pointer]:
+                              - /url: /kumparannews/wali-kota-depok-pertama-badrul-kamal-meninggal-dunia-28XrQpurZCj
+                              - generic [ref=f33e387]: Wali Kota Depok Pertama Badrul Kamal Meninggal Dunia
+                              - generic [ref=f33e390]:
+                                - img "kumparanNEWS" [ref=f33e396]
+                                - generic [ref=f33e398]:
+                                  - generic [ref=f33e399]: kumparanNEWS
+                                  - img "verified-round" [ref=f33e403]
+                            - generic [ref=f33e404]: 20 menit
+                    - generic "viewport impression tracker" [ref=f33e411]:
+                      - generic [ref=f33e413]:
+                        - img "Kumplus-Opini Toto Pranoto- pesawat Garuda Indonesia" [ref=f33e417]
+                        - generic [ref=f33e419]:
+                          - link "news-card-label-link" [ref=f33e420] [cursor=pointer]:
+                            - /url: /kumparanbisnis/danantara-resmi-kuasai-65-77-saham-gmfi-dari-injourney-lewat-pembagian-dividen-saham-28XqmRcLQyt
+                            - generic [ref=f33e421]: Danantara Resmi Kuasai 65,77% Saham GMFI dari InJourney Lewat Pembagian Dividen Saham
+                            - generic [ref=f33e424]:
+                              - img "kumparanBISNIS" [ref=f33e430]
+                              - generic [ref=f33e432]:
+                                - generic [ref=f33e433]: kumparanBISNIS
+                                - img "verified-round" [ref=f33e437]
+                          - generic [ref=f33e438]: 43 menit
+                - generic [ref=f33e443]:
+                  - generic [ref=f33e445]:
+                    - complementary
+                    - generic "viewport impression tracker" [ref=f33e447]:
+                      - generic [ref=f33e449]:
+                        - img "Indeks Harga Saham Gabungan (IHSG)" [ref=f33e453]
+                        - generic [ref=f33e455]:
+                          - link "news-card-label-link" [ref=f33e456] [cursor=pointer]:
+                            - /url: /kumparanbisnis/ihsg-sesi-1-menguat-1-04-ke-5-126-transaksi-tembus-rp-72-06-triliun-28Xqs5BPlEX
+                            - generic [ref=f33e457]: IHSG Sesi 1 Menguat 1,04% ke 5.126, Transaksi Tembus Rp 72,06 Triliun
+                            - generic [ref=f33e460]:
+                              - img "kumparanBISNIS" [ref=f33e466]
+                              - generic [ref=f33e468]:
+                                - generic [ref=f33e469]: kumparanBISNIS
+                                - img "verified-round" [ref=f33e473]
+                          - generic [ref=f33e474]: 51 menit
+                  - generic [ref=f33e478]:
+                    - generic [ref=f33e480]:
+                      - complementary
+                      - generic "viewport impression tracker" [ref=f33e482]:
+                        - generic [ref=f33e484]:
+                          - img "IHSG ditutup melemah" [ref=f33e488]
+                          - generic [ref=f33e490]:
+                            - link "news-card-label-link" [ref=f33e491] [cursor=pointer]:
+                              - /url: /kumparanbisnis/digempur-dari-berbagai-arah-ke-mana-ihsg-akan-melangkah-28XbXbpcMyp
+                              - generic [ref=f33e492]: Digempur dari Berbagai Arah, ke Mana IHSG Akan Melangkah?
+                              - generic [ref=f33e495]:
+                                - img "kumparanBISNIS" [ref=f33e501]
+                                - generic [ref=f33e503]:
+                                  - generic [ref=f33e504]: kumparanBISNIS
+                                  - img "verified-round" [ref=f33e508]
+                            - generic [ref=f33e509]: sejam
+                    - generic "viewport impression tracker" [ref=f33e516]:
+                      - generic [ref=f33e518]:
+                        - img "Ziarah Jabal Rahmah" [ref=f33e522]
+                        - generic [ref=f33e524]:
+                          - link "news-card-label-link" [ref=f33e525] [cursor=pointer]:
+                            - /url: /kumparannews/makkah-gelar-maraton-bulan-depan-peserta-berlari-lintasi-muzdalifah-hingga-arafah-28XpfBE5m0Q
+                            - generic [ref=f33e526]: Makkah Gelar Maraton Bulan Depan, Peserta Berlari Lintasi Muzdalifah hingga Arafah
+                            - generic [ref=f33e529]:
+                              - img "kumparanNEWS" [ref=f33e535]
+                              - generic [ref=f33e537]:
+                                - generic [ref=f33e538]: kumparanNEWS
+                                - img "verified-round" [ref=f33e542]
+                          - generic [ref=f33e543]: sejam
+                - generic [ref=f33e548]:
+                  - generic "viewport impression tracker" [ref=f33e552]:
+                    - generic [ref=f33e554]:
+                      - img "Untitled Image" [ref=f33e558]
+                      - generic [ref=f33e560]:
+                        - link "news-card-label-link" [ref=f33e561] [cursor=pointer]:
+                          - /url: /kumparanbisnis/bermodalkan-rp-1-juta-brilink-agen-tarida-kini-miliki-9-gerai-dan-buka-lapangan-kerja-bagi-18-warga-28XqOhvV8uU
+                          - generic [ref=f33e562]: Bermodalkan Rp 1 Juta, BRILink Agen Tarida Kini Miliki 9 Gerai dan Buka Lapangan Kerja bagi 18 Warga
+                          - generic [ref=f33e565]:
+                            - img "kumparanBISNIS" [ref=f33e571]
+                            - generic [ref=f33e573]:
+                              - generic [ref=f33e574]: kumparanBISNIS
+                              - img "verified-round" [ref=f33e578]
+                        - generic [ref=f33e579]: sejam
+                  - generic [ref=f33e583]:
+                    - generic "viewport impression tracker" [ref=f33e587]:
+                      - generic [ref=f33e589]:
+                        - img "Herman Khaeron" [ref=f33e593]
+                        - generic [ref=f33e595]:
+                          - link "news-card-label-link" [ref=f33e596] [cursor=pointer]:
+                            - /url: /kumparannews/fraksi-demokrat-tunggu-arahan-ahy-untuk-gulirkan-hmp-terkait-polemik-ijazah-gibran-28SMyjREpke
+                            - generic [ref=f33e597]: Fraksi Demokrat Tunggu Arahan AHY untuk Gulirkan HMP Terkait Polemik Ijazah Gibran
+                            - generic [ref=f33e600]:
+                              - img "kumparanNEWS" [ref=f33e606]
+                              - generic [ref=f33e608]:
+                                - generic [ref=f33e609]: kumparanNEWS
+                                - img "verified-round" [ref=f33e613]
+                          - generic [ref=f33e614]: 2 jam
+                    - generic "viewport impression tracker" [ref=f33e621]:
+                      - generic [ref=f33e623]:
+                        - img "Konpers usai Pembukaan Rapat Paripurna ke-11" [ref=f33e627]
+                        - generic [ref=f33e629]:
+                          - link "news-card-label-link" [ref=f33e630] [cursor=pointer]:
+                            - /url: /kumparannews/puan-apresiasi-polri-sigap-tangani-penyadapan-prabowo-aparat-bukan-alat-kekuasaan-harus-ungkap-28Xq0JghaUR
+                            - generic [ref=f33e631]: "Puan Apresiasi Polri Sigap Tangani Penyadapan Prabowo: Aparat Bukan Alat Kekuasaan, Harus Ungkap"
+                            - generic [ref=f33e634]:
+                              - img "kumparanNEWS" [ref=f33e640]
+                              - generic [ref=f33e642]:
+                                - generic [ref=f33e643]: kumparanNEWS
+                                - img "verified-round" [ref=f33e647]
+                          - generic [ref=f33e648]: 2 jam
+              - img "chevron-next" [ref=f33e653] [cursor=pointer]
+              - tablist [ref=f33e656]:
+                - tab "Page 1" [ref=f33e657]
+                - tab "Page 2" [ref=f33e658]
+                - tab "Page 3" [ref=f33e659]
+            - generic [ref=f33e661]:
+              - generic [ref=f33e663]:
+                - link [ref=f33e664] [cursor=pointer]:
+                  - /url: /trending
+                  - heading "Trending" [level=2] [ref=f33e665]
+                - link "arrow-right Lihat lainnya" [ref=f33e667] [cursor=pointer]:
+                  - /url: /trending
+                  - generic [ref=f33e668]:
+                    - img "arrow-right" [ref=f33e670]
+                    - generic [ref=f33e671]: Lihat lainnya
+              - list [ref=f33e674]:
+                - listitem [ref=f33e675]:
+                  - generic "viewport impression tracker" [ref=f33e678]:
+                    - generic [ref=f33e679]:
+                      - generic [ref=f33e680]:
+                        - link "news-card-label-link" [ref=f33e681] [cursor=pointer]:
+                          - /url: /kumparannews/403-anggota-dpr-hadiri-paripurna-hari-ini-dipimpin-puan-cucun-dan-saan-28XpjWv4uSM
+                          - generic [ref=f33e682]: 403 Anggota DPR Hadiri Paripurna Hari Ini, Dipimpin Puan, Cucun dan Saan
+                          - generic [ref=f33e685]:
+                            - img "kumparanNEWS" [ref=f33e691]
+                            - generic [ref=f33e693]:
+                              - generic [ref=f33e694]: kumparanNEWS
+                              - img "verified-round" [ref=f33e698]
+                        - generic [ref=f33e699]: 2 jam
+                      - generic [ref=f33e703]:
+                        - link:
+                          - /url: /kumparannews/403-anggota-dpr-hadiri-paripurna-hari-ini-dipimpin-puan-cucun-dan-saan-28XpjWv4uSM
+                          - generic [ref=f33e704] [cursor=pointer]
+                - listitem [ref=f33e708]:
+                  - generic "viewport impression tracker" [ref=f33e711]:
+                    - generic [ref=f33e712]:
+                      - generic [ref=f33e713]:
+                        - link "news-card-label-link" [ref=f33e714] [cursor=pointer]:
+                          - /url: /kumparannews/6-saksi-kasus-penyadapan-presiden-prabowo-minta-perlindungan-ke-lpsk-28XnZIr87Ci
+                          - generic [ref=f33e715]: 6 Saksi Kasus Penyadapan Presiden Prabowo Minta Perlindungan ke LPSK
+                          - generic [ref=f33e718]:
+                            - img "kumparanNEWS" [ref=f33e724]
+                            - generic [ref=f33e726]:
+                              - generic [ref=f33e727]: kumparanNEWS
+                              - img "verified-round" [ref=f33e731]
+                        - generic [ref=f33e732]: 4 jam
+                      - generic [ref=f33e736]:
+                        - link:
+                          - /url: /kumparannews/6-saksi-kasus-penyadapan-presiden-prabowo-minta-perlindungan-ke-lpsk-28XnZIr87Ci
+                          - generic [ref=f33e737] [cursor=pointer]
+                - listitem [ref=f33e741]:
+                  - generic "viewport impression tracker" [ref=f33e744]:
+                    - generic [ref=f33e745]:
+                      - generic [ref=f33e746]:
+                        - link "news-card-label-link" [ref=f33e747] [cursor=pointer]:
+                          - /url: /kumparannews/polri-gelar-sidang-etik-irjen-ahrie-sonta-terkait-kasus-dugaan-penyadapan-presiden-28XqdwewNOT
+                          - generic [ref=f33e748]: Polri Gelar Sidang Etik Irjen Ahrie Sonta Terkait Kasus Dugaan Penyadapan Presiden
+                          - generic [ref=f33e751]:
+                            - img "kumparanNEWS" [ref=f33e757]
+                            - generic [ref=f33e759]:
+                              - generic [ref=f33e760]: kumparanNEWS
+                              - img "verified-round" [ref=f33e764]
+                        - generic [ref=f33e765]: sejam
+                      - generic [ref=f33e769]:
+                        - link:
+                          - /url: /kumparannews/polri-gelar-sidang-etik-irjen-ahrie-sonta-terkait-kasus-dugaan-penyadapan-presiden-28XqdwewNOT
+                          - generic [ref=f33e770] [cursor=pointer]
+                - listitem [ref=f33e774]:
+                  - generic "viewport impression tracker" [ref=f33e777]:
+                    - generic [ref=f33e778]:
+                      - generic [ref=f33e779]:
+                        - link "news-card-label-link" [ref=f33e780] [cursor=pointer]:
+                          - /url: /kumparanbisnis/bei-delisting-18-emiten-hari-ini-berikut-daftarnya-28XmrJqiz9R
+                          - generic [ref=f33e781]: BEI Delisting 18 Emiten Hari Ini, Berikut Daftarnya
+                          - generic [ref=f33e784]:
+                            - img "kumparanBISNIS" [ref=f33e790]
+                            - generic [ref=f33e792]:
+                              - generic [ref=f33e793]: kumparanBISNIS
+                              - img "verified-round" [ref=f33e797]
+                        - generic [ref=f33e798]: 5 jam
+                      - generic [ref=f33e802]:
+                        - link:
+                          - /url: /kumparanbisnis/bei-delisting-18-emiten-hari-ini-berikut-daftarnya-28XmrJqiz9R
+                          - generic [ref=f33e803] [cursor=pointer]
+                - listitem [ref=f33e807]:
+                  - generic "viewport impression tracker" [ref=f33e810]:
+                    - generic [ref=f33e811]:
+                      - generic [ref=f33e812]:
+                        - link "news-card-label-link" [ref=f33e813] [cursor=pointer]:
+                          - /url: /kumparannews/cari-2-pendaki-hilang-tim-sar-justru-temukan-2-pendaki-ilegal-di-semeru-28XmGYTBfl6
+                          - generic [ref=f33e814]: Cari 2 Pendaki Hilang, Tim SAR Justru Temukan 2 Pendaki Ilegal di Semeru
+                          - generic [ref=f33e817]:
+                            - img "kumparanNEWS" [ref=f33e823]
+                            - generic [ref=f33e825]:
+                              - generic [ref=f33e826]: kumparanNEWS
+                              - img "verified-round" [ref=f33e830]
+                        - generic [ref=f33e831]: 5 jam
+                      - generic [ref=f33e835]:
+                        - link:
+                          - /url: /kumparannews/cari-2-pendaki-hilang-tim-sar-justru-temukan-2-pendaki-ilegal-di-semeru-28XmGYTBfl6
+                          - generic [ref=f33e836] [cursor=pointer]
+          - complementary [ref=f33e841]
+          - generic [ref=f33e844]:
+            - generic [ref=f33e846]:
+              - link [ref=f33e847] [cursor=pointer]:
+                - /url: /topic/polling-kumparan
+                - heading "Polling" [level=2] [ref=f33e848]
+              - link [ref=f33e850] [cursor=pointer]:
+                - /url: /topic/polling-kumparan
+                - img "arrow-right" [ref=f33e853]
+            - generic [ref=f33e854]:
+              - generic [ref=f33e860]:
+                - generic "viewport impression tracker" [ref=f33e864]:
+                  - generic [ref=f33e865]:
+                    - link [ref=f33e866] [cursor=pointer]:
+                      - /url: /kumparannews/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                      - img "Joko Widodo" [ref=f33e870]
+                    - generic [ref=f33e872]:
+                      - link "news-card-label-link" [ref=f33e873] [cursor=pointer]:
+                        - /url: /kumparannews/polling-jokowi-sebut-34-juta-orang-percaya-ijazahnya-palsu-kamu-salah-satunya-28WGhxh8N1N
+                        - generic [ref=f33e874]: "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?"
+                        - generic [ref=f33e877]:
+                          - img "kumparanNEWS" [ref=f33e883]
+                          - generic [ref=f33e885]:
+                            - generic [ref=f33e886]: kumparanNEWS
+                            - img "verified-round" [ref=f33e890]
+                      - generic "viewport impression tracker" [ref=f33e892]:
+                        - 'group "Polling: Jokowi Sebut 34 Juta Orang Percaya Ijazahnya Palsu, Kamu Salah Satunya?" [ref=f33e894]':
+                          - button "Iya" [ref=f33e896] [cursor=pointer]
+                          - button "Enggak, ijazahnya pasti asli" [ref=f33e900] [cursor=pointer]
+                        - paragraph [ref=f33e904]: 661 Pemilih · 3 hari
+                      - generic [ref=f33e905]: 6 Nov 2026
+                - generic "viewport impression tracker" [ref=f33e912]:
+                  - generic [ref=f33e913]:
+                    - link [ref=f33e914] [cursor=pointer]:
+                      - /url: /kumparannews/polling-apakah-kamu-pernah-mengganti-gula-dengan-stevia-28T9EbbgiER
+                      - img "Ilustrasi Stevia cair" [ref=f33e918]
+                    - generic [ref=f33e920]:
+                      - link "news-card-label-link" [ref=f33e921] [cursor=pointer]:
+                        - /url: /kumparannews/polling-apakah-kamu-pernah-mengganti-gula-dengan-stevia-28T9EbbgiER
+                        - generic [ref=f33e922]: "Polling: Apakah Kamu Pernah Mengganti Gula dengan Stevia?"
+                        - generic [ref=f33e925]:
+                          - img "kumparanNEWS" [ref=f33e931]
+                          - generic [ref=f33e933]:
+                            - generic [ref=f33e934]: kumparanNEWS
+                            - img "verified-round" [ref=f33e938]
+                      - generic "viewport impression tracker" [ref=f33e940]:
+                        - list [ref=f33e941]:
+                          - listitem [ref=f33e942]:
+                            - generic [ref=f33e943]: Masih pakai sampai sekarang
+                            - generic [ref=f33e947]: 18.97%
+                          - listitem [ref=f33e949]:
+                            - generic [ref=f33e950]: Pernah, tapi udah berhenti
+                            - generic [ref=f33e954]: 22.13%
+                          - listitem [ref=f33e956]:
+                            - generic [ref=f33e957]: Belum pernah sama sekali
+                            - generic [ref=f33e961]: 58.91%
+                        - paragraph [ref=f33e963]: 348 Pemilih · Polling telah berakhir
+                      - generic [ref=f33e964]: 29 Okt 2026
+                - generic "viewport impression tracker" [ref=f33e971]:
+                  - generic [ref=f33e972]:
+                    - link [ref=f33e973] [cursor=pointer]:
+                      - /url: /kumparanhits/polling-festival-musik-apa-yang-jadi-favorit-kamu-di-indonesia-28PbzxiskIM
+                      - img "Biru Baru tampil Bangor Festival" [ref=f33e977]
+                    - generic [ref=f33e979]:
+                      - link "news-card-label-link" [ref=f33e980] [cursor=pointer]:
+                        - /url: /kumparanhits/polling-festival-musik-apa-yang-jadi-favorit-kamu-di-indonesia-28PbzxiskIM
+                        - generic [ref=f33e981]: "Polling: Festival Musik Apa yang Jadi Favorit Kamu di Indonesia?"
+                        - generic [ref=f33e984]:
+                          - img "kumparanHITS" [ref=f33e990]
+                          - generic [ref=f33e992]:
+                            - generic [ref=f33e993]: kumparanHITS
+                            - img "verified-round" [ref=f33e997]
+                      - generic "viewport impression tracker" [ref=f33e999]:
+                        - list [ref=f33e1000]:
+                          - listitem [ref=f33e1001]:
+                            - generic [ref=f33e1002]: Pestapora
+                            - generic [ref=f33e1006]: 49.10%
+                          - listitem [ref=f33e1008]:
+                            - generic [ref=f33e1009]: La La La Fest
+                            - generic [ref=f33e1013]: 8.98%
+                          - listitem [ref=f33e1015]:
+                            - generic [ref=f33e1016]: Synchronize Fest
+                            - generic [ref=f33e1020]: 34.73%
+                          - listitem [ref=f33e1022]:
+                            - generic [ref=f33e1023]: Joyland Festival
+                            - generic [ref=f33e1027]: 7.19%
+                        - paragraph [ref=f33e1029]: 167 Pemilih · Polling telah berakhir
+                      - generic [ref=f33e1030]: 21 Okt 2026
+                - generic "viewport impression tracker" [ref=f33e1037]:
+                  - generic [ref=f33e1038]:
+                    - link [ref=f33e1039] [cursor=pointer]:
+                      - /url: /kumparanbisnis/polling-ihsg-anjlok-kamu-masih-berani-investasi-saham-28Pbb8LzsPU
+                      - img "Indeks Harga Saham Gabungan (IHSG)" [ref=f33e1043]
+                    - generic [ref=f33e1045]:
+                      - link "news-card-label-link" [ref=f33e1046] [cursor=pointer]:
+                        - /url: /kumparanbisnis/polling-ihsg-anjlok-kamu-masih-berani-investasi-saham-28Pbb8LzsPU
+                        - generic [ref=f33e1047]: "Polling: IHSG Anjlok, Kamu Masih Berani Investasi Saham?"
+                        - generic [ref=f33e1050]:
+                          - img "kumparanBISNIS" [ref=f33e1056]
+                          - generic [ref=f33e1058]:
+                            - generic [ref=f33e1059]: kumparanBISNIS
+                            - img "verified-round" [ref=f33e1063]
+                      - generic "viewport impression tracker" [ref=f33e1065]:
+                        - list [ref=f33e1066]:
+                          - listitem [ref=f33e1067]:
+                            - generic [ref=f33e1068]: Masih tetap investasi saham dong
+                            - generic [ref=f33e1072]: 29.61%
+                          - listitem [ref=f33e1074]:
+                            - generic [ref=f33e1075]: Mengurangi investasi saham dulu buat sementara
+                            - generic [ref=f33e1079]: 31.28%
+                          - listitem [ref=f33e1081]:
+                            - generic [ref=f33e1082]: Pindah semua saham ke bentuk instrumen investasi lain
+                            - generic [ref=f33e1086]: 39.11%
+                        - paragraph [ref=f33e1088]: 179 Pemilih · Polling telah berakhir
+                      - generic [ref=f33e1089]: 20 Okt 2026
+                - generic "viewport impression tracker" [ref=f33e1096]:
+                  - generic [ref=f33e1097]:
+                    - link [ref=f33e1098] [cursor=pointer]:
+                      - /url: /kumparannews/polling-apa-siasat-kamu-saat-naik-krl-di-jam-sibuk-28ND2Y6MTvv
+                      - img "kepadatan KRL Green Line Rangkasbitung-Tanah Abang" [ref=f33e1102]
+                    - generic [ref=f33e1104]:
+                      - link "news-card-label-link" [ref=f33e1105] [cursor=pointer]:
+                        - /url: /kumparannews/polling-apa-siasat-kamu-saat-naik-krl-di-jam-sibuk-28ND2Y6MTvv
+                        - generic [ref=f33e1106]: "Polling: Apa Siasat Kamu saat Naik KRL di Jam Sibuk?"
+                        - generic [ref=f33e1109]:
+                          - img "kumparanNEWS" [ref=f33e1115]
+                          - generic [ref=f33e1117]:
+                            - generic [ref=f33e1118]: kumparanNEWS
+                            - img "verified-round" [ref=f33e1122]
+                      - generic "viewport impression tracker" [ref=f33e1124]:
+                        - list [ref=f33e1125]:
+                          - listitem [ref=f33e1126]:
+                            - generic [ref=f33e1127]: Skip beberapa kereta sampai lebih sepi
+                            - generic [ref=f33e1131]: 24.72%
+                          - listitem [ref=f33e1133]:
+                            - generic [ref=f33e1134]: Menghindari gerbong tengah
+                            - generic [ref=f33e1138]: 8.12%
+                          - listitem [ref=f33e1140]:
+                            - generic [ref=f33e1141]: Geser stasiun biar dapat duduk
+                            - generic [ref=f33e1145]: 4.80%
+                          - listitem [ref=f33e1147]:
+                            - generic [ref=f33e1148]: Berangkat lebih pagi biar enggak desak-desakan
+                            - generic [ref=f33e1152]: 34.32%
+                          - listitem [ref=f33e1154]:
+                            - generic [ref=f33e1155]: Rela jadi 'pepes' yang penting cepat pulang
+                            - generic [ref=f33e1159]: 28.04%
+                        - paragraph [ref=f33e1161]: 271 Pemilih · Polling telah berakhir
+                      - generic [ref=f33e1162]: 14 Okt 2026
+                - generic "viewport impression tracker" [ref=f33e1169]:
+                  - generic [ref=f33e1170]:
+                    - link [ref=f33e1171] [cursor=pointer]:
+                      - /url: /kumparanoto/polling-itb-usul-motor-baru-tahun-depan-wajib-punya-rem-abs-setuju-28KPFjxeEKj
+                      - img "Ilustrasi rem ABS di motor." [ref=f33e1175]
+                    - generic [ref=f33e1177]:
+                      - link "news-card-label-link" [ref=f33e1178] [cursor=pointer]:
+                        - /url: /kumparanoto/polling-itb-usul-motor-baru-tahun-depan-wajib-punya-rem-abs-setuju-28KPFjxeEKj
+                        - generic [ref=f33e1179]: "Polling: ITB Usul Motor Baru Tahun Depan Wajib Punya Rem ABS, Setuju?"
+                        - generic [ref=f33e1182]:
+                          - img "kumparanOTO" [ref=f33e1188]
+                          - generic [ref=f33e1190]:
+                            - generic [ref=f33e1191]: kumparanOTO
+                            - img "verified-round" [ref=f33e1195]
+                      - generic "viewport impression tracker" [ref=f33e1197]:
+                        - list [ref=f33e1198]:
+                          - listitem [ref=f33e1199]:
+                            - generic [ref=f33e1200]: Setuju untuk semua motor
+                            - generic [ref=f33e1204]: 53.33%
+                          - listitem [ref=f33e1206]:
+                            - generic [ref=f33e1207]: Setuju untuk motor >125 cc
+                            - generic [ref=f33e1211]: 16.15%
+                          - listitem [ref=f33e1213]:
+                            - generic [ref=f33e1214]: Setuju hanya untuk tipe/varian tertentu
+                            - generic [ref=f33e1218]: 17.18%
+                          - listitem [ref=f33e1220]:
+                            - generic [ref=f33e1221]: Tidak setuju, biarkan tetap jadi opsi seperti biasa
+                            - generic [ref=f33e1225]: 13.33%
+                        - paragraph [ref=f33e1227]: 390 Pemilih · Polling telah berakhir
+                      - generic [ref=f33e1228]: 8 Okt 2026
+              - button [ref=f33e1233] [cursor=pointer]:
+                - img "chevron-next" [ref=f33e1236]
+          - generic [ref=f33e1240]:
+            - generic [ref=f33e1242]:
+              - link [ref=f33e1243] [cursor=pointer]:
+                - /url: /video-story
+                - heading "Video Story" [level=2] [ref=f33e1244]
+              - link [ref=f33e1246] [cursor=pointer]:
+                - /url: /video-story
+                - img "arrow-right" [ref=f33e1249]
+            - generic [ref=f33e1250]:
+              - generic [ref=f33e1256]:
+                - generic "viewport impression tracker" [ref=f33e1258]:
+                  - generic [ref=f33e1259]:
+                    - generic [ref=f33e1261] [cursor=pointer]:
+                      - generic [ref=f33e1264]:
+                        - img "news-card-video-v2" [ref=f33e1265]
+                        - generic [ref=f33e1266]: 50:55
+                      - img "pin-fill" [ref=f33e1268]
+                    - generic [ref=f33e1269]:
+                      - generic [ref=f33e1270] [cursor=pointer]: Skandal Penyadapan oleh Sang Jenderal
+                      - generic [ref=f33e1274]:
+                        - generic [ref=f33e1275]: kumparanNEWS
+                        - img "verified-round" [ref=f33e1280]
+                - generic "viewport impression tracker" [ref=f33e1282]:
+                  - generic [ref=f33e1283]:
+                    - generic [ref=f33e1285] [cursor=pointer]:
+                      - generic [ref=f33e1288]:
+                        - img "news-card-video-v2" [ref=f33e1289]
+                        - generic [ref=f33e1290]: 01:19:10
+                      - img "pin-fill" [ref=f33e1292]
+                    - generic [ref=f33e1293]:
+                      - generic [ref=f33e1294] [cursor=pointer]: Tidak Naik Kelas Bukan Hukuman
+                      - generic [ref=f33e1298]:
+                        - generic [ref=f33e1299]: kumparanNEWS
+                        - img "verified-round" [ref=f33e1304]
+                - generic "viewport impression tracker" [ref=f33e1306]:
+                  - generic [ref=f33e1307]:
+                    - generic [ref=f33e1312] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1313]
+                      - generic [ref=f33e1314]: 00:54
+                    - generic [ref=f33e1315]:
+                      - generic [ref=f33e1316] [cursor=pointer]: Menyusuri Dunia "Laut Bercerita"
+                      - generic [ref=f33e1320]:
+                        - generic [ref=f33e1321]: kumparanHITS
+                        - img "verified-round" [ref=f33e1326]
+                - generic "viewport impression tracker" [ref=f33e1328]:
+                  - generic [ref=f33e1329]:
+                    - generic [ref=f33e1334] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1335]
+                      - generic [ref=f33e1336]: 01:09
+                    - generic [ref=f33e1337]:
+                      - generic [ref=f33e1338] [cursor=pointer]: Senang Bisa Ajak Ibuku Hadiri Gala Premier Filmku
+                      - generic [ref=f33e1342]:
+                        - generic [ref=f33e1343]: kumparanHITS
+                        - img "verified-round" [ref=f33e1348]
+                - generic "viewport impression tracker" [ref=f33e1350]:
+                  - generic [ref=f33e1351]:
+                    - generic [ref=f33e1356] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1357]
+                      - generic [ref=f33e1358]: 00:21
+                    - generic [ref=f33e1359]:
+                      - generic [ref=f33e1360] [cursor=pointer]: Saham Nvidia Anjlok 4,2% usai Jensen Huang Ngaku Selingkuh
+                      - generic [ref=f33e1364]:
+                        - generic [ref=f33e1365]: kumparanTEKNO
+                        - img "verified-round" [ref=f33e1370]
+                - generic "viewport impression tracker" [ref=f33e1372]:
+                  - generic [ref=f33e1373]:
+                    - generic [ref=f33e1378] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1379]
+                      - generic [ref=f33e1380]: 00:31
+                    - generic [ref=f33e1381]:
+                      - generic [ref=f33e1382] [cursor=pointer]: Ketemu pertama sebelum digembleng di TC 😅
+                      - generic [ref=f33e1383]: kumparanBOLANITA
+                - generic "viewport impression tracker" [ref=f33e1392]:
+                  - generic [ref=f33e1393]:
+                    - generic [ref=f33e1398] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1399]
+                      - generic [ref=f33e1400]: 00:08
+                    - generic [ref=f33e1401]:
+                      - generic [ref=f33e1402] [cursor=pointer]: "Jensen Huang ke Trump: Saya gak tau Alice Huang mata-mata"
+                      - generic [ref=f33e1406]:
+                        - generic [ref=f33e1407]: kumparanTEKNO
+                        - img "verified-round" [ref=f33e1412]
+                - generic "viewport impression tracker" [ref=f33e1414]:
+                  - generic [ref=f33e1415]:
+                    - generic [ref=f33e1420] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1421]
+                      - generic [ref=f33e1422]: 00:38
+                    - generic [ref=f33e1423]:
+                      - generic [ref=f33e1424] [cursor=pointer]: Pindah Jakarta, Stajcic Bakal Nonton IWL Tiap Pekan!
+                      - generic [ref=f33e1425]: kumparanBOLANITA
+                - generic "viewport impression tracker" [ref=f33e1434]:
+                  - generic [ref=f33e1435]:
+                    - generic [ref=f33e1440] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1441]
+                      - generic [ref=f33e1442]: 00:39
+                    - generic [ref=f33e1443]:
+                      - generic [ref=f33e1444] [cursor=pointer]: Aku Harus Lakoni Makan Seblak saat Puasa
+                      - generic [ref=f33e1448]:
+                        - generic [ref=f33e1449]: kumparanHITS
+                        - img "verified-round" [ref=f33e1454]
+                - generic "viewport impression tracker" [ref=f33e1456]:
+                  - generic [ref=f33e1457]:
+                    - generic [ref=f33e1462] [cursor=pointer]:
+                      - img "news-card-video-v2" [ref=f33e1463]
+                      - generic [ref=f33e1464]: 00:48
+                    - generic [ref=f33e1465]:
+                      - generic [ref=f33e1466] [cursor=pointer]: Apa pun KPI PSSI, target saya akan lebih tinggi
+                      - generic [ref=f33e1467]: kumparanBOLANITA
+                - generic "viewport impression tracker" [ref=f33e1476]:
+                  - link "news-card-video-v2 Lihat Video Lainnya" [ref=f33e1477] [cursor=pointer]:
+                    - /url: /video-story
+                    - generic [ref=f33e1478]:
+                      - img "news-card-video-v2" [ref=f33e1479]
+                      - generic [ref=f33e1480]: Lihat Video Lainnya
+              - button [ref=f33e1483] [cursor=pointer]:
+                - img "chevron-next" [ref=f33e1486]
+          - generic [ref=f33e1489]:
+            - generic [ref=f33e1490]:
+              - generic [ref=f33e1496]:
+                - generic "viewport impression tracker" [ref=f33e1498]:
+                  - generic [ref=f33e1499]:
+                    - generic [ref=f33e1500]:
+                      - generic [ref=f33e1501] [cursor=pointer]
+                      - generic [ref=f33e1503] [cursor=pointer]: "Pemulihan pascabencana di Aceh hingga Sumatera telah menjangkau 53 kabupaten/kota, 498 kecamatan, dan 4.533 desa terdampak. Kordinasi pemulihan oleh Satgas PRR mengacu Renduk PRRP Sumatera. Berikut perkembangannya #SumateraPulihbersamaSatgasPRR"
+                    - generic [ref=f33e1508]:
+                      - generic "viewport impression tracker" [ref=f33e1510]:
+                        - link [ref=f33e1511] [cursor=pointer]:
+                          - /url: /kumparannews/tambak-udang-rakyat-di-cot-seurani-pulih-pemerintah-salurkan-25-000-ekor-benur-28XWh6Hv2OK
+                          - heading "Tambak Udang Rakyat di Cot Seurani Pulih, Pemerintah Salurkan 25.000 Ekor Benur" [level=2] [ref=f33e1513]
+                      - generic "viewport impression tracker" [ref=f33e1517]:
+                        - link [ref=f33e1518] [cursor=pointer]:
+                          - /url: /kumparannews/serap-tkd-rp-2-99-miliar-tapsel-kebut-bronjong-jalan-sawmill-dan-cut-aek-natas-28XQygifsG1
+                          - heading "Serap TKD Rp 2,99 Miliar, Tapsel Kebut Bronjong Jalan Sawmill dan Cut Aek Natas" [level=2] [ref=f33e1520]
+                      - generic "viewport impression tracker" [ref=f33e1524]:
+                        - link [ref=f33e1525] [cursor=pointer]:
+                          - /url: /kumparannews/serap-tkd-rp1-2-m-pasar-murah-sari-rejo-pulihkan-ekonomi-korban-banjir-28X8J2bmxlz
+                          - heading "Serap TKD Rp1,2 M, Pasar Murah Sari Rejo Pulihkan Ekonomi Korban Banjir" [level=2] [ref=f33e1527]
+                - generic "viewport impression tracker" [ref=f33e1529]:
+                  - generic [ref=f33e1530]:
+                    - generic [ref=f33e1531]:
+                      - generic [ref=f33e1532] [cursor=pointer]
+                      - generic [ref=f33e1534] [cursor=pointer]: Ragam konten berkualitas dan inklusif tentang inisiatif serta upaya individu, organisasi, dan pemangku kebijakan untuk mendorong terciptanya bumi yang berkelanjutan
+                    - generic [ref=f33e1539]:
+                      - generic "viewport impression tracker" [ref=f33e1541]:
+                        - link [ref=f33e1542] [cursor=pointer]:
+                          - /url: /kumparannews/program-satu-siswa-satu-polybag-terus-berlanjut-untuk-memperkuat-pekanbaru-lestari-28XT4KZWvqL
+                          - heading "Program Satu Siswa Satu Polybag Terus Berlanjut untuk Memperkuat Pekanbaru Lestari" [level=2] [ref=f33e1544]
+                      - generic "viewport impression tracker" [ref=f33e1548]:
+                        - link [ref=f33e1549] [cursor=pointer]:
+                          - /url: /kumparanbisnis/singapura-bakal-impor-listrik-1-3-gw-dari-vietnam-dikirim-lewat-malaysia-mulai-2035-28UJGJXiQpe
+                          - heading "Singapura Bakal Impor Listrik 1,3 GW dari Vietnam, Dikirim Lewat Malaysia Mulai 2035" [level=2] [ref=f33e1551]
+                      - generic "viewport impression tracker" [ref=f33e1555]:
+                        - link [ref=f33e1556] [cursor=pointer]:
+                          - /url: /kumparannews/hidup-di-dekat-tumpukan-sampah-tpa-galuga-warga-berhadapan-dengan-risiko-kesehatan-28TX1pTwze4
+                          - heading "Hidup di Dekat Tumpukan Sampah TPA Galuga, Warga Berhadapan dengan Risiko Kesehatan" [level=2] [ref=f33e1558]
+              - button [ref=f33e1561] [cursor=pointer]:
+                - img "chevron-back" [ref=f33e1564]
+              - button [ref=f33e1567] [cursor=pointer]:
+                - img "chevron-next" [ref=f33e1570]
+            - generic [ref=f33e1573]:
+              - generic "viewport impression tracker" [ref=f33e1574]:
+                - generic [ref=f33e1575] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f33e1577]:
+                - generic [ref=f33e1578] [cursor=pointer]
+          - generic:
+            - complementary
+          - generic:
+            - complementary

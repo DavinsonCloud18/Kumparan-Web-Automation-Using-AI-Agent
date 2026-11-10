@@ -1,0 +1,229 @@
+- generic [ref=f25e2]:
+  - complementary
+  - complementary:
+    - complementary
+  - banner [ref=f25e3]:
+    - generic [ref=f25e4]:
+      - generic "kumparan logo" [ref=f25e5]:
+        - link [ref=f25e6] [cursor=pointer]:
+          - /url: /
+          - img "Kumparan Logo" [ref=f25e7]
+      - search [ref=f25e8]:
+        - generic [ref=f25e9]: Pencarian
+        - generic [ref=f25e11]:
+          - img "search" [ref=f25e13]
+          - textbox "Pencarian" [active] [ref=f25e15]:
+            - /placeholder: Cari di sini...
+          - button [ref=f25e2215] [cursor=pointer]:
+            - img "x-circle" [ref=f25e2218]
+      - navigation "user menu" [ref=f25e16]:
+        - list [ref=f25e17]:
+          - listitem [ref=f25e18]:
+            - link [ref=f25e21] [cursor=pointer]:
+              - /url: /
+              - img "home" [ref=f25e24]
+          - listitem [ref=f25e25]:
+            - button [ref=f25e28] [cursor=pointer]:
+              - img "moon" [ref=f25e31]
+          - listitem [ref=f25e32]:
+            - link [ref=f25e36] [cursor=pointer]:
+              - /url: /notifications
+              - img "notification" [ref=f25e39]
+          - listitem [ref=f25e40]:
+            - button "Masuk" [ref=f25e41] [cursor=pointer]
+          - listitem [ref=f25e45]:
+            - button "Buat Tulisan" [ref=f25e47] [cursor=pointer]
+    - navigation "headermain menu" [ref=f25e51]:
+      - list [ref=f25e52]:
+        - listitem "viewport impression tracker" [ref=f25e53]:
+          - link "News" [ref=f25e54] [cursor=pointer]:
+            - /url: /channel/news
+        - listitem "viewport impression tracker" [ref=f25e57]:
+          - link "Tekno" [ref=f25e58] [cursor=pointer]:
+            - /url: /channel/tekno
+        - listitem "viewport impression tracker" [ref=f25e61]:
+          - link "Bisnis" [ref=f25e62] [cursor=pointer]:
+            - /url: /channel/bisnis
+        - listitem "viewport impression tracker" [ref=f25e65]:
+          - link "Otomotif" [ref=f25e66] [cursor=pointer]:
+            - /url: /channel/otomotif
+        - listitem "viewport impression tracker" [ref=f25e69]:
+          - link "Entertainment" [ref=f25e70] [cursor=pointer]:
+            - /url: /channel/entertainment
+        - listitem "viewport impression tracker" [ref=f25e73]:
+          - link "Food & Travel" [ref=f25e74] [cursor=pointer]:
+            - /url: /channel/food-travel
+        - listitem "viewport impression tracker" [ref=f25e77]:
+          - link "Bola & Sports" [ref=f25e78] [cursor=pointer]:
+            - /url: /channel/bola-sports
+        - listitem "viewport impression tracker" [ref=f25e81]:
+          - link "Mom" [ref=f25e82] [cursor=pointer]:
+            - /url: /channel/mom
+        - listitem "viewport impression tracker" [ref=f25e85]:
+          - link "Woman" [ref=f25e86] [cursor=pointer]:
+            - /url: /channel/woman
+        - listitem "viewport impression tracker" [ref=f25e89]:
+          - link "Bolanita" [ref=f25e90] [cursor=pointer]:
+            - /url: /channel/bolanita
+        - generic [ref=f25e95] [cursor=pointer]:
+          - img "more-vertical" [ref=f25e98]
+          - generic [ref=f25e99]: Lainnya
+    - navigation "header sub menu" [ref=f25e101]:
+      - list [ref=f25e102]:
+        - listitem [ref=f25e103]:
+          - link "Breaking News" [ref=f25e104] [cursor=pointer]:
+            - /url: /breakingnews
+        - listitem [ref=f25e109]:
+          - link "Sumatera Pulih" [ref=f25e110] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem [ref=f25e115]:
+          - link "Green Initiative" [ref=f25e116] [cursor=pointer]:
+            - /url: /topic/green-initiative
+        - listitem [ref=f25e121]:
+          - link "Video Story" [ref=f25e122] [cursor=pointer]:
+            - /url: /video-story
+        - listitem [ref=f25e127]:
+          - link "Audio Story" [ref=f25e128] [cursor=pointer]:
+            - /url: /audio-story
+        - listitem [ref=f25e133]:
+          - link "Trending" [ref=f25e134] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=f25e139]:
+          - link "kumparanPLUS" [ref=f25e140] [cursor=pointer]:
+            - /url: /kumparan-plus
+        - listitem [ref=f25e145]:
+          - link "Opini & Cerita" [ref=f25e146] [cursor=pointer]:
+            - /url: /opini-cerita
+  - main [ref=f25e151]:
+    - generic:
+      - complementary
+    - generic [ref=f25e1918]:
+      - generic:
+        - complementary
+      - generic:
+        - complementary
+      - generic [ref=f25e1919]:
+        - complementary [ref=f25e2219]
+        - generic [ref=f25e1921]:
+          - generic [ref=f25e1922]:
+            - heading "Hasil Pencarian" [level=1] [ref=f25e1924]
+            - generic [ref=f25e2220]:
+              - generic [ref=f25e2221]:
+                - button "Konten" [ref=f25e2224] [cursor=pointer]
+                - button "Video Story" [ref=f25e2232] [cursor=pointer]
+                - button "kumparanPLUS" [ref=f25e2239] [cursor=pointer]
+                - button "Topik" [ref=f25e2246] [cursor=pointer]
+                - button "Pengguna" [ref=f25e2253] [cursor=pointer]
+                - button "Publisher" [ref=f25e2260] [cursor=pointer]
+              - generic [ref=f25e2267]:
+                - generic [ref=f25e2269]:
+                  - generic [ref=f25e2270]: Relevansi
+                  - generic [ref=f25e2275]: Terbaru
+                - generic [ref=f25e2281]:
+                  - generic [ref=f25e2282]:
+                    - generic "news-card-label-link" [ref=f25e2284]:
+                      - generic [ref=f25e2285]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2288]:
+                          - generic [ref=f25e2289]: S
+                          - generic [ref=f25e2295]:
+                            - generic [ref=f25e2296]: Sedang memuat...
+                            - generic [ref=f25e2299]: ·
+                    - generic [ref=f25e2301] [cursor=pointer]
+                  - generic [ref=f25e2304]:
+                    - generic "news-card-label-link" [ref=f25e2306]:
+                      - generic [ref=f25e2307]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2310]:
+                          - generic [ref=f25e2311]: S
+                          - generic [ref=f25e2317]:
+                            - generic [ref=f25e2318]: Sedang memuat...
+                            - generic [ref=f25e2321]: ·
+                    - generic [ref=f25e2323] [cursor=pointer]
+                  - generic [ref=f25e2326]:
+                    - generic "news-card-label-link" [ref=f25e2328]:
+                      - generic [ref=f25e2329]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2332]:
+                          - generic [ref=f25e2333]: S
+                          - generic [ref=f25e2339]:
+                            - generic [ref=f25e2340]: Sedang memuat...
+                            - generic [ref=f25e2343]: ·
+                    - generic [ref=f25e2345] [cursor=pointer]
+                  - generic [ref=f25e2348]:
+                    - generic "news-card-label-link" [ref=f25e2350]:
+                      - generic [ref=f25e2351]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2354]:
+                          - generic [ref=f25e2355]: S
+                          - generic [ref=f25e2361]:
+                            - generic [ref=f25e2362]: Sedang memuat...
+                            - generic [ref=f25e2365]: ·
+                    - generic [ref=f25e2367] [cursor=pointer]
+                  - generic [ref=f25e2370]:
+                    - generic "news-card-label-link" [ref=f25e2372]:
+                      - generic [ref=f25e2373]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2376]:
+                          - generic [ref=f25e2377]: S
+                          - generic [ref=f25e2383]:
+                            - generic [ref=f25e2384]: Sedang memuat...
+                            - generic [ref=f25e2387]: ·
+                    - generic [ref=f25e2389] [cursor=pointer]
+                  - generic [ref=f25e2392]:
+                    - generic "news-card-label-link" [ref=f25e2394]:
+                      - generic [ref=f25e2395]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2398]:
+                          - generic [ref=f25e2399]: S
+                          - generic [ref=f25e2405]:
+                            - generic [ref=f25e2406]: Sedang memuat...
+                            - generic [ref=f25e2409]: ·
+                    - generic [ref=f25e2411] [cursor=pointer]
+                  - generic [ref=f25e2414]:
+                    - generic "news-card-label-link" [ref=f25e2416]:
+                      - generic [ref=f25e2417]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2420]:
+                          - generic [ref=f25e2421]: S
+                          - generic [ref=f25e2427]:
+                            - generic [ref=f25e2428]: Sedang memuat...
+                            - generic [ref=f25e2431]: ·
+                    - generic [ref=f25e2433] [cursor=pointer]
+                  - generic [ref=f25e2436]:
+                    - generic "news-card-label-link" [ref=f25e2438]:
+                      - generic [ref=f25e2439]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2442]:
+                          - generic [ref=f25e2443]: S
+                          - generic [ref=f25e2449]:
+                            - generic [ref=f25e2450]: Sedang memuat...
+                            - generic [ref=f25e2453]: ·
+                    - generic [ref=f25e2455] [cursor=pointer]
+                  - generic [ref=f25e2458]:
+                    - generic "news-card-label-link" [ref=f25e2460]:
+                      - generic [ref=f25e2461]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2464]:
+                          - generic [ref=f25e2465]: S
+                          - generic [ref=f25e2471]:
+                            - generic [ref=f25e2472]: Sedang memuat...
+                            - generic [ref=f25e2475]: ·
+                    - generic [ref=f25e2477] [cursor=pointer]
+                  - generic [ref=f25e2480]:
+                    - generic "news-card-label-link" [ref=f25e2482]:
+                      - generic [ref=f25e2483]:
+                        - text: Sedang memuat...
+                        - generic [ref=f25e2486]:
+                          - generic [ref=f25e2487]: S
+                          - generic [ref=f25e2493]:
+                            - generic [ref=f25e2494]: Sedang memuat...
+                            - generic [ref=f25e2497]: ·
+                    - generic [ref=f25e2499] [cursor=pointer]
+          - generic [ref=f25e2209]:
+            - complementary [ref=f25e2502]:
+              - iframe [ref=f25e2506]:
+                - link [ref=f56e3] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuNCEv-kSQ6WqLBN23tfM4mvMo6OVRCNNFoZaqFEG21W7XI8Gyl4a1F1OW2eZUWrG7qz90LhRi1heZ9Qcu_yGgkqU5PULLRQZCMngnVXLvEx0au6bREmx5oANnDOlKXlrhZsjj8uA9Qb-jGTpadftld7ycMMr6ud1PfwSzzSKZDxcFRA7rvnTccq7EHmjfSWm5vekl-D_lv1NESnEiLDiHhcQnTAdEAZWhKZy-Db-Hl9csF5GnTngtfniu3XVQ2q3EPBiKzuyYCA4Gnn94swOkyUWok_0-GOs_9jVBAbR83UynFyt1FUWbkk_jfRu_SWzBdkv8qChAR1xdhkwOBH1Rju8fCAXx0g1CgQEwF7DVaXD4OQ0HlKCVnwb26FCEVqHv6rLahwk-2ncccqzRYbAdik6Byvs1sAqjyq-D90dbmog%2526sai%253DAMfl-YS1e-xcc00OpsDX20dGZoaSrNNuJiG9qJeBWbTBn0z-wK_NLZrbRx4g5-zILIWjPe48t6mCyd3wXEcMmVlfXtiI-eOszU3LaqN-XzYw3R8Zd3wDjQ_HRKXTpS9GuC_JGzuXrJ2wmNH_yz_Rzd2ndvM6uJmtpOcUUYrqBkN1LRpjAsVMPgg8yQlgsgVUkW8KkJoY0g1JincI7cbuzqyaB0bXBbmCbQIAQD6q0utA4izAlU3EJsYhljzjL73G1Eg5WMjCWFRx6CVRPOYWLx3DJB-Cz9o4jrw6xc9RN5FIhY3XT6RkoHUCOkL4Je2cFx3iZFChm-lX1Oouu2wYgF2MVnE7MOIBx62_d5QOo_3sD0Ty1HV12I_gfIp-WQzqV0mFsTyBRWYUb6GeosxHxwMvP9Y%2526sig%253DCg0ArKJSzDDe1H40faiMEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.instagram.com/kumparanbolanita/
+                  - img "Banner" [ref=f56e4]
+            - complementary [ref=f25e2507]

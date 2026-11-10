@@ -1,0 +1,261 @@
+- generic [ref=f92e1]:
+  - complementary
+  - generic [ref=f92e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f92e3]:
+      - generic [ref=f92e4]:
+        - generic "kumparan logo" [ref=f92e5]:
+          - link [ref=f92e6] [cursor=pointer]:
+            - /url: /channel/tekno
+            - img "Kumparan Logo" [ref=f92e7]
+        - search [ref=f92e8]:
+          - generic [ref=f92e9]: Pencarian
+          - generic [ref=f92e11]:
+            - img "search" [ref=f92e13]
+            - textbox "Pencarian" [ref=f92e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f92e16]:
+          - list [ref=f92e17]:
+            - listitem [ref=f92e18]:
+              - link [ref=f92e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f92e24]
+            - listitem [ref=f92e25]:
+              - button [ref=f92e28] [cursor=pointer]:
+                - img "moon" [ref=f92e31]
+            - listitem [ref=f92e32]:
+              - link [ref=f92e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f92e39]
+            - listitem [ref=f92e40]:
+              - button "Masuk" [ref=f92e41] [cursor=pointer]
+            - listitem [ref=f92e45]:
+              - button "Buat Tulisan" [ref=f92e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f92e51]:
+        - list [ref=f92e52]:
+          - listitem "viewport impression tracker" [ref=f92e53]:
+            - link "News" [ref=f92e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f92e57]:
+            - link "Tekno" [active] [ref=f92e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f92e61]:
+            - link "Bisnis" [ref=f92e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f92e65]:
+            - link "Otomotif" [ref=f92e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f92e69]:
+            - link "Entertainment" [ref=f92e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f92e73]:
+            - link "Food & Travel" [ref=f92e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f92e77]:
+            - link "Bola & Sports" [ref=f92e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f92e81]:
+            - link "Mom" [ref=f92e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f92e85]:
+            - link "Woman" [ref=f92e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f92e89]:
+            - link "Bolanita" [ref=f92e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f92e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f92e98]
+            - generic [ref=f92e99]: Lainnya
+      - navigation "header sub menu" [ref=f92e101]:
+        - list [ref=f92e102]:
+          - listitem [ref=f92e103]:
+            - link "Breaking News" [ref=f92e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f92e109]:
+            - link "Sumatera Pulih" [ref=f92e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f92e115]:
+            - link "Green Initiative" [ref=f92e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f92e121]:
+            - link "Video Story" [ref=f92e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f92e127]:
+            - link "Audio Story" [ref=f92e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f92e133]:
+            - link "Trending" [ref=f92e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f92e139]:
+            - link "kumparanPLUS" [ref=f92e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f92e145]:
+            - link "Opini & Cerita" [ref=f92e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f92e151]:
+      - generic:
+        - complementary
+      - generic [ref=f92e1588]:
+        - generic:
+          - complementary
+        - generic:
+          - complementary
+        - complementary [ref=f92e1592]
+        - heading "..." [level=1] [ref=f92e1596]
+        - generic [ref=f92e1599]:
+          - generic [ref=f92e1606]:
+            - generic [ref=f92e1610]:
+              - generic [ref=f92e1619]:
+                - generic "news-card-label-link" [ref=f92e1620]:
+                  - text: Sedang memuat...
+                  - generic [ref=f92e1623]:
+                    - generic [ref=f92e1624]: S
+                    - generic [ref=f92e1629]: Sedang memuat...
+                - generic [ref=f92e1635]:
+                  - generic [ref=f92e1636]: 0 Suka
+                  - generic [ref=f92e1637]: ·
+                  - link "0 Komentar ·" [ref=f92e1638] [cursor=pointer]:
+                    - /url: https://kumparan.com
+                    - generic [ref=f92e1639]: 0 Komentar
+                    - generic [ref=f92e1640]: ·
+                  - generic [ref=f92e1641]: 01 April 2020
+              - generic [ref=f92e1643]:
+                - generic [ref=f92e1652]:
+                  - generic "news-card-label-link" [ref=f92e1653]:
+                    - text: Sedang memuat...
+                    - generic [ref=f92e1656]:
+                      - generic [ref=f92e1657]: S
+                      - generic [ref=f92e1662]: Sedang memuat...
+                  - generic [ref=f92e1668]:
+                    - generic [ref=f92e1669]: 0 Suka
+                    - generic [ref=f92e1670]: ·
+                    - link "0 Komentar ·" [ref=f92e1671] [cursor=pointer]:
+                      - /url: https://kumparan.com
+                      - generic [ref=f92e1672]: 0 Komentar
+                      - generic [ref=f92e1673]: ·
+                    - generic [ref=f92e1674]: 01 April 2020
+                - generic [ref=f92e1684]:
+                  - generic "news-card-label-link" [ref=f92e1685]:
+                    - text: Sedang memuat...
+                    - generic [ref=f92e1688]:
+                      - generic [ref=f92e1689]: S
+                      - generic [ref=f92e1694]: Sedang memuat...
+                  - generic [ref=f92e1700]:
+                    - generic [ref=f92e1701]: 0 Suka
+                    - generic [ref=f92e1702]: ·
+                    - link "0 Komentar ·" [ref=f92e1703] [cursor=pointer]:
+                      - /url: https://kumparan.com
+                      - generic [ref=f92e1704]: 0 Komentar
+                      - generic [ref=f92e1705]: ·
+                    - generic [ref=f92e1706]: 01 April 2020
+            - tablist [ref=f92e1708]:
+              - tab "Page 1" [ref=f92e1709]
+          - generic [ref=f92e1712]:
+            - generic [ref=f92e1714]:
+              - link [ref=f92e1715] [cursor=pointer]:
+                - /url: /trending/tekno
+                - heading "Trending" [level=2] [ref=f92e1716]
+              - link "arrow-right Lihat lainnya" [ref=f92e1718] [cursor=pointer]:
+                - /url: /trending/tekno
+                - generic [ref=f92e1719]:
+                  - img "arrow-right" [ref=f92e1721]
+                  - generic [ref=f92e1722]: Lihat lainnya
+            - list [ref=f92e1725]:
+              - listitem [ref=f92e1726]:
+                - generic [ref=f92e1728]:
+                  - generic [ref=f92e1729]:
+                    - generic "news-card-label-link" [ref=f92e1730]:
+                      - text: Sedang memuat...
+                      - generic [ref=f92e1733]:
+                        - generic [ref=f92e1734]: S
+                        - generic [ref=f92e1739]: Sedang memuat...
+                    - generic [ref=f92e1745]:
+                      - generic [ref=f92e1746]: 0 Suka
+                      - generic [ref=f92e1747]: ·
+                      - link "0 Komentar ·" [ref=f92e1748] [cursor=pointer]:
+                        - /url: https://kumparan.com
+                        - generic [ref=f92e1749]: 0 Komentar
+                        - generic [ref=f92e1750]: ·
+                      - generic [ref=f92e1751]: 01 April 2020
+                  - generic [ref=f92e1754] [cursor=pointer]
+              - listitem [ref=f92e1758]:
+                - generic [ref=f92e1760]:
+                  - generic [ref=f92e1761]:
+                    - generic "news-card-label-link" [ref=f92e1762]:
+                      - text: Sedang memuat...
+                      - generic [ref=f92e1765]:
+                        - generic [ref=f92e1766]: S
+                        - generic [ref=f92e1771]: Sedang memuat...
+                    - generic [ref=f92e1777]:
+                      - generic [ref=f92e1778]: 0 Suka
+                      - generic [ref=f92e1779]: ·
+                      - link "0 Komentar ·" [ref=f92e1780] [cursor=pointer]:
+                        - /url: https://kumparan.com
+                        - generic [ref=f92e1781]: 0 Komentar
+                        - generic [ref=f92e1782]: ·
+                      - generic [ref=f92e1783]: 01 April 2020
+                  - generic [ref=f92e1786] [cursor=pointer]
+              - listitem [ref=f92e1790]:
+                - generic [ref=f92e1792]:
+                  - generic [ref=f92e1793]:
+                    - generic "news-card-label-link" [ref=f92e1794]:
+                      - text: Sedang memuat...
+                      - generic [ref=f92e1797]:
+                        - generic [ref=f92e1798]: S
+                        - generic [ref=f92e1803]: Sedang memuat...
+                    - generic [ref=f92e1809]:
+                      - generic [ref=f92e1810]: 0 Suka
+                      - generic [ref=f92e1811]: ·
+                      - link "0 Komentar ·" [ref=f92e1812] [cursor=pointer]:
+                        - /url: https://kumparan.com
+                        - generic [ref=f92e1813]: 0 Komentar
+                        - generic [ref=f92e1814]: ·
+                      - generic [ref=f92e1815]: 01 April 2020
+                  - generic [ref=f92e1818] [cursor=pointer]
+              - listitem [ref=f92e1822]:
+                - generic [ref=f92e1824]:
+                  - generic [ref=f92e1825]:
+                    - generic "news-card-label-link" [ref=f92e1826]:
+                      - text: Sedang memuat...
+                      - generic [ref=f92e1829]:
+                        - generic [ref=f92e1830]: S
+                        - generic [ref=f92e1835]: Sedang memuat...
+                    - generic [ref=f92e1841]:
+                      - generic [ref=f92e1842]: 0 Suka
+                      - generic [ref=f92e1843]: ·
+                      - link "0 Komentar ·" [ref=f92e1844] [cursor=pointer]:
+                        - /url: https://kumparan.com
+                        - generic [ref=f92e1845]: 0 Komentar
+                        - generic [ref=f92e1846]: ·
+                      - generic [ref=f92e1847]: 01 April 2020
+                  - generic [ref=f92e1850] [cursor=pointer]
+              - listitem [ref=f92e1854]:
+                - generic [ref=f92e1856]:
+                  - generic [ref=f92e1857]:
+                    - generic "news-card-label-link" [ref=f92e1858]:
+                      - text: Sedang memuat...
+                      - generic [ref=f92e1861]:
+                        - generic [ref=f92e1862]: S
+                        - generic [ref=f92e1867]: Sedang memuat...
+                    - generic [ref=f92e1873]:
+                      - generic [ref=f92e1874]: 0 Suka
+                      - generic [ref=f92e1875]: ·
+                      - link "0 Komentar ·" [ref=f92e1876] [cursor=pointer]:
+                        - /url: https://kumparan.com
+                        - generic [ref=f92e1877]: 0 Komentar
+                        - generic [ref=f92e1878]: ·
+                      - generic [ref=f92e1879]: 01 April 2020
+                  - generic [ref=f92e1882] [cursor=pointer]
+        - generic [ref=f92e1889]:
+          - generic [ref=f92e1894]:
+            - generic [ref=f92e1895]: Feed
+            - generic [ref=f92e1901]:
+              - log [ref=f92e1903]
+              - generic [ref=f92e1905]:
+                - generic [ref=f92e1906]: Terbaru
+                - combobox [ref=f92e1907]
+          - generic [ref=f92e1926]:
+            - complementary [ref=f92e1927]
+            - complementary [ref=f92e1930]

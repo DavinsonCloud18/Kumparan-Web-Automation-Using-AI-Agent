@@ -1,0 +1,133 @@
+- generic [ref=f203e2]:
+  - complementary
+  - complementary:
+    - complementary
+  - banner [ref=f203e3]:
+    - generic [ref=f203e4]:
+      - generic "kumparan logo" [ref=f203e5]:
+        - link [ref=f203e6] [cursor=pointer]:
+          - /url: /
+          - img "Kumparan Logo" [ref=f203e7]
+      - search [ref=f203e8]:
+        - generic [ref=f203e9]: Pencarian
+        - generic [ref=f203e11]:
+          - img "search" [ref=f203e13]
+          - textbox "Pencarian" [active] [ref=f203e15]:
+            - /placeholder: Cari di sini...
+      - navigation "user menu" [ref=f203e16]:
+        - list [ref=f203e17]:
+          - listitem [ref=f203e18]:
+            - link [ref=f203e21] [cursor=pointer]:
+              - /url: /
+              - img "home" [ref=f203e24]
+          - listitem [ref=f203e25]:
+            - button [ref=f203e28] [cursor=pointer]:
+              - img "moon" [ref=f203e31]
+          - listitem [ref=f203e32]:
+            - link [ref=f203e36] [cursor=pointer]:
+              - /url: /notifications
+              - img "notification" [ref=f203e39]
+          - listitem [ref=f203e40]:
+            - button "Masuk" [ref=f203e41] [cursor=pointer]
+          - listitem [ref=f203e45]:
+            - button "Buat Tulisan" [ref=f203e47] [cursor=pointer]
+    - navigation "headermain menu" [ref=f203e51]:
+      - list [ref=f203e52]:
+        - listitem "viewport impression tracker" [ref=f203e53]:
+          - link "News" [ref=f203e54] [cursor=pointer]:
+            - /url: /channel/news
+        - listitem "viewport impression tracker" [ref=f203e57]:
+          - link "Tekno" [ref=f203e58] [cursor=pointer]:
+            - /url: /channel/tekno
+        - listitem "viewport impression tracker" [ref=f203e61]:
+          - link "Bisnis" [ref=f203e62] [cursor=pointer]:
+            - /url: /channel/bisnis
+        - listitem "viewport impression tracker" [ref=f203e65]:
+          - link "Otomotif" [ref=f203e66] [cursor=pointer]:
+            - /url: /channel/otomotif
+        - listitem "viewport impression tracker" [ref=f203e69]:
+          - link "Entertainment" [ref=f203e70] [cursor=pointer]:
+            - /url: /channel/entertainment
+        - listitem "viewport impression tracker" [ref=f203e73]:
+          - link "Food & Travel" [ref=f203e74] [cursor=pointer]:
+            - /url: /channel/food-travel
+        - listitem "viewport impression tracker" [ref=f203e77]:
+          - link "Bola & Sports" [ref=f203e78] [cursor=pointer]:
+            - /url: /channel/bola-sports
+        - listitem "viewport impression tracker" [ref=f203e81]:
+          - link "Mom" [ref=f203e82] [cursor=pointer]:
+            - /url: /channel/mom
+        - listitem "viewport impression tracker" [ref=f203e85]:
+          - link "Woman" [ref=f203e86] [cursor=pointer]:
+            - /url: /channel/woman
+        - listitem "viewport impression tracker" [ref=f203e89]:
+          - link "Bolanita" [ref=f203e90] [cursor=pointer]:
+            - /url: /channel/bolanita
+        - generic [ref=f203e95] [cursor=pointer]:
+          - img "more-vertical" [ref=f203e98]
+          - generic [ref=f203e99]: Lainnya
+    - navigation "header sub menu" [ref=f203e101]:
+      - list [ref=f203e102]:
+        - listitem [ref=f203e103]:
+          - link "Breaking News" [ref=f203e104] [cursor=pointer]:
+            - /url: /breakingnews
+        - listitem [ref=f203e109]:
+          - link "Sumatera Pulih" [ref=f203e110] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem [ref=f203e115]:
+          - link "Green Initiative" [ref=f203e116] [cursor=pointer]:
+            - /url: /topic/green-initiative
+        - listitem [ref=f203e121]:
+          - link "Video Story" [ref=f203e122] [cursor=pointer]:
+            - /url: /video-story
+        - listitem [ref=f203e127]:
+          - link "Audio Story" [ref=f203e128] [cursor=pointer]:
+            - /url: /audio-story
+        - listitem [ref=f203e133]:
+          - link "Trending" [ref=f203e134] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=f203e139]:
+          - link "kumparanPLUS" [ref=f203e140] [cursor=pointer]:
+            - /url: /kumparan-plus
+        - listitem [ref=f203e145]:
+          - link "Opini & Cerita" [ref=f203e146] [cursor=pointer]:
+            - /url: /opini-cerita
+  - main [ref=f203e151]:
+    - generic:
+      - complementary
+    - generic [ref=f203e1589]:
+      - generic:
+        - complementary
+      - generic:
+        - complementary
+      - generic [ref=f203e1590]:
+        - complementary [ref=f203e1591]
+        - generic [ref=f203e1592]:
+          - generic [ref=f203e1593]:
+            - heading "Pencarian" [level=1] [ref=f203e1595]
+            - generic [ref=f203e1597]:
+              - generic [ref=f203e1598]: Pencarian populer
+              - generic [ref=f203e1602]:
+                - link "raja juli" [ref=f203e1604] [cursor=pointer]:
+                  - /url: /search/raja juli
+                - link "giring" [ref=f203e1609] [cursor=pointer]:
+                  - /url: /search/giring
+                - link "lpsk" [ref=f203e1614] [cursor=pointer]:
+                  - /url: /search/lpsk
+                - link "hilang" [ref=f203e1619] [cursor=pointer]:
+                  - /url: /search/hilang
+                - link "pajero" [ref=f203e1624] [cursor=pointer]:
+                  - /url: /search/pajero
+                - link "isyana bagoes oka" [ref=f203e1629] [cursor=pointer]:
+                  - /url: /search/isyana bagoes oka
+                - link "delisting" [ref=f203e1634] [cursor=pointer]:
+                  - /url: /search/delisting
+                - link "penyerangan" [ref=f203e1639] [cursor=pointer]:
+                  - /url: /search/penyerangan
+                - link "cucun ahmad syamsurijal" [ref=f203e1644] [cursor=pointer]:
+                  - /url: /search/cucun ahmad syamsurijal
+                - link "tepung aci" [ref=f203e1649] [cursor=pointer]:
+                  - /url: /search/tepung aci
+          - generic [ref=f203e1654]:
+            - complementary [ref=f203e1655]
+            - complementary [ref=f203e1657]

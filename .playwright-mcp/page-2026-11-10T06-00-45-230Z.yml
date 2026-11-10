@@ -1,0 +1,302 @@
+- generic [active] [ref=f17e1]:
+  - complementary
+  - generic [ref=f17e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f17e3]:
+      - generic [ref=f17e4]:
+        - generic "kumparan logo" [ref=f17e5]:
+          - link [ref=f17e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f17e7]
+        - search [ref=f17e8]:
+          - generic [ref=f17e9]: Pencarian
+          - generic [ref=f17e11]:
+            - img "search" [ref=f17e13]
+            - textbox "Pencarian" [ref=f17e15]:
+              - /placeholder: Cari di sini...
+              - text: teknologi
+            - button [ref=f17e17] [cursor=pointer]:
+              - img "x-circle" [ref=f17e20]
+        - navigation "user menu" [ref=f17e21]:
+          - list [ref=f17e22]:
+            - listitem [ref=f17e23]:
+              - link [ref=f17e26] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f17e29]
+            - listitem [ref=f17e30]:
+              - button [ref=f17e33] [cursor=pointer]:
+                - img "moon" [ref=f17e36]
+            - listitem [ref=f17e37]:
+              - link [ref=f17e41] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f17e44]
+            - listitem [ref=f17e45]:
+              - button "Masuk" [ref=f17e46] [cursor=pointer]
+            - listitem [ref=f17e50]:
+              - button "Buat Tulisan" [ref=f17e52] [cursor=pointer]
+      - navigation "headermain menu" [ref=f17e56]:
+        - list [ref=f17e57]:
+          - listitem "viewport impression tracker" [ref=f17e58]:
+            - link "News" [ref=f17e59] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f17e62]:
+            - link "Tekno" [ref=f17e63] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f17e66]:
+            - link "Bisnis" [ref=f17e67] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f17e70]:
+            - link "Otomotif" [ref=f17e71] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f17e74]:
+            - link "Entertainment" [ref=f17e75] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f17e78]:
+            - link "Food & Travel" [ref=f17e79] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f17e82]:
+            - link "Bola & Sports" [ref=f17e83] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f17e86]:
+            - link "Mom" [ref=f17e87] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f17e90]:
+            - link "Woman" [ref=f17e91] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f17e94]:
+            - link "Bolanita" [ref=f17e95] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f17e100] [cursor=pointer]:
+            - img "more-vertical" [ref=f17e103]
+            - generic [ref=f17e104]: Lainnya
+      - navigation "header sub menu" [ref=f17e106]:
+        - list [ref=f17e107]:
+          - listitem [ref=f17e108]:
+            - link "Breaking News" [ref=f17e109] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f17e114]:
+            - link "Sumatera Pulih" [ref=f17e115] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f17e120]:
+            - link "Green Initiative" [ref=f17e121] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f17e126]:
+            - link "Video Story" [ref=f17e127] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f17e132]:
+            - link "Audio Story" [ref=f17e133] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f17e138]:
+            - link "Trending" [ref=f17e139] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f17e144]:
+            - link "kumparanPLUS" [ref=f17e145] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f17e150]:
+            - link "Opini & Cerita" [ref=f17e151] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f17e156]:
+      - generic:
+        - complementary
+      - generic [ref=f17e157]:
+        - generic:
+          - complementary
+        - generic:
+          - complementary
+        - generic [ref=f17e158]:
+          - complementary [ref=f17e159]:
+            - iframe [ref=f17e163]:
+              - link [ref=f29e3] [cursor=pointer]:
+                - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstMSSQe0xWBvhVjYnECKvlDE-24eZtzoWhh04mhEHCVjTn4kKLYz408LUeuUjJA-2Epm9LsxOgLQXTTzXj1ZD600TeE-qeqs86i8ncwaHQ8GyswS2gdyHoXhpm9mSv9Nkhag2L4QLydQX65oGpDt7_aNYrZ8puLo_JFKxjL5zSTHsMqfU5uzX1fZJ4_SjoI4DHTA-uNutZ4gdPNxfmVzHwu0kHO04JwJ3U7i6Liv-Yk_OFXP8pD2HcwX_GvCek5C5O29qCXkuFLmNS5AWhMf1i1zq1k6Pgfm5IXINJiVSqmkvp1x1QzoRpu6Rj1CEuJsOof1qT8z_3PEyDPLSXVV7VFbarAD8z4a9Y2gzHGdqu1sdW_2AzlpMj305BDeQl7uCSqdnKd4POx3Nmmh6crI5fRRM5sGyo1zc2PZw%2526sai%253DAMfl-YTbmKW4OelAN-AeyJDM5sc7YUS4IZiMTeAsFBjbPJi7LwW6d2h4lzT-YuQGcOmDzXW3AAAh5f-6iW3mD8b3T8cRlu6WH4NV2B3OERgmOJipHVGXJuOBa5r2HuxfWsfVSTh0dZVYRI4xlp5n_Wp3W0YQFaCiIAXvrw-Ah6eedGUkFLag7ltFhv5hkxlK5_5sE3Qn7-5KoiOCA-YlARVRkxBG-ClcpnAXl1JfpU4dUv52gDfxxITUW-N2woIIt6qw9hqVueCyAoEw_s1vtgHqkWxhMt_x4qD36kaSx6zLZ4ejBI_KMxFBZlBAfQ8emC7p8hoJTJb2FarYb_SrqskfMnlshDZWjgkz-9STMXdP6YzDh_bUtzXu3YlyWbcQaAazkRxjqcQGBfEqA1fH62-CpFg%2526sig%253DCg0ArKJSzDwQ9bG94DroEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_DesktopBillboard%26utm_content%3DHisteria1111_10Nov
+                - img "Banner" [ref=f29e4]
+          - generic [ref=f17e164]:
+            - generic [ref=f17e165]:
+              - heading "Hasil Pencarian" [level=1] [ref=f17e167]
+              - generic [ref=f17e169]:
+                - generic [ref=f17e170]:
+                  - button "Konten" [ref=f17e173] [cursor=pointer]
+                  - button "Video Story" [ref=f17e181] [cursor=pointer]
+                  - button "kumparanPLUS" [ref=f17e188] [cursor=pointer]
+                  - button "Topik" [ref=f17e195] [cursor=pointer]
+                  - button "Pengguna" [ref=f17e202] [cursor=pointer]
+                  - button "Publisher" [ref=f17e209] [cursor=pointer]
+                - generic [ref=f17e216]:
+                  - generic [ref=f17e218]:
+                    - generic [ref=f17e219]: Relevansi
+                    - generic [ref=f17e224]: Terbaru
+                  - generic [ref=f17e230]:
+                    - generic "viewport impression tracker" [ref=f17e232]:
+                      - generic [ref=f17e233]:
+                        - generic [ref=f17e234]:
+                          - link "news-card-label-link" [ref=f17e235] [cursor=pointer]:
+                            - /url: /kumparanbisnis/wall-street-ditutup-naik-ditopang-saham-teknologi-24wZeWgEFtw
+                            - generic [ref=f17e236]: Wall Street Ditutup Naik, Ditopang Saham Teknologi
+                            - generic [ref=f17e239]:
+                              - img "kumparanBISNIS" [ref=f17e245]
+                              - generic [ref=f17e247]:
+                                - generic [ref=f17e248]: kumparanBISNIS
+                                - img "verified-round" [ref=f17e252]
+                          - generic [ref=f17e253]: 25 Apr 2025
+                        - generic [ref=f17e257]:
+                          - link:
+                            - /url: /kumparanbisnis/wall-street-ditutup-naik-ditopang-saham-teknologi-24wZeWgEFtw
+                            - generic [ref=f17e258] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e262]:
+                      - generic [ref=f17e263]:
+                        - generic [ref=f17e264]:
+                          - link "news-card-label-link" [ref=f17e265] [cursor=pointer]:
+                            - /url: /kumparanoto/menyoal-teknologi-otonom-mobil-xpeng-makin-tinggi-level-beda-tanggungjawabnya-24tsZkicNzE
+                            - generic [ref=f17e266]: Menyoal Teknologi Otonom Mobil XPeng, Makin Tinggi Level Beda Tanggungjawabnya
+                            - generic [ref=f17e269]:
+                              - img "kumparanOTO" [ref=f17e275]
+                              - generic [ref=f17e277]:
+                                - generic [ref=f17e278]: kumparanOTO
+                                - img "verified-round" [ref=f17e282]
+                          - generic [ref=f17e283]: 21 Apr 2025
+                        - generic [ref=f17e287]:
+                          - link:
+                            - /url: /kumparanoto/menyoal-teknologi-otonom-mobil-xpeng-makin-tinggi-level-beda-tanggungjawabnya-24tsZkicNzE
+                            - generic [ref=f17e288] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e292]:
+                      - generic [ref=f17e293]:
+                        - generic [ref=f17e294]:
+                          - link "news-card-label-link" [ref=f17e295] [cursor=pointer]:
+                            - /url: /kumparantech/berkunjung-ke-markas-honor-di-shenzhen-lihat-teknologi-ai-canggih-buat-hp-24sy4CwuSmp
+                            - generic [ref=f17e296]: Berkunjung ke Markas HONOR di Shenzhen, Lihat Teknologi AI Canggih Buat HP
+                            - generic [ref=f17e299]:
+                              - img "kumparanTECH" [ref=f17e305]
+                              - generic [ref=f17e307]:
+                                - generic [ref=f17e308]: kumparanTECH
+                                - img "verified-round" [ref=f17e312]
+                          - generic [ref=f17e313]: 16 Apr 2025
+                        - generic [ref=f17e317]:
+                          - link:
+                            - /url: /kumparantech/berkunjung-ke-markas-honor-di-shenzhen-lihat-teknologi-ai-canggih-buat-hp-24sy4CwuSmp
+                            - generic [ref=f17e318] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e322]:
+                      - generic [ref=f17e323]:
+                        - generic [ref=f17e324]:
+                          - link "news-card-label-link" [ref=f17e325] [cursor=pointer]:
+                            - /url: /kumparanbisnis/pertamina-pdc-integrasikan-operasional-rig-hingga-keuangan-pakai-teknologi-24sjSoFeAMK
+                            - generic [ref=f17e326]: Pertamina PDC Integrasikan Operasional Rig hingga Keuangan Pakai Teknologi
+                            - generic [ref=f17e329]:
+                              - img "kumparanBISNIS" [ref=f17e335]
+                              - generic [ref=f17e337]:
+                                - generic [ref=f17e338]: kumparanBISNIS
+                                - img "verified-round" [ref=f17e342]
+                          - generic [ref=f17e343]: 15 Apr 2025
+                        - generic [ref=f17e347]:
+                          - link:
+                            - /url: /kumparanbisnis/pertamina-pdc-integrasikan-operasional-rig-hingga-keuangan-pakai-teknologi-24sjSoFeAMK
+                            - generic [ref=f17e348] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e352]:
+                      - generic [ref=f17e353]:
+                        - generic [ref=f17e354]:
+                          - link "news-card-label-link" [ref=f17e355] [cursor=pointer]:
+                            - /url: /kumparanbisnis/saham-teknologi-terbang-usai-trump-tunda-tarif-dari-wifi-goto-hingga-buka-24qnNmnzdFv
+                            - generic [ref=f17e356]: Saham Teknologi Terbang Usai Trump Tunda Tarif, dari WIFI, GOTO, hingga BUKA
+                            - generic [ref=f17e359]:
+                              - img "kumparanBISNIS" [ref=f17e365]
+                              - generic [ref=f17e367]:
+                                - generic [ref=f17e368]: kumparanBISNIS
+                                - img "verified-round" [ref=f17e372]
+                          - generic [ref=f17e373]: 10 Apr 2025
+                        - generic [ref=f17e377]:
+                          - link:
+                            - /url: /kumparanbisnis/saham-teknologi-terbang-usai-trump-tunda-tarif-dari-wifi-goto-hingga-buka-24qnNmnzdFv
+                            - generic [ref=f17e378] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e382]:
+                      - generic [ref=f17e383]:
+                        - generic [ref=f17e384]:
+                          - link "news-card-label-link" [ref=f17e385] [cursor=pointer]:
+                            - /url: /kumparanbisnis/tujuh-raksasa-teknologi-as-raup-usd-1-5-triliun-usai-trump-tunda-tarif-24qhavz0k25
+                            - generic [ref=f17e386]: Tujuh Raksasa Teknologi AS Raup USD 1,5 Triliun Usai Trump Tunda Tarif
+                            - generic [ref=f17e389]:
+                              - img "kumparanBISNIS" [ref=f17e395]
+                              - generic [ref=f17e397]:
+                                - generic [ref=f17e398]: kumparanBISNIS
+                                - img "verified-round" [ref=f17e402]
+                          - generic [ref=f17e403]: 10 Apr 2025
+                        - generic [ref=f17e407]:
+                          - link:
+                            - /url: /kumparanbisnis/tujuh-raksasa-teknologi-as-raup-usd-1-5-triliun-usai-trump-tunda-tarif-24qhavz0k25
+                            - generic [ref=f17e408] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e412]:
+                      - generic [ref=f17e413]:
+                        - generic [ref=f17e414]:
+                          - link "news-card-label-link" [ref=f17e415] [cursor=pointer]:
+                            - /url: /kumparannews/prabowo-teknologi-bila-tak-diawasi-bisa-rusak-akhlak-watak-anak-24lfSlyw4QD
+                            - generic [ref=f17e416]: "Prabowo: Teknologi Bila Tak Diawasi Bisa Rusak Akhlak-Watak Anak"
+                            - generic [ref=f17e419]:
+                              - img "kumparanNEWS" [ref=f17e425]
+                              - generic [ref=f17e427]:
+                                - generic [ref=f17e428]: kumparanNEWS
+                                - img "verified-round" [ref=f17e432]
+                          - generic [ref=f17e433]: 28 Mar 2025
+                        - generic [ref=f17e437]:
+                          - link:
+                            - /url: /kumparannews/prabowo-teknologi-bila-tak-diawasi-bisa-rusak-akhlak-watak-anak-24lfSlyw4QD
+                            - generic [ref=f17e438] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e442]:
+                      - generic [ref=f17e443]:
+                        - generic [ref=f17e444]:
+                          - link "news-card-label-link" [ref=f17e445] [cursor=pointer]:
+                            - /url: /kumparantravel/antisipasi-kecelakaan-faa-pasang-teknologi-canggih-di-74-bandara-24jZyfoahuQ
+                            - generic [ref=f17e446]: Antisipasi Kecelakaan, FAA Pasang Teknologi Canggih di 74 Bandara
+                            - generic [ref=f17e449]:
+                              - img "kumparanTRAVEL" [ref=f17e455]
+                              - generic [ref=f17e457]:
+                                - generic [ref=f17e458]: kumparanTRAVEL
+                                - img "verified-round" [ref=f17e462]
+                          - generic [ref=f17e463]: 23 Mar 2025
+                        - generic [ref=f17e467]:
+                          - link:
+                            - /url: /kumparantravel/antisipasi-kecelakaan-faa-pasang-teknologi-canggih-di-74-bandara-24jZyfoahuQ
+                            - generic [ref=f17e468] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e472]:
+                      - generic [ref=f17e473]:
+                        - generic [ref=f17e474]:
+                          - link "news-card-label-link" [ref=f17e475] [cursor=pointer]:
+                            - /url: /kumparannews/binus-school-simprug-adopsi-teknologi-terkini-vr-goggle-hingga-robot-pintar-24eqLJ1064y
+                            - generic [ref=f17e476]: "BINUS SCHOOL Simprug Adopsi Teknologi Terkini: VR Goggle hingga Robot Pintar"
+                            - generic [ref=f17e479]:
+                              - img "kumparanNEWS" [ref=f17e485]
+                              - generic [ref=f17e487]:
+                                - generic [ref=f17e488]: kumparanNEWS
+                                - img "verified-round" [ref=f17e492]
+                          - generic [ref=f17e493]: 11 Mar 2025
+                        - generic [ref=f17e497]:
+                          - link:
+                            - /url: /kumparannews/binus-school-simprug-adopsi-teknologi-terkini-vr-goggle-hingga-robot-pintar-24eqLJ1064y
+                            - generic [ref=f17e498] [cursor=pointer]
+                    - generic "viewport impression tracker" [ref=f17e502]:
+                      - generic [ref=f17e503]:
+                        - generic [ref=f17e504]:
+                          - link "news-card-label-link" [ref=f17e505] [cursor=pointer]:
+                            - /url: /kumparantech/antares-eazy-teknologi-ai-untuk-keamanan-dan-efisiensi-kampus-modern-24Z2Nk9VjZM
+                            - generic [ref=f17e506]: Antares Eazy, Teknologi AI untuk Keamanan dan Efisiensi Kampus Modern
+                            - generic [ref=f17e509]:
+                              - img "kumparanTECH" [ref=f17e515]
+                              - generic [ref=f17e517]:
+                                - generic [ref=f17e518]: kumparanTECH
+                                - img "verified-round" [ref=f17e522]
+                          - generic [ref=f17e523]: 24 Feb 2025
+                        - generic [ref=f17e527]:
+                          - link:
+                            - /url: /kumparantech/antares-eazy-teknologi-ai-untuk-keamanan-dan-efisiensi-kampus-modern-24Z2Nk9VjZM
+                            - generic [ref=f17e528] [cursor=pointer]
+                  - generic [ref=f17e534]:
+                    - button
+            - generic [ref=f17e536]:
+              - complementary [ref=f17e537]:
+                - iframe [ref=f17e541]:
+                  - link [ref=f28e3] [cursor=pointer]:
+                    - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuX96Ec9nH9ekfJeVSrPkGT75ywTmgQIeDLu5R_yk8035xTZ7QZTa9hUPIGLwXGymN0D8VsNad9BY7AY47zWUVmQvaERSzcuFnbQJkWUy4vwIcDcn_48oSZBO1-kFwi0k0fgzZox0d9IarkASOAbB18kuM-44YVwwdD2s2O6zaNWMB5nBlUgj6gyygGq_Qs-mkcbyBcvFfgX1H2PhbXGgWUjXQOiPpkZAgOCvgLPV4hh6ZcMATzMiXrswNgQs3ZwWiEjAtt6OSXe5jXufk4aItcG_RXA6QetG6EQ63DDbrk_vpSxe66FPREaF3TlSEDAY7lsSiSbJ_9UxiHTzC2glKHax69tXMdauHTnoI2HYZWFhHYxzA_TVfTLYsx9gEUL0rtbUalhDWC8SEW5bdjq-3CDYUWf7d5W840Th4uh-AFpA%2526sai%253DAMfl-YRLltbVuuH6iQF14m_uylgtPnXGrZDlj1E3mAChtJt_IgrN47EdQogl6JbxeudTzOyEne8o_46tFIroKhhQcNql0UsgINJgOqjxkBveUJ43D-wN_cstZnAkEa8AhfUVog6IJHY7OxRa2ZwEm_0qwSDIBa6pfCwIxuxsAXXxi-DWjlVkWHxrcbK812xNgGce4DCyPJj4DimFH1gjgLrnk3XxYAtzz0ptkUxOi5pu981AjPsiYHe6E-dUaZ8VZ3O2B69_UuJSSbnHxwLjs-hFBzNv3bShE2fgDR-6hBgT5I7mUWvvePpFH6THum8eVq7C-vCgZOAcTp-C4idm5R9yijrRVkrdY9BYz4HXHqDEdnM86E4zR4S4eQZKW_LO7LXYDEkH6-ms8-kEgJiLG9Y8zcs%2526sig%253DCg0ArKJSzOL_-8kboZDwEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.instagram.com/kumparancom
+                    - img "Banner" [ref=f28e4]
+              - complementary [ref=f17e542]:
+                - iframe [ref=f17e546]:
+                  - link [ref=f27e3] [cursor=pointer]:
+                    - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjstBehXjP0EhyGpWDf5Pff1MDTateLTKaUtOKM3MWsQHwHX7HFIju65ryyuawOAVb5sC0gKlCR7tr3fnNweAOCDqxOGkajmMCBSjgW5cq3a-jo-F5MqF8SVnablYXFd3X6WTRY_y9RZ7d-N5U7G4DfDG3MqnFWupI-1kWuxy-Goz9afKdBiZ5AU8LOiKvI7YTiHBYBkTTRxyP4SyyN9MuCinuwIqSxpU2z8XXG1BbfX1qUwwc23TN1cZXf3PbUAZxbAvJJ4IAXHBjE60tzScMkLzliLQzh-jx4GW7ltq9moP3mx0wV-LKg4HIlfYO1wQINXife_B_syHEdo-_cH0zLYrWeo_izI930hz-0EX_qCYmpihOzsNCdRL5_tAy06JhIh1wA6YWsa1dxADCzas7L8wmBn9-IacJWDKGjrGGfrnYw%2526sai%253DAMfl-YSrqiN6cT9jYKiscKTxf9XjnkJMOluHG2Ayp9hNyTJJWHdrf2WuwhLWqdv7liM4M-cebYyhy1UKP0nAnHV3xjcoseLzPrSP4om31QQ-qgYTgo06YuRVi1SnqyY-QdOXfejAKmLiUV9rzffS9ojvQa30OdEXTBWSH5LD38xxSmHYqUPwknc-6Tj4PbN5nmDIxlqYs9K-2Y8NtgC6ryQAwyAioFs99qmkSfaNahwpE0hJor8tM3jzoniM-VUgbBhnWsCmE0heNwuI95_-j3nod-EBHCXYAQ18Dco-pHSMzAWtRkiUXHKSEOfBHoO7UrDasV397LibTOR0O4c7wS3PbV3LzYURUo0XyS2QUjSRnYom_UaRI1EBVaT_OEn_Uco25cU0tV1k3tefX40XYOVAW5o%2526sig%253DCg0ArKJSzEsl4T4Zr5sSEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://kumparancom.typeform.com/to/xc6aqU0N
+                    - img "Banner" [ref=f27e4]

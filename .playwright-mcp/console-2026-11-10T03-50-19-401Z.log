@@ -1,0 +1,80 @@
+[    1359ms] [WARNING] RestLink configured without a default URI. All @rest(…) directives must provide an endpoint key! @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[    1465ms] [WARNING] "charset" is not a valid JSX prop, replace it by "charSet" @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[    1639ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ml (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:40585)
+    at au (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:89939)
+    at sc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127875)
+    at ic (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127803)
+    at oc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127645)
+    at Ks (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:123067)
+    at Uc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:138900)
+    at MessagePort.$ (https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2:497071)
+[    2477ms] [WARNING] [GPT] PubAdsService.collapseEmptyDivs is deprecated, use googletag.setConfig({collapseDiv: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2479ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2554ms] [LOG]  @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2596ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_e_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2599ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_f_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3572ms] [WARNING] VIDEOJS: WARN: A plugin named "qualityLevels" already exists. You may want to avoid re-registering plugins! @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3765ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3766ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3783ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3886ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3930ms] [ERROR] Not signed in with the identity provider. @ https://kumparan.com/:1
+[    6617ms] [ERROR] Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=1258' from origin 'https://kumparan.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://kumparan.com/:1
+[    6618ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.rlcdn.com/api/identity/envelope?pid=1258:1
+[   14847ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[  144942ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[  145005ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://kumparan.com/login:1
+[  149623ms] [WARNING] OTS parsing error: Size of decompressed WOFF 2.0 is less than compressed size @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  150082ms] [ERROR] Connecting to 'data:,' violates the following Content Security Policy directive: "connect-src 'self' https://hagen.challenges.cloudflare.com https://brunhild.challenges.cloudflare.com https://*.alg13.dnstest.challenges.cloudflare.com https://*.mldsa44.dnstest.challenges.cloudflare.com https://dnstest.dev https://ca2.cloudflarecaptcha.com https://ca1.cloudflarecaptcha.com". The action has been blocked. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  150084ms] [ERROR] Connecting to 'data:,' violates the following Content Security Policy directive: "connect-src 'self' https://hagen.challenges.cloudflare.com https://brunhild.challenges.cloudflare.com https://*.alg13.dnstest.challenges.cloudflare.com https://*.mldsa44.dnstest.challenges.cloudflare.com https://dnstest.dev https://ca2.cloudflarecaptcha.com https://ca1.cloudflarecaptcha.com". The action has been blocked. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  150084ms] [ERROR] Fetch API cannot load data:,. Refused to connect because it violates the document's Content Security Policy. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151668ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151669ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151840ms] [LOG] /.*.*=.*/ @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151841ms] [LOG] /.*.*=.*/ @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151841ms] [LOG] function(){return Kh(NQ,NY)} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151841ms] [LOG] function(){return Kh(NQ,NY)} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151842ms] [LOG] JSHandle@node @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151842ms] [LOG] JSHandle@node @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151843ms] [COUNT]  : 1 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151844ms] [COUNT]  : 1 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151844ms] [COUNT] %c%o: 1 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151844ms] [COUNT] %c%o: 1 @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151845ms] [DIR]  Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151846ms] [DIR]  Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151846ms] [DIR] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151847ms] [DIR] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151847ms] [DIRXML] %c%d font-size:0;color:transparent Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151848ms] [DIRXML] %c%d font-size:0;color:transparent Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151848ms] [DIRXML] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151848ms] [DIRXML] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151848ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [ERROR] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [ERROR] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [INFO] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [INFO] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151849ms] [INFO] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151850ms] [INFO] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151850ms] [LOG] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151850ms] [LOG] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151851ms] [LOG] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151851ms] [LOG] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151851ms] [TABLE] %c%d font-size:0;color:transparent Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151851ms] [TABLE] %c%d font-size:0;color:transparent Error @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151852ms] [TABLE] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151852ms] [TABLE] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151853ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151853ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151853ms] [WARNING] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151853ms] [WARNING] %c%o font-size:0;color:transparent {} @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1
+[  151874ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/gmu8r/0x4AAAAAAB0bDiszO5oPkCkN/light/fbE/new/flexible?lang=en:1

@@ -1,0 +1,49 @@
+[     623ms] [WARNING] RestLink configured without a default URI. All @rest(…) directives must provide an endpoint key! @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[     657ms] [WARNING] "charset" is not a valid JSX prop, replace it by "charSet" @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[     728ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ml (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:40585)
+    at au (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:89939)
+    at sc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127875)
+    at ic (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127803)
+    at oc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127645)
+    at Ks (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:123067)
+    at Uc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:138900)
+    at MessagePort.$ (https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2:497071)
+[     921ms] [LOG]  @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[     931ms] [WARNING] [GPT] PubAdsService.collapseEmptyDivs is deprecated, use googletag.setConfig({collapseDiv: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[     932ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1027ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_e_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1028ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_f_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1702ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1908ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2136ms] [ERROR] Not signed in with the identity provider. @ https://kumparan.com/:1
+[    3603ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    4576ms] [ERROR] Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=1258' from origin 'https://kumparan.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://kumparan.com/:1
+[    4577ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.rlcdn.com/api/identity/envelope?pid=1258:1
+[   31012ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[   31021ms] TypeError: Cannot read properties of undefined (reading 'replace')
+    at <anonymous>:2:96
+    at https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:1070:429
+    at yU (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:1072:31)
+    at Id.xU (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:1069:92)
+    at Id.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:386:187)
+    at l.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:309:465)
+    at eb (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:269:767)
+    at cb (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:269:502)
+    at Id.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:333:473)
+    at l.apply (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:309:465)
+    at eb (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:269:767)
+    at l.hp (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:270:122)
+    at https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:831:761
+    at Nz (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:708:790)
+    at CA.evaluate (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:728:280)
+    at e (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:745:203)
+    at https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:278:442
+    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:746:433)
+    at Array.<anonymous> (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:746:173)
+    at onSuccess (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:746:304)
+    at vtp_gtmOnSuccess (https://www.googletagmanager.com/gtm.js?id=GTM-NC5GNNG&gtm_cookies_win=x:744:439)

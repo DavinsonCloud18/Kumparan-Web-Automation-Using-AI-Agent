@@ -1,0 +1,28 @@
+[    1840ms] [WARNING] RestLink configured without a default URI. All @rest(…) directives must provide an endpoint key! @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[    1977ms] [WARNING] "charset" is not a valid JSX prop, replace it by "charSet" @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[    2212ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ml (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:40585)
+    at au (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:89939)
+    at sc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127875)
+    at ic (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127803)
+    at oc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127645)
+    at Ks (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:123067)
+    at Uc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:138900)
+    at MessagePort.$ (https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2:497071)
+[    2823ms] [WARNING] [GPT] PubAdsService.collapseEmptyDivs is deprecated, use googletag.setConfig({collapseDiv: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    2826ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3013ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_e_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3014ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_f_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    4052ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    4138ms] [ERROR] Not signed in with the identity provider. @ https://kumparan.com/:1
+[    4287ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    4775ms] [LOG]  @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    8094ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[   41470ms] [WARNING] [Meta Pixel] - Required parameter 'value' is missing for event 'Purchase'. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[   41529ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[   90182ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[   90454ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1

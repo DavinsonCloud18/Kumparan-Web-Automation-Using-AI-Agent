@@ -1,0 +1,643 @@
+- generic [ref=f25e2]:
+  - complementary
+  - complementary:
+    - complementary
+  - banner [ref=f25e3]:
+    - generic [ref=f25e4]:
+      - generic "kumparan logo" [ref=f25e5]:
+        - link [ref=f25e6] [cursor=pointer]:
+          - /url: /channel/tekno
+          - img "Kumparan Logo" [ref=f25e7]
+      - search [ref=f25e8]:
+        - generic [ref=f25e9]: Pencarian
+        - generic [ref=f25e11]:
+          - img "search" [ref=f25e13]
+          - textbox "Pencarian" [ref=f25e15]:
+            - /placeholder: Cari di sini...
+          - button [ref=f25e2215] [cursor=pointer]:
+            - img "x-circle" [ref=f25e2218]
+      - navigation "user menu" [ref=f25e16]:
+        - list [ref=f25e17]:
+          - listitem [ref=f25e18]:
+            - link [ref=f25e21] [cursor=pointer]:
+              - /url: /
+              - img "home" [ref=f25e24]
+          - listitem [ref=f25e25]:
+            - generic [ref=f25e26]:
+              - button [active] [ref=f25e2855] [cursor=pointer]:
+                - img "sun" [ref=f25e2856]
+              - generic [ref=f25e2857] [cursor=pointer]: Mode Terang
+          - listitem [ref=f25e32]:
+            - link [ref=f25e36] [cursor=pointer]:
+              - /url: /notifications
+              - img "notification" [ref=f25e39]
+          - listitem [ref=f25e40]:
+            - button "Masuk" [ref=f25e41] [cursor=pointer]
+          - listitem [ref=f25e45]:
+            - button "Buat Tulisan" [ref=f25e47] [cursor=pointer]
+    - navigation "headermain menu" [ref=f25e51]:
+      - list [ref=f25e52]:
+        - listitem "viewport impression tracker" [ref=f25e53]:
+          - link "News" [ref=f25e54] [cursor=pointer]:
+            - /url: /channel/news
+        - listitem "viewport impression tracker" [ref=f25e57]:
+          - link "Tekno" [ref=f25e58] [cursor=pointer]:
+            - /url: /channel/tekno
+        - listitem "viewport impression tracker" [ref=f25e61]:
+          - link "Bisnis" [ref=f25e62] [cursor=pointer]:
+            - /url: /channel/bisnis
+        - listitem "viewport impression tracker" [ref=f25e65]:
+          - link "Otomotif" [ref=f25e66] [cursor=pointer]:
+            - /url: /channel/otomotif
+        - listitem "viewport impression tracker" [ref=f25e69]:
+          - link "Entertainment" [ref=f25e70] [cursor=pointer]:
+            - /url: /channel/entertainment
+        - listitem "viewport impression tracker" [ref=f25e73]:
+          - link "Food & Travel" [ref=f25e74] [cursor=pointer]:
+            - /url: /channel/food-travel
+        - listitem "viewport impression tracker" [ref=f25e77]:
+          - link "Bola & Sports" [ref=f25e78] [cursor=pointer]:
+            - /url: /channel/bola-sports
+        - listitem "viewport impression tracker" [ref=f25e81]:
+          - link "Mom" [ref=f25e82] [cursor=pointer]:
+            - /url: /channel/mom
+        - listitem "viewport impression tracker" [ref=f25e85]:
+          - link "Woman" [ref=f25e86] [cursor=pointer]:
+            - /url: /channel/woman
+        - listitem "viewport impression tracker" [ref=f25e89]:
+          - link "Bolanita" [ref=f25e90] [cursor=pointer]:
+            - /url: /channel/bolanita
+        - generic [ref=f25e95] [cursor=pointer]:
+          - img "more-vertical" [ref=f25e98]
+          - generic [ref=f25e99]: Lainnya
+    - navigation "header sub menu" [ref=f25e101]:
+      - list [ref=f25e102]:
+        - listitem [ref=f25e103]:
+          - link "Breaking News" [ref=f25e104] [cursor=pointer]:
+            - /url: /breakingnews
+        - listitem [ref=f25e109]:
+          - link "Sumatera Pulih" [ref=f25e110] [cursor=pointer]:
+            - /url: /topic/sumatra-pulih
+        - listitem [ref=f25e115]:
+          - link "Green Initiative" [ref=f25e116] [cursor=pointer]:
+            - /url: /topic/green-initiative
+        - listitem [ref=f25e121]:
+          - link "Video Story" [ref=f25e122] [cursor=pointer]:
+            - /url: /video-story
+        - listitem [ref=f25e127]:
+          - link "Audio Story" [ref=f25e128] [cursor=pointer]:
+            - /url: /audio-story
+        - listitem [ref=f25e133]:
+          - link "Trending" [ref=f25e134] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=f25e139]:
+          - link "kumparanPLUS" [ref=f25e140] [cursor=pointer]:
+            - /url: /kumparan-plus
+        - listitem [ref=f25e145]:
+          - link "Opini & Cerita" [ref=f25e146] [cursor=pointer]:
+            - /url: /opini-cerita
+  - main [ref=f25e151]:
+    - generic:
+      - complementary
+    - generic [ref=f25e2509]:
+      - generic:
+        - complementary
+      - generic:
+        - complementary
+      - complementary [ref=f25e2513]:
+        - iframe [ref=f25e2862]:
+          - link [ref=f60e3] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuW8mv7C8Wka0QDXhyglGEQSnuxLwjghlGAL4-5sy-EGT07XEW0azN5luHFMLEANOBcqLkKSETixoGgTSzbFiXIkkVBakM0IK9bRntnwmPH1u7CQOMRj4VEp3VpkvGFFoCDRjIbbkWmk_QnRts6mwHclxTO_1Wpx9PAk4Rv-EeTJrG8v0eKZAxDIHv42CiuYbesex8k6SnKmLeE6oKVOsEqMfpmw0z_vWIV_9K_mFI2KM0IheRKuaAkQRKpJ9TCiTgBAtJPGtrIjFjIWAglFAq2gKpJVB4j4FtXheoDplL2nyEOih5YCTHYWPM2nWWlKi6J_HN-QXrphj7YE22YAghuZvoG9WakJwwGlyrpTBFghyLcXW6IHA0_Q2XEK0YUk5lTvo8ebm-zZsYl0LylVJCJus1zEyuEwgzSBA%2526sai%253DAMfl-YSXQH0XME-BtRwHtIkzU7wK_NQIEUAy3hMtOMXDBQsN1l2ajx6YbzGqBq0M8MLgZHHAmtZM6sbqkT5D8Gz-AkWOt8_x4aMF7YlAVg0ZMdcSowYC7w9basH8sKvX7ymyCGbCtvn20qg3ehtGTNdtfKQSTySrY4L6VII9VAvss_I9sR9TNqAu-VnKF3JUEdFcEtO_BtOY-ZmTGDqpihj6TVjh6RSmoiB37rMze-jzePc1E60pbdcE3gLbUAso5CNMaWTpIanR1K0e0tSBdhlxnv3_aZjwbxTKeoeXAhS8XLQ1WLQT_cNJ3UI7gKc03sSAQOSTQiakhncMv6FHNf3Ay7sF8bxW6O-zo5TiQCPw3g5oSFEWy2KJ6jhEJybc4bxhtpzL_D3Dv3EdAzPfkDLy9zo%2526sig%253DCg0ArKJSzKAfj3PagVQbEAE%2526fbs_aeid%253D%25255Bgw_fbsaeid%25255D%2526urlfix%253D1%2526adurl%253Dhttps://www.blibli.com/promosi/blibli-histeria%3Futm_source%3Dpublisher%26utm_medium%3Dkumparan%26utm_campaign%3DMDX_Publisher_Promo_Histeria1111_Reservation_Reach_10Nov26_DesktopBillboard%26utm_content%3DHisteria1111_10Nov
+            - img "Banner" [ref=f60e4]
+      - heading "Tekno" [level=1] [ref=f25e2517]
+      - generic [ref=f25e2520]:
+        - generic [ref=f25e2523]:
+          - generic [ref=f25e2529]:
+            - generic [ref=f25e2864]:
+              - generic [ref=f25e2866]:
+                - complementary
+                - generic "viewport impression tracker" [ref=f25e2868]:
+                  - generic [ref=f25e2870]:
+                    - img "Ketua dan CEO Advanced Micro Devices (AMD), Lisa Su." [ref=f25e2874]
+                    - generic [ref=f25e2876]:
+                      - link "news-card-label-link" [ref=f25e2877] [cursor=pointer]:
+                        - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                        - generic [ref=f25e2878]: "AMD: Jualan Cip Data Center Q3 2026 Cuan, Pendapatan Naik 97%"
+                        - generic [ref=f25e2881]:
+                          - img "kumparanTEKNO" [ref=f25e2887]
+                          - generic [ref=f25e2889]:
+                            - generic [ref=f25e2890]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e2894]
+                      - generic [ref=f25e2895]: sejam
+              - generic [ref=f25e2899]:
+                - generic [ref=f25e2901]:
+                  - complementary
+                  - generic "viewport impression tracker" [ref=f25e2903]:
+                    - generic [ref=f25e2905]:
+                      - img "Untitled Image" [ref=f25e2909]
+                      - generic [ref=f25e2911]:
+                        - link "news-card-label-link" [ref=f25e2912] [cursor=pointer]:
+                          - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                          - generic [ref=f25e2913]: "Bitera Data Center: Pusat Data Kapasitas 30 MW, Tawarkan Latensi Rendah dan AI-ready"
+                          - generic [ref=f25e2916]:
+                            - img "kumparanTEKNO" [ref=f25e2922]
+                            - generic [ref=f25e2924]:
+                              - generic [ref=f25e2925]: kumparanTEKNO
+                              - img "verified-round" [ref=f25e2929]
+                        - generic [ref=f25e2930]: 18 jam
+                - generic "viewport impression tracker" [ref=f25e2937]:
+                  - generic [ref=f25e2939]:
+                    - img "CEO Nvidia Jensen Huang" [ref=f25e2943]
+                    - generic [ref=f25e2945]:
+                      - link "news-card-label-link" [ref=f25e2946] [cursor=pointer]:
+                        - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                        - generic [ref=f25e2947]: Nvidia Investigasi Perselingkuhan CEO Jensen Huang dengan Terduga Agen Intel China
+                        - generic [ref=f25e2950]:
+                          - img "kumparanTEKNO" [ref=f25e2956]
+                          - generic [ref=f25e2958]:
+                            - generic [ref=f25e2959]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e2963]
+                      - generic [ref=f25e2964]: 22 jam
+            - generic [ref=f25e2969]:
+              - generic [ref=f25e2971]:
+                - complementary
+                - generic "viewport impression tracker" [ref=f25e2973]:
+                  - generic [ref=f25e2975]:
+                    - img "Lori Huang dan Jensen Huang" [ref=f25e2979]
+                    - generic [ref=f25e2981]:
+                      - link "news-card-label-link" [ref=f25e2982] [cursor=pointer]:
+                        - /url: /kumparantekno/ceo-nvidia-jensen-huang-akui-selingkuh-dengan-alice-huang-terduga-agen-intel-china-28XMBuGsjJ2
+                        - generic [ref=f25e2983]: CEO Nvidia Jensen Huang Akui Selingkuh dengan Alice Huang, Terduga Agen Intel China
+                        - generic [ref=f25e2986]:
+                          - img "kumparanTEKNO" [ref=f25e2992]
+                          - generic [ref=f25e2994]:
+                            - generic [ref=f25e2995]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e2999]
+                      - generic [ref=f25e3000]: 24 jam
+              - generic [ref=f25e3004]:
+                - generic [ref=f25e3006]:
+                  - complementary
+                  - generic "viewport impression tracker" [ref=f25e3008]:
+                    - generic [ref=f25e3010]:
+                      - img "Ilustrasi perangkat dompet kripto Ledger" [ref=f25e3014]
+                      - generic [ref=f25e3016]:
+                        - link "news-card-label-link" [ref=f25e3017] [cursor=pointer]:
+                          - /url: /kumparantekno/hacker-curi-aset-digital-rp-1-8-t-dari-wallet-kripto-ledger-yang-dimodif-chip-ilegal-dijual-di-ri-28XQ1hzbKJs
+                          - generic [ref=f25e3018]: Hacker Curi Aset Digital Rp 1,8 T dari Wallet Kripto Ledger yang Dimodif Chip Ilegal, Dijual di RI
+                          - generic [ref=f25e3021]:
+                            - img "kumparanTEKNO" [ref=f25e3027]
+                            - generic [ref=f25e3029]:
+                              - generic [ref=f25e3030]: kumparanTEKNO
+                              - img "verified-round" [ref=f25e3034]
+                        - generic [ref=f25e3035]: 9 Nov 2026
+                - generic "viewport impression tracker" [ref=f25e3042]:
+                  - generic [ref=f25e3044]:
+                    - img "Peluncuran pesawat luar angkasa China" [ref=f25e3048]
+                    - generic [ref=f25e3050]:
+                      - link "news-card-label-link" [ref=f25e3051] [cursor=pointer]:
+                        - /url: /kumparantekno/astronaut-pakistan-join-di-misi-luar-angkasa-china-shenzhou-24-jadi-wna-pertama-28X9Hfi8Ebz
+                        - generic [ref=f25e3052]: Astronaut Pakistan Join di Misi Luar Angkasa China Shenzhou-24, Jadi WNA Pertama
+                        - generic [ref=f25e3055]:
+                          - img "kumparanTEKNO" [ref=f25e3061]
+                          - generic [ref=f25e3063]:
+                            - generic [ref=f25e3064]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e3068]
+                      - generic [ref=f25e3069]: 8 Nov 2026
+            - generic [ref=f25e3074]:
+              - generic "viewport impression tracker" [ref=f25e3078]:
+                - generic [ref=f25e3080]:
+                  - img "Pengumuman Gangguan Bank di Jepang" [ref=f25e3084]
+                  - generic [ref=f25e3086]:
+                    - link "news-card-label-link" [ref=f25e3087] [cursor=pointer]:
+                      - /url: /kumparantekno/128-bank-di-jepang-gangguan-dan-atm-internet-banking-sempat-lumpuh-kena-serangan-siber-28WeCKyNRnl
+                      - generic [ref=f25e3088]: 128 Bank di Jepang Gangguan dan ATM-Internet Banking Sempat Lumpuh, Kena Serangan Siber?
+                      - generic [ref=f25e3091]:
+                        - img "kumparanTEKNO" [ref=f25e3097]
+                        - generic [ref=f25e3099]:
+                          - generic [ref=f25e3100]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3104]
+                    - generic [ref=f25e3105]: 8 Nov 2026
+              - generic [ref=f25e3109]:
+                - generic "viewport impression tracker" [ref=f25e3113]:
+                  - generic [ref=f25e3115]:
+                    - img "Ilustrasi logo Android di smartphone" [ref=f25e3119]
+                    - generic [ref=f25e3121]:
+                      - link "news-card-label-link" [ref=f25e3122] [cursor=pointer]:
+                        - /url: /kumparantekno/pengguna-android-14-17-wajib-update-ada-celah-keamanan-yang-bisa-retas-hp-jarak-jauh-28WhVfcT330
+                        - generic [ref=f25e3123]: Pengguna Android 14–17 Wajib Update! Ada Celah Keamanan yang Bisa Retas HP Jarak Jauh
+                        - generic [ref=f25e3126]:
+                          - img "kumparanTEKNO" [ref=f25e3132]
+                          - generic [ref=f25e3134]:
+                            - generic [ref=f25e3135]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e3139]
+                      - generic [ref=f25e3140]: 8 Nov 2026
+                - generic "viewport impression tracker" [ref=f25e3147]:
+                  - generic [ref=f25e3149]:
+                    - img "Lemari pendingin di hack di Belgia" [ref=f25e3153]
+                    - generic [ref=f25e3155]:
+                      - link "news-card-label-link" [ref=f25e3156] [cursor=pointer]:
+                        - /url: /kumparantekno/as-minta-industri-waspada-ancaman-siber-sistem-pendingin-yang-terus-meluas-28WLoNA7HsM
+                        - generic [ref=f25e3157]: AS Minta Industri Waspada Ancaman Siber Sistem Pendingin yang Terus Meluas
+                        - generic [ref=f25e3160]:
+                          - img "kumparanTEKNO" [ref=f25e3166]
+                          - generic [ref=f25e3168]:
+                            - generic [ref=f25e3169]: kumparanTEKNO
+                            - img "verified-round" [ref=f25e3173]
+                      - generic [ref=f25e3174]: 7 Nov 2026
+          - img "chevron-next" [ref=f25e3179] [cursor=pointer]
+          - tablist [ref=f25e2631]:
+            - tab "Page 1" [ref=f25e3180]
+            - tab "Page 2" [ref=f25e3181]
+            - tab "Page 3" [ref=f25e3182]
+        - generic [ref=f25e2634]:
+          - generic [ref=f25e2636]:
+            - link [ref=f25e2637] [cursor=pointer]:
+              - /url: /trending/tekno
+              - heading "Trending" [level=2] [ref=f25e2638]
+            - link "arrow-right Lihat lainnya" [ref=f25e2640] [cursor=pointer]:
+              - /url: /trending/tekno
+              - generic [ref=f25e2641]:
+                - img "arrow-right" [ref=f25e2643]
+                - generic [ref=f25e2644]: Lihat lainnya
+          - list [ref=f25e2647]:
+            - listitem [ref=f25e2648]:
+              - generic "viewport impression tracker" [ref=f25e3185]:
+                - generic [ref=f25e3186]:
+                  - generic [ref=f25e3187]:
+                    - link "news-card-label-link" [ref=f25e3188] [cursor=pointer]:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=f25e3189]: "AMD: Jualan Cip Data Center Q3 2026 Cuan, Pendapatan Naik 97%"
+                      - generic [ref=f25e3192]:
+                        - img "kumparanTEKNO" [ref=f25e3198]
+                        - generic [ref=f25e3200]:
+                          - generic [ref=f25e3201]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3205]
+                    - generic [ref=f25e3206]: sejam
+                  - generic [ref=f25e3210]:
+                    - link:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=f25e3211] [cursor=pointer]
+            - listitem [ref=f25e2680]:
+              - generic "viewport impression tracker" [ref=f25e3216]:
+                - generic [ref=f25e3217]:
+                  - generic [ref=f25e3218]:
+                    - link "news-card-label-link" [ref=f25e3219] [cursor=pointer]:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=f25e3220]: "Bitera Data Center: Pusat Data Kapasitas 30 MW, Tawarkan Latensi Rendah dan AI-ready"
+                      - generic [ref=f25e3223]:
+                        - img "kumparanTEKNO" [ref=f25e3229]
+                        - generic [ref=f25e3231]:
+                          - generic [ref=f25e3232]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3236]
+                    - generic [ref=f25e3237]: 18 jam
+                  - generic [ref=f25e3241]:
+                    - link:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=f25e3242] [cursor=pointer]
+            - listitem [ref=f25e2712]:
+              - generic "viewport impression tracker" [ref=f25e3247]:
+                - generic [ref=f25e3248]:
+                  - generic [ref=f25e3249]:
+                    - link "news-card-label-link" [ref=f25e3250] [cursor=pointer]:
+                      - /url: /kumparantekno/donald-trump-soal-ceo-nvidia-jensen-huang-diduga-jadi-target-intel-china-saya-tahu-dia-orang-baik-28XTfOgd57z
+                      - generic [ref=f25e3251]: "Donald Trump soal CEO Nvidia Jensen Huang Diduga Jadi Target Intel China: Saya Tahu Dia Orang Baik"
+                      - generic [ref=f25e3254]:
+                        - img "kumparanTEKNO" [ref=f25e3260]
+                        - generic [ref=f25e3262]:
+                          - generic [ref=f25e3263]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3267]
+                    - generic [ref=f25e3268]: 20 jam
+                  - generic [ref=f25e3272]:
+                    - link:
+                      - /url: /kumparantekno/donald-trump-soal-ceo-nvidia-jensen-huang-diduga-jadi-target-intel-china-saya-tahu-dia-orang-baik-28XTfOgd57z
+                      - generic [ref=f25e3273] [cursor=pointer]
+            - listitem [ref=f25e2744]:
+              - generic "viewport impression tracker" [ref=f25e3278]:
+                - generic [ref=f25e3279]:
+                  - generic [ref=f25e3280]:
+                    - link "news-card-label-link" [ref=f25e3281] [cursor=pointer]:
+                      - /url: /kumparantekno/ceo-nvidia-jensen-huang-akui-selingkuh-dengan-alice-huang-terduga-agen-intel-china-28XMBuGsjJ2
+                      - generic [ref=f25e3282]: CEO Nvidia Jensen Huang Akui Selingkuh dengan Alice Huang, Terduga Agen Intel China
+                      - generic [ref=f25e3285]:
+                        - img "kumparanTEKNO" [ref=f25e3291]
+                        - generic [ref=f25e3293]:
+                          - generic [ref=f25e3294]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3298]
+                    - generic [ref=f25e3299]: 24 jam
+                  - generic [ref=f25e3303]:
+                    - link:
+                      - /url: /kumparantekno/ceo-nvidia-jensen-huang-akui-selingkuh-dengan-alice-huang-terduga-agen-intel-china-28XMBuGsjJ2
+                      - generic [ref=f25e3304] [cursor=pointer]
+            - listitem [ref=f25e2776]:
+              - generic "viewport impression tracker" [ref=f25e3309]:
+                - generic [ref=f25e3310]:
+                  - generic [ref=f25e3311]:
+                    - link "news-card-label-link" [ref=f25e3312] [cursor=pointer]:
+                      - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                      - generic [ref=f25e3313]: Nvidia Investigasi Perselingkuhan CEO Jensen Huang dengan Terduga Agen Intel China
+                      - generic [ref=f25e3316]:
+                        - img "kumparanTEKNO" [ref=f25e3322]
+                        - generic [ref=f25e3324]:
+                          - generic [ref=f25e3325]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3329]
+                    - generic [ref=f25e3330]: 22 jam
+                  - generic [ref=f25e3334]:
+                    - link:
+                      - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                      - generic [ref=f25e3335] [cursor=pointer]
+      - generic [ref=f25e3338]:
+        - generic [ref=f25e3340]:
+          - link [ref=f25e3341] [cursor=pointer]:
+            - /url: /channel/tekno/video-story
+            - heading "Video Story" [level=2] [ref=f25e3342]
+          - link [ref=f25e3344] [cursor=pointer]:
+            - /url: /channel/tekno/video-story
+            - img "arrow-right" [ref=f25e3347]
+        - generic [ref=f25e3348]:
+          - generic [ref=f25e3354]:
+            - generic "viewport impression tracker" [ref=f25e3356]:
+              - generic [ref=f25e3357]:
+                - generic [ref=f25e3362] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3363]
+                  - generic [ref=f25e3364]: 00:08
+                - generic [ref=f25e3365]:
+                  - generic [ref=f25e3366] [cursor=pointer]: "Jensen Huang ke Trump: Saya gak tau Alice Huang mata-mata"
+                  - generic [ref=f25e3370]:
+                    - generic [ref=f25e3371]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3376]
+            - generic "viewport impression tracker" [ref=f25e3378]:
+              - generic [ref=f25e3379]:
+                - generic [ref=f25e3384] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3385]
+                  - generic [ref=f25e3386]: 01:22
+                - generic [ref=f25e3387]:
+                  - generic [ref=f25e3388] [cursor=pointer]: Momen kedekatan CEO Nvidia dengan Alex Huang
+                  - generic [ref=f25e3392]:
+                    - generic [ref=f25e3393]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3398]
+            - generic "viewport impression tracker" [ref=f25e3400]:
+              - generic [ref=f25e3401]:
+                - generic [ref=f25e3406] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3407]
+                  - generic [ref=f25e3408]: 00:37
+                - generic [ref=f25e3409]:
+                  - generic [ref=f25e3410] [cursor=pointer]: Kata Trump soal Jensen Huang Ditarget Intelijen China
+                  - generic [ref=f25e3414]:
+                    - generic [ref=f25e3415]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3420]
+            - generic "viewport impression tracker" [ref=f25e3422]:
+              - generic [ref=f25e3423]:
+                - generic [ref=f25e3428] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3429]
+                  - generic [ref=f25e3430]: 00:30
+                - generic [ref=f25e3431]:
+                  - generic [ref=f25e3432] [cursor=pointer]: Rusia bantah retas kulkas supermarket Eropa
+                  - generic [ref=f25e3436]:
+                    - generic [ref=f25e3437]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3442]
+            - generic "viewport impression tracker" [ref=f25e3444]:
+              - generic [ref=f25e3445]:
+                - generic [ref=f25e3450] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3451]
+                  - generic [ref=f25e3452]: 00:08
+                - generic [ref=f25e3453]:
+                  - generic [ref=f25e3454] [cursor=pointer]: DPR AS surati bos Nvidia soal hubungannya dengan Alice Huang
+                  - generic [ref=f25e3458]:
+                    - generic [ref=f25e3459]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3464]
+            - generic "viewport impression tracker" [ref=f25e3466]:
+              - generic [ref=f25e3467]:
+                - generic [ref=f25e3472] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3473]
+                  - generic [ref=f25e3474]: 00:50
+                - generic [ref=f25e3475]:
+                  - generic [ref=f25e3476] [cursor=pointer]: Laptop Setipis Ini Tahan 42 Jam
+                  - generic [ref=f25e3480]:
+                    - generic [ref=f25e3481]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3486]
+            - generic "viewport impression tracker" [ref=f25e3488]:
+              - generic [ref=f25e3489]:
+                - generic [ref=f25e3494] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3495]
+                  - generic [ref=f25e3496]: 00:08
+                - generic [ref=f25e3497]:
+                  - generic [ref=f25e3498] [cursor=pointer]: Hacker bobol bank darah Prancis
+                  - generic [ref=f25e3502]:
+                    - generic [ref=f25e3503]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3508]
+            - generic "viewport impression tracker" [ref=f25e3510]:
+              - generic [ref=f25e3511]:
+                - generic [ref=f25e3516] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3517]
+                  - generic [ref=f25e3518]: 01:01
+                - generic [ref=f25e3519]:
+                  - generic [ref=f25e3520] [cursor=pointer]: Fitur Canggih di Kacamata AI Meta
+                  - generic [ref=f25e3524]:
+                    - generic [ref=f25e3525]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3530]
+            - generic "viewport impression tracker" [ref=f25e3532]:
+              - generic [ref=f25e3533]:
+                - generic [ref=f25e3538] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3539]
+                  - generic [ref=f25e3540]: 00:27
+                - generic [ref=f25e3541]:
+                  - generic [ref=f25e3542] [cursor=pointer]: Buka iPhone Duo Buat Cari Keberadaan King MU
+                  - generic [ref=f25e3546]:
+                    - generic [ref=f25e3547]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3552]
+            - generic "viewport impression tracker" [ref=f25e3554]:
+              - generic [ref=f25e3555]:
+                - generic [ref=f25e3560] [cursor=pointer]:
+                  - img "news-card-video-v2" [ref=f25e3561]
+                  - generic [ref=f25e3562]: 00:38
+                - generic [ref=f25e3563]:
+                  - generic [ref=f25e3564] [cursor=pointer]: Foto ramean pake fitur Smart Take di iPhone Duo
+                  - generic [ref=f25e3568]:
+                    - generic [ref=f25e3569]: kumparanTEKNO
+                    - img "verified-round" [ref=f25e3574]
+            - generic "viewport impression tracker" [ref=f25e3576]:
+              - link "news-card-video-v2 Lihat Video Lainnya" [ref=f25e3577] [cursor=pointer]:
+                - /url: /channel/tekno/video-story
+                - generic [ref=f25e3578]:
+                  - img "news-card-video-v2" [ref=f25e3579]
+                  - generic [ref=f25e3580]: Lihat Video Lainnya
+          - button [ref=f25e3583] [cursor=pointer]:
+            - img "chevron-next" [ref=f25e3586]
+      - generic [ref=f25e2811]:
+        - generic [ref=f25e2816]:
+          - generic [ref=f25e2817]: Feed
+          - generic [ref=f25e2823]:
+            - log [ref=f25e2825]
+            - generic [ref=f25e2827]:
+              - generic [ref=f25e2828]: Terbaru
+              - combobox [ref=f25e2829]
+        - generic [ref=f25e2836]:
+          - generic [ref=f25e2838]:
+            - generic [ref=f25e3587]:
+              - complementary
+              - generic "viewport impression tracker" [ref=f25e3589]:
+                - generic [ref=f25e3590]:
+                  - generic [ref=f25e3591]:
+                    - link "news-card-label-link" [ref=f25e3592] [cursor=pointer]:
+                      - /url: /kumparantech/5-keunggulan-acer-swift-air-14-ai-laptop-tipis-and-ringan-dengan-bonus-menarik-28XpSiRBVGD
+                      - generic [ref=f25e3593]: 5 Keunggulan Acer Swift Air 14 AI, Laptop Tipis & Ringan dengan Bonus Menarik
+                      - generic [ref=f25e3596]:
+                        - img "kumparanTECH" [ref=f25e3602]
+                        - generic [ref=f25e3604]:
+                          - generic [ref=f25e3605]: kumparanTECH
+                          - img "verified-round" [ref=f25e3609]
+                    - generic [ref=f25e3610]: 9 menit
+                  - generic [ref=f25e3614]:
+                    - link:
+                      - /url: /kumparantech/5-keunggulan-acer-swift-air-14-ai-laptop-tipis-and-ringan-dengan-bonus-menarik-28XpSiRBVGD
+                      - generic [ref=f25e3615] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3621]:
+                - generic [ref=f25e3622]:
+                  - generic [ref=f25e3623]:
+                    - link "news-card-label-link" [ref=f25e3624] [cursor=pointer]:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=f25e3625]: "AMD: Jualan Cip Data Center Q3 2026 Cuan, Pendapatan Naik 97%"
+                      - generic [ref=f25e3628]:
+                        - img "kumparanTEKNO" [ref=f25e3634]
+                        - generic [ref=f25e3636]:
+                          - generic [ref=f25e3637]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3641]
+                    - generic [ref=f25e3642]: sejam
+                  - generic [ref=f25e3646]:
+                    - link:
+                      - /url: /kumparantekno/amd-jualan-cip-data-center-q3-2026-cuan-pendapatan-naik-97-28XWPrYXcVd
+                      - generic [ref=f25e3647] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3653]:
+                - generic [ref=f25e3654]:
+                  - generic [ref=f25e3655]:
+                    - link "news-card-label-link" [ref=f25e3656] [cursor=pointer]:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=f25e3657]: "Bitera Data Center: Pusat Data Kapasitas 30 MW, Tawarkan Latensi Rendah dan AI-ready"
+                      - generic [ref=f25e3660]:
+                        - img "kumparanTEKNO" [ref=f25e3666]
+                        - generic [ref=f25e3668]:
+                          - generic [ref=f25e3669]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3673]
+                    - generic [ref=f25e3674]: 18 jam
+                  - generic [ref=f25e3678]:
+                    - link:
+                      - /url: /kumparantekno/bitera-data-center-pusat-data-kapasitas-30-mw-tawarkan-latensi-rendah-dan-ai-ready-28XVHQ3uJF1
+                      - generic [ref=f25e3679] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3685]:
+                - generic [ref=f25e3686]:
+                  - generic [ref=f25e3687]:
+                    - link "news-card-label-link" [ref=f25e3688] [cursor=pointer]:
+                      - /url: /kumparantekno/donald-trump-soal-ceo-nvidia-jensen-huang-diduga-jadi-target-intel-china-saya-tahu-dia-orang-baik-28XTfOgd57z
+                      - generic [ref=f25e3689]: "Donald Trump soal CEO Nvidia Jensen Huang Diduga Jadi Target Intel China: Saya Tahu Dia Orang Baik"
+                      - generic [ref=f25e3692]:
+                        - img "kumparanTEKNO" [ref=f25e3698]
+                        - generic [ref=f25e3700]:
+                          - generic [ref=f25e3701]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3705]
+                    - generic [ref=f25e3706]: 20 jam
+                  - generic [ref=f25e3710]:
+                    - link:
+                      - /url: /kumparantekno/donald-trump-soal-ceo-nvidia-jensen-huang-diduga-jadi-target-intel-china-saya-tahu-dia-orang-baik-28XTfOgd57z
+                      - generic [ref=f25e3711] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3717]:
+                - generic [ref=f25e3718]:
+                  - generic [ref=f25e3719]:
+                    - link "news-card-label-link" [ref=f25e3720] [cursor=pointer]:
+                      - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                      - generic [ref=f25e3721]: Nvidia Investigasi Perselingkuhan CEO Jensen Huang dengan Terduga Agen Intel China
+                      - generic [ref=f25e3724]:
+                        - img "kumparanTEKNO" [ref=f25e3730]
+                        - generic [ref=f25e3732]:
+                          - generic [ref=f25e3733]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3737]
+                    - generic [ref=f25e3738]: 22 jam
+                  - generic [ref=f25e3742]:
+                    - link:
+                      - /url: /kumparantekno/nvidia-investigasi-perselingkuhan-ceo-jensen-huang-dengan-terduga-agen-intel-china-28XSq4mjGcK
+                      - generic [ref=f25e3743] [cursor=pointer]
+              - complementary
+              - generic "viewport impression tracker" [ref=f25e3749]:
+                - generic [ref=f25e3750]:
+                  - generic [ref=f25e3751]:
+                    - link "news-card-label-link" [ref=f25e3752] [cursor=pointer]:
+                      - /url: /kumparantekno/ceo-nvidia-jensen-huang-akui-selingkuh-dengan-alice-huang-terduga-agen-intel-china-28XMBuGsjJ2
+                      - generic [ref=f25e3753]: CEO Nvidia Jensen Huang Akui Selingkuh dengan Alice Huang, Terduga Agen Intel China
+                      - generic [ref=f25e3756]:
+                        - img "kumparanTEKNO" [ref=f25e3762]
+                        - generic [ref=f25e3764]:
+                          - generic [ref=f25e3765]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3769]
+                    - generic [ref=f25e3770]: 24 jam
+                  - generic [ref=f25e3774]:
+                    - link:
+                      - /url: /kumparantekno/ceo-nvidia-jensen-huang-akui-selingkuh-dengan-alice-huang-terduga-agen-intel-china-28XMBuGsjJ2
+                      - generic [ref=f25e3775] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3781]:
+                - generic [ref=f25e3782]:
+                  - generic [ref=f25e3783]:
+                    - link "news-card-label-link" [ref=f25e3784] [cursor=pointer]:
+                      - /url: /kumparantekno/hacker-curi-aset-digital-rp-1-8-t-dari-wallet-kripto-ledger-yang-dimodif-chip-ilegal-dijual-di-ri-28XQ1hzbKJs
+                      - generic [ref=f25e3785]: Hacker Curi Aset Digital Rp 1,8 T dari Wallet Kripto Ledger yang Dimodif Chip Ilegal, Dijual di RI
+                      - generic [ref=f25e3788]:
+                        - img "kumparanTEKNO" [ref=f25e3794]
+                        - generic [ref=f25e3796]:
+                          - generic [ref=f25e3797]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3801]
+                    - generic [ref=f25e3802]: 9 Nov 2026
+                  - generic [ref=f25e3806]:
+                    - link:
+                      - /url: /kumparantekno/hacker-curi-aset-digital-rp-1-8-t-dari-wallet-kripto-ledger-yang-dimodif-chip-ilegal-dijual-di-ri-28XQ1hzbKJs
+                      - generic [ref=f25e3807] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3813]:
+                - generic [ref=f25e3814]:
+                  - generic [ref=f25e3815]:
+                    - link "news-card-label-link" [ref=f25e3816] [cursor=pointer]:
+                      - /url: /kumparantekno/astronaut-pakistan-join-di-misi-luar-angkasa-china-shenzhou-24-jadi-wna-pertama-28X9Hfi8Ebz
+                      - generic [ref=f25e3817]: Astronaut Pakistan Join di Misi Luar Angkasa China Shenzhou-24, Jadi WNA Pertama
+                      - generic [ref=f25e3820]:
+                        - img "kumparanTEKNO" [ref=f25e3826]
+                        - generic [ref=f25e3828]:
+                          - generic [ref=f25e3829]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3833]
+                    - generic [ref=f25e3834]: 8 Nov 2026
+                  - generic [ref=f25e3838]:
+                    - link:
+                      - /url: /kumparantekno/astronaut-pakistan-join-di-misi-luar-angkasa-china-shenzhou-24-jadi-wna-pertama-28X9Hfi8Ebz
+                      - generic [ref=f25e3839] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3845]:
+                - generic [ref=f25e3846]:
+                  - generic [ref=f25e3847]:
+                    - link "news-card-label-link" [ref=f25e3848] [cursor=pointer]:
+                      - /url: /kumparantekno/128-bank-di-jepang-gangguan-dan-atm-internet-banking-sempat-lumpuh-kena-serangan-siber-28WeCKyNRnl
+                      - generic [ref=f25e3849]: 128 Bank di Jepang Gangguan dan ATM-Internet Banking Sempat Lumpuh, Kena Serangan Siber?
+                      - generic [ref=f25e3852]:
+                        - img "kumparanTEKNO" [ref=f25e3858]
+                        - generic [ref=f25e3860]:
+                          - generic [ref=f25e3861]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3865]
+                    - generic [ref=f25e3866]: 8 Nov 2026
+                  - generic [ref=f25e3870]:
+                    - link:
+                      - /url: /kumparantekno/128-bank-di-jepang-gangguan-dan-atm-internet-banking-sempat-lumpuh-kena-serangan-siber-28WeCKyNRnl
+                      - generic [ref=f25e3871] [cursor=pointer]
+              - generic "viewport impression tracker" [ref=f25e3877]:
+                - generic [ref=f25e3878]:
+                  - generic [ref=f25e3879]:
+                    - link "news-card-label-link" [ref=f25e3880] [cursor=pointer]:
+                      - /url: /kumparantekno/pengguna-android-14-17-wajib-update-ada-celah-keamanan-yang-bisa-retas-hp-jarak-jauh-28WhVfcT330
+                      - generic [ref=f25e3881]: Pengguna Android 14–17 Wajib Update! Ada Celah Keamanan yang Bisa Retas HP Jarak Jauh
+                      - generic [ref=f25e3884]:
+                        - img "kumparanTEKNO" [ref=f25e3890]
+                        - generic [ref=f25e3892]:
+                          - generic [ref=f25e3893]: kumparanTEKNO
+                          - img "verified-round" [ref=f25e3897]
+                    - generic [ref=f25e3898]: 8 Nov 2026
+                  - generic [ref=f25e3902]:
+                    - link:
+                      - /url: /kumparantekno/pengguna-android-14-17-wajib-update-ada-celah-keamanan-yang-bisa-retas-hp-jarak-jauh-28WhVfcT330
+                      - generic [ref=f25e3903] [cursor=pointer]
+            - generic [ref=f25e2841]:
+              - button
+          - generic [ref=f25e2848]:
+            - complementary [ref=f25e2849]
+            - complementary [ref=f25e2852]

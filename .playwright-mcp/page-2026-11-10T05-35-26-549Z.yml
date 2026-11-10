@@ -1,0 +1,271 @@
+- generic [active] [ref=f140e1]:
+  - complementary
+  - generic [ref=f140e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f140e3]:
+      - generic [ref=f140e4]:
+        - generic "kumparan logo" [ref=f140e5]:
+          - link [ref=f140e6] [cursor=pointer]:
+            - /url: /channel/bisnis
+            - img "Kumparan Logo" [ref=f140e7]
+        - search [ref=f140e8]:
+          - generic [ref=f140e9]: Pencarian
+          - generic [ref=f140e11]:
+            - img "search" [ref=f140e13]
+            - textbox "Pencarian" [ref=f140e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f140e16]:
+          - list [ref=f140e17]:
+            - listitem [ref=f140e18]:
+              - link [ref=f140e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f140e24]
+            - listitem [ref=f140e25]:
+              - button [ref=f140e28] [cursor=pointer]:
+                - img "moon" [ref=f140e31]
+            - listitem [ref=f140e32]:
+              - link [ref=f140e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f140e39]
+            - listitem [ref=f140e40]:
+              - button "Masuk" [ref=f140e41] [cursor=pointer]
+            - listitem [ref=f140e45]:
+              - button "Buat Tulisan" [ref=f140e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f140e51]:
+        - list [ref=f140e52]:
+          - listitem "viewport impression tracker" [ref=f140e53]:
+            - link "News" [ref=f140e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f140e57]:
+            - link "Tekno" [ref=f140e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f140e61]:
+            - link "Bisnis" [ref=f140e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f140e65]:
+            - link "Otomotif" [ref=f140e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f140e69]:
+            - link "Entertainment" [ref=f140e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f140e73]:
+            - link "Food & Travel" [ref=f140e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f140e77]:
+            - link "Bola & Sports" [ref=f140e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f140e81]:
+            - link "Mom" [ref=f140e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f140e85]:
+            - link "Woman" [ref=f140e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f140e89]:
+            - link "Bolanita" [ref=f140e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f140e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f140e98]
+            - generic [ref=f140e99]: Lainnya
+      - navigation "header sub menu" [ref=f140e101]:
+        - list [ref=f140e102]:
+          - listitem [ref=f140e103]:
+            - link "Properti" [ref=f140e1589] [cursor=pointer]:
+              - /url: /topic/properti
+          - listitem [ref=f140e109]:
+            - link "Pangan" [ref=f140e1590] [cursor=pointer]:
+              - /url: /topic/pangan
+          - listitem [ref=f140e115]:
+            - link "Makro" [ref=f140e1591] [cursor=pointer]:
+              - /url: /topic/Makroekonomi
+          - listitem [ref=f140e121]:
+            - link "Finansial" [ref=f140e1592] [cursor=pointer]:
+              - /url: /topic/Finansial
+          - listitem [ref=f140e127]:
+            - link "Energi" [ref=f140e1593] [cursor=pointer]:
+              - /url: /topic/Energi
+          - listitem [ref=f140e133]:
+            - link "Sektor Riil" [ref=f140e1594] [cursor=pointer]:
+              - /url: /topic/sektor-riil
+          - listitem [ref=f140e139]:
+            - link "Market" [ref=f140e1595] [cursor=pointer]:
+              - /url: /topic/Market
+          - listitem [ref=f140e145]:
+            - link "Infrastruktur" [ref=f140e1596] [cursor=pointer]:
+              - /url: /topic/infrastruktur
+          - listitem [ref=f140e1597]:
+            - link "Ekonomi Digital" [ref=f140e1598] [cursor=pointer]:
+              - /url: /topic/ekonomi-digital
+    - main [ref=f140e151]:
+      - generic:
+        - complementary
+      - generic [ref=f140e1603]:
+        - complementary [ref=f140e1604]
+        - generic [ref=f140e1607]:
+          - generic:
+            - complementary
+          - generic:
+            - complementary
+          - generic [ref=f140e1608]:
+            - navigation [ref=f140e1609]:
+              - list [ref=f140e1610]:
+                - listitem [ref=f140e1611]:
+                  - link "Beranda" [ref=f140e1612] [cursor=pointer]:
+                    - /url: /
+                  - img "chevron-next" [ref=f140e1613]
+                - listitem [ref=f140e1614]:
+                  - link "Bisnis" [ref=f140e1615] [cursor=pointer]:
+                    - /url: /channel/bisnis
+            - article [ref=f140e1616]:
+              - generic "column wrapper" [ref=f140e1617]:
+                - heading "Danantara Resmi Kuasai 65,77% Saham GMFI dari InJourney Lewat Pembagian Dividen Saham" [level=1] [ref=f140e1618]
+                - generic [ref=f140e1619]:
+                  - generic [ref=f140e1620]:
+                    - generic [ref=f140e1621]:
+                      - link "author" [ref=f140e1622] [cursor=pointer]:
+                        - /url: /kumparanbisnis
+                        - paragraph [ref=f140e1623]:
+                          - generic [ref=f140e1624]: kumparanBISNIS
+                          - img "verified" [ref=f140e1625]
+                      - paragraph [ref=f140e1627]:
+                        - time [ref=f140e1628]: 10 November 2026 12:18 WIB
+                        - generic [ref=f140e1629]: ·
+                        - generic [ref=f140e1630]: waktu baca 2 menit
+                    - generic [ref=f140e1631]:
+                      - link "google add preference button" [ref=f140e1632] [cursor=pointer]:
+                        - /url: https://www.google.com/preferences/source?q=kumparan.com
+                        - generic [ref=f140e1633]:
+                          - img "google" [ref=f140e1635]
+                          - generic [ref=f140e1636]: Ikuti kumparan di Google
+                      - img "info" [ref=f140e1640]
+                  - generic [ref=f140e1642]:
+                    - generic [ref=f140e1644]:
+                      - button "like 0" [ref=f140e1645] [cursor=pointer]:
+                        - generic [ref=f140e1646]:
+                          - img "like" [ref=f140e1648]
+                          - generic [ref=f140e1649]: "0"
+                      - link "comment 0" [ref=f140e1651] [cursor=pointer]:
+                        - /url: /kumparanbisnis/response/danantara-resmi-kuasai-65-77-saham-gmfi-dari-injourney-lewat-pembagian-dividen-saham-28XqmRcLQyt
+                        - generic [ref=f140e1652]:
+                          - img "comment" [ref=f140e1654]
+                          - generic [ref=f140e1655]: "0"
+                    - generic [ref=f140e1657]:
+                      - img "sosmed-whatsapp-white" [ref=f140e1659] [cursor=pointer]
+                      - img "copy-circle" [ref=f140e1661] [cursor=pointer]
+                      - img "more-vertical" [ref=f140e1663] [cursor=pointer]
+              - main [ref=f140e1664]:
+                - 'figure "Ilustrasi pesawat Garuda Indonesia di hanggar. Foto: Adek Berry/AFP" [ref=f140e1665]'
+                - complementary [ref=f140e1674]:
+                  - complementary [ref=f140e1675]:
+                    - generic [ref=f140e1676]: ADVERTISEMENT
+                - paragraph [ref=f140e1679]:
+                  - text: PT
+                  - generic "viewport impression tracker" [ref=f140e1680]:
+                    - link "Danantara" [ref=f140e1681] [cursor=pointer]:
+                      - /url: https://kumparan.com/topic/danantara
+                  - text: Asset Management (DAM) resmi menjadi pemegang saham mayoritas PT Garuda Maintenance Facility Aero Asia Tbk (
+                  - generic "viewport impression tracker" [ref=f140e1682]:
+                    - link "GMFI" [ref=f140e1683] [cursor=pointer]:
+                      - /url: https://kumparan.com/topic/gmfi
+                  - text: ). Danantara menerima pengalihan sebanyak 82,1 miliar lembar saham atau setara 65,77 persen dari total hak suara perusahaan.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f140e1684]:
+                  - complementary [ref=f140e1685]:
+                    - generic [ref=f140e1686]: ADVERTISEMENT
+                - paragraph [ref=f140e1689]: Dikutip dari laporan kepemilikan saham yang disampaikan melalui sistem Kustodian Sentral Efek Indonesia (KSEI), Selasa (10/11), PT Danantara Asset Management tercatat memiliki 82.100.173.900 saham GMFI. Sebelum transaksi, kepemilikan saham tersebut tercatat nihil.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f140e1690]:
+                  - text: Pengalihan saham tersebut dilakukan pada 2 November 2026 melalui mekanisme
+                  - generic "viewport impression tracker" [ref=f140e1691]:
+                    - link "dividen" [ref=f140e1692] [cursor=pointer]:
+                      - /url: https://kumparan.com/topic/dividen
+                  - text: dalam bentuk saham atau
+                  - emphasis [ref=f140e1693]: dividend in specie
+                  - text: . Saham tersebut berasal dari PT Angkasa Pura Indonesia (Persero) yang terlebih dahulu mengalihkannya kepada PT Aviasi Pariwisata Indonesia (Persero) atau
+                  - generic "viewport impression tracker" [ref=f140e1694]:
+                    - link "InJourney" [ref=f140e1695] [cursor=pointer]:
+                      - /url: https://kumparan.com/topic/injourney
+                  - text: ", sebelum diteruskan kepada Danantara Asset Management."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f140e1696]: Berdasarkan keterbukaan informasi GMFI, rangkaian pengalihan saham tersebut dilakukan melalui Akta Pemindahan Hak Atas Saham Nomor 01 dan Nomor 02, yang masing-masing dibuat pada 2 November 2026 di hadapan notaris Desman di Jakarta.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f140e1697]:
+                  - complementary [ref=f140e1698]:
+                    - generic [ref=f140e1699]: ADVERTISEMENT
+                - paragraph [ref=f140e1702]:
+                  - text: Transaksi dilakukan di luar Bursa Efek Indonesia (BEI) menggunakan mekanisme
+                  - emphasis [ref=f140e1703]: Free of Payment
+                  - text: (FOP) melalui sistem C-BEST KSEI, yakni pemindahbukuan efek tanpa pembayaran dana.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - paragraph [ref=f140e1704]: Dalam laporan kepemilikan saham, harga transaksi dicantumkan sebesar Rp 69 per saham. Dengan demikian, nilai pengalihan berdasarkan harga tersebut mencapai sekitar Rp 5,66 triliun.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - 'figure "Ilustrasi Danantara. Foto: Peace-loving/Shutterstock" [ref=f140e1705]'
+                - paragraph [ref=f140e1707]: Manajemen GMFI menjelaskan, pengalihan saham ini merupakan bagian dari restrukturisasi dan penyehatan Garuda Indonesia Group.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f140e1708]: Setelah pengalihan, Danantara Asset Management menjadi pemegang saham terbesar GMFI dengan kepemilikan 65,77 persen. Sementara itu, PT Garuda Indonesia (Persero) Tbk (GIAA) tercatat memiliki 27,44 persen saham, PT Aero Wisata sebesar 0,27 persen, dan pemegang saham lainnya secara kolektif sebesar 6,52 persen.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f140e1709]: Manajemen menegaskan perubahan komposisi pemegang saham tersebut tidak mengubah pengendali akhir perseroan. Pemerintah Republik Indonesia melalui Badan Pengaturan (BP) BUMN tetap menjadi pengendali GMFI secara tidak langsung.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f140e1710]:
+                  - complementary [ref=f140e1711]:
+                    - generic [ref=f140e1712]: ADVERTISEMENT
+                - paragraph [ref=f140e1715]: Pengalihan saham ini menjadi bagian dari penataan kepemilikan aset dan restrukturisasi bisnis dalam kelompok usaha Garuda Indonesia.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - figure "instagram embed"
+                - complementary
+                - complementary
+              - generic [ref=f140e1717]:
+                - navigation [ref=f140e1718]:
+                  - list [ref=f140e1719]:
+                    - listitem [ref=f140e1720]:
+                      - link "Danantara" [ref=f140e1721] [cursor=pointer]:
+                        - /url: /topic/danantara
+                    - listitem [ref=f140e1725]:
+                      - link "GMFI" [ref=f140e1726] [cursor=pointer]:
+                        - /url: /topic/gmfi
+                    - listitem [ref=f140e1730]:
+                      - link "Dividen" [ref=f140e1731] [cursor=pointer]:
+                        - /url: /topic/dividen
+                    - listitem [ref=f140e1735]:
+                      - link "Saham" [ref=f140e1736] [cursor=pointer]:
+                        - /url: /topic/saham
+                    - listitem [ref=f140e1740]:
+                      - link "InJourney" [ref=f140e1741] [cursor=pointer]:
+                        - /url: /topic/injourney
+                    - listitem [ref=f140e1745]:
+                      - link "Market" [ref=f140e1746] [cursor=pointer]:
+                        - /url: /topic/market
+                - navigation [ref=f140e1750]:
+                  - list [ref=f140e1751]:
+                    - listitem [ref=f140e1752]:
+                      - link "Informasi Redaksi" [ref=f140e1753] [cursor=pointer]:
+                        - /url: /kumparanbisnis/organisation-info
+                    - listitem [ref=f140e1754]: ·
+                    - listitem [ref=f140e1755]:
+                      - link "Laporkan tulisan" [ref=f140e1756] [cursor=pointer]:
+                        - /url: /report/story/danantara-resmi-kuasai-65-77-saham-gmfi-dari-injourney-lewat-pembagian-dividen-saham-28XqmRcLQyt
+                - region "editor section" [ref=f140e1757]:
+                  - generic [ref=f140e1758] [cursor=pointer]:
+                    - heading "Editor Section" [level=2] [ref=f140e1759]
+                    - generic [ref=f140e1761]:
+                      - img "editor-avatar-0" [ref=f140e1765]
+                      - img "editor-avatar-1" [ref=f140e1769]
+                    - button "drop-down Tim Editor" [ref=f140e1771]:
+                      - generic [ref=f140e1772]:
+                        - img "drop-down" [ref=f140e1774]
+                        - generic [ref=f140e1775]: Tim Editor
+          - generic [ref=f140e1779]:
+            - complementary [ref=f140e1780]
+            - complementary [ref=f140e1783]

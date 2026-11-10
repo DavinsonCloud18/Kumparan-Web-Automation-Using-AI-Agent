@@ -1,0 +1,34 @@
+[     590ms] [WARNING] RestLink configured without a default URI. All @rest(…) directives must provide an endpoint key! @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[     833ms] [WARNING] "charset" is not a valid JSX prop, replace it by "charSet" @ https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2
+[    1076ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ml (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:40585)
+    at au (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:89939)
+    at sc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127875)
+    at ic (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127803)
+    at oc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:127645)
+    at Ks (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:123067)
+    at Uc (https://blue.kumparan.com/dist/45aaf5b6688fefeef8d1.563e75a816e1897c136f.mod.js:2:138900)
+    at MessagePort.$ (https://blue.kumparan.com/dist/77527b5f2847f69268e5.563e75a816e1897c136f.mod.js:2:497071)
+[    1639ms] [WARNING] [GPT] PubAdsService.collapseEmptyDivs is deprecated, use googletag.setConfig({collapseDiv: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1643ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1649ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_e_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1652ms] [WARNING] [GPT] Error in googletag.display: could not find div with id "desktop-homepage-billboard-banner-_r_f_" in DOM for slot: 175280759/UI3-DESKTOP/ui3-desktop-homepage-billboard.
+https://goo.gle/gpt-message#23 @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    1807ms] [LOG]  @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3170ms] [ERROR] LT.JS: The lt.min.js file cannot run because client 12705 is not permitted to call Lotame's servers. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3232ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    3654ms] [ERROR] Not signed in with the identity provider. @ https://kumparan.com/:1
+[    6265ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://blue.kumparan.com/dist/83d0dcdde679a602fd5e.563e75a816e1897c136f.mod.js:1
+[    7364ms] [ERROR] Access to fetch at 'https://content.jixie.io/v2/bidderslist?accountid=Ku5604Sz07' from origin 'https://kumparan.com' has been blocked by CORS policy: Request had a target IP address space of `public` yet the resource is in address space `local`. @ https://kumparan.com/:1
+[    7364ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://content.jixie.io/v2/bidderslist?accountid=Ku5604Sz07:1
+[    7721ms] [LOG] Ignoring gdpr param, it should be 1 or 0 @ https://scripts.jixie.media/jx-load-cookie.html:10
+[    7722ms] [LOG] Ignoring gdpr_consent param, it should be a non empty value @ https://scripts.jixie.media/jx-load-cookie.html:10
+[    8153ms] [LOG] Invoking iframe pixel user sync for bidder: "33across" @ https://scripts.jixie.media/jx-load-cookie.html:10
+[   12451ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://ps.eyeota.net/pixel?pid=c9gd671&t=gif&uid=CAvLHmryxE7%2BQBt1B3qHog%3D%3D&us_privacy=&33random=1794294863567.4&cat=33across:1
+[   13881ms] [ERROR] Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ https://dpm.demdex.net/ibs:dpid=540&dpuuid=b235f278-e153-47df-96a0-4ddab0a379f4&redir=https%3A%2F%2Fpixel.tapad.com%2Fidsync%2Fex%2Freceive%3Fpartner_id%3DADB%26partner_device_id%3D%24%7BDD_UUID%7D%26pt%3Db235f278-e153-47df-96a0-4ddab0a379f4%252C%252C:1
+[   13885ms] [LOG] Invoking image pixel user sync for bidder: "smartyads" @ https://scripts.jixie.media/jx-load-cookie.html:10
+[   16899ms] [LOG] Invoking image pixel user sync for bidder: "epsilon" @ https://scripts.jixie.media/jx-load-cookie.html:10
+[   19543ms] [LOG] Invoking iframe pixel user sync for bidder: "xapads" @ https://scripts.jixie.media/jx-load-cookie.html:10

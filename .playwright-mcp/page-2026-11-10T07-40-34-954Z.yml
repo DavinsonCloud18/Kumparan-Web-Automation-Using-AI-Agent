@@ -1,0 +1,132 @@
+- generic [ref=f359e1]:
+  - complementary
+  - generic [ref=f359e2]:
+    - complementary
+    - complementary
+    - banner [ref=f359e3]:
+      - generic [ref=f359e4]:
+        - generic "kumparan logo" [ref=f359e5]:
+          - link [ref=f359e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f359e7]
+        - search [ref=f359e8]:
+          - generic [ref=f359e9]: Pencarian
+          - generic [ref=f359e11]:
+            - img "search" [ref=f359e13]
+            - textbox "Pencarian" [ref=f359e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f359e16]:
+          - list [ref=f359e17]:
+            - listitem [ref=f359e18]:
+              - link [ref=f359e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f359e24]
+            - listitem [ref=f359e25]:
+              - button [ref=f359e28] [cursor=pointer]:
+                - img "moon" [ref=f359e31]
+            - listitem [ref=f359e32]:
+              - link [ref=f359e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f359e39]
+            - listitem [ref=f359e40]:
+              - button "Masuk" [active] [ref=f359e41] [cursor=pointer]
+            - listitem [ref=f359e45]:
+              - button "Buat Tulisan" [ref=f359e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f359e51]:
+        - list [ref=f359e52]:
+          - listitem "viewport impression tracker" [ref=f359e53]:
+            - link "News" [ref=f359e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f359e57]:
+            - link "Tekno" [ref=f359e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f359e61]:
+            - link "Bisnis" [ref=f359e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f359e65]:
+            - link "Otomotif" [ref=f359e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f359e69]:
+            - link "Entertainment" [ref=f359e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f359e73]:
+            - link "Food & Travel" [ref=f359e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f359e77]:
+            - link "Bola & Sports" [ref=f359e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f359e81]:
+            - link "Mom" [ref=f359e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f359e85]:
+            - link "Woman" [ref=f359e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f359e89]:
+            - link "Bolanita" [ref=f359e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f359e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f359e98]
+            - generic [ref=f359e99]: Lainnya
+      - navigation "header sub menu" [ref=f359e101]:
+        - list [ref=f359e102]:
+          - listitem [ref=f359e103]:
+            - link "Breaking News" [ref=f359e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f359e109]:
+            - link "Sumatera Pulih" [ref=f359e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f359e115]:
+            - link "Green Initiative" [ref=f359e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f359e121]:
+            - link "Video Story" [ref=f359e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f359e127]:
+            - link "Audio Story" [ref=f359e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f359e133]:
+            - link "Trending" [ref=f359e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f359e139]:
+            - link "kumparanPLUS" [ref=f359e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f359e145]:
+            - link "Opini & Cerita" [ref=f359e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f359e151]:
+      - generic [ref=f359e1589]:
+        - generic [ref=f359e1590]:
+          - text: Masuk
+          - generic [ref=f359e1591]: Login dulu biar bisa komen, bikin konten, langganan kumparanPLUS dan atur notifikasi konten favoritmu. Yuk!
+        - generic [ref=f359e1592]:
+          - textbox "Email" [ref=f359e1597]
+          - generic [ref=f359e1600]:
+            - textbox "Password" [ref=f359e1602]
+            - button [ref=f359e1604] [cursor=pointer]:
+              - img "eye" [ref=f359e1607]
+          - link "Lupa Password" [ref=f359e1609] [cursor=pointer]:
+            - /url: /forgot-password
+          - button "Masuk" [disabled] [ref=f359e1611]
+        - generic [ref=f359e1615]: Atau gunakan
+        - generic [ref=f359e1616]:
+          - button "facebook Facebook" [ref=f359e1617] [cursor=pointer]:
+            - generic [ref=f359e1618]:
+              - img "facebook" [ref=f359e1620]
+              - generic [ref=f359e1621]: Facebook
+          - button "google Google" [ref=f359e1623] [cursor=pointer]:
+            - generic [ref=f359e1624]:
+              - img "google" [ref=f359e1626]
+              - generic [ref=f359e1627]: Google
+          - button "smartphone Nomor Handphone" [ref=f359e1629] [cursor=pointer]:
+            - generic [ref=f359e1630]:
+              - img "smartphone" [ref=f359e1632]
+              - generic [ref=f359e1633]: Nomor Handphone
+        - generic [ref=f359e1635]:
+          - text: Belum punya akun?
+          - link "Daftar Sekarang!" [ref=f359e1636] [cursor=pointer]:
+            - /url: /register
+        - generic [ref=f359e1639]:
+          - text: Dengan mendaftar / masuk ke kumparan, kamu menyetujui bahwa
+          - link "Ketentuan dan Kebijakan Privasi kumparan" [ref=f359e1640] [cursor=pointer]:
+            - /url: /ketentuan-dan-kebijakan-privasi
+          - text: berlaku untukmu.

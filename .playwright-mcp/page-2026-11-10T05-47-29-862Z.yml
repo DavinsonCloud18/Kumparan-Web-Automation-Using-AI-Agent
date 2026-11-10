@@ -1,0 +1,228 @@
+- generic [active] [ref=f163e1]:
+  - complementary
+  - generic [ref=f163e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f163e3]:
+      - generic [ref=f163e4]:
+        - generic "kumparan logo" [ref=f163e5]:
+          - link "author" [ref=f163e1491] [cursor=pointer]:
+            - /url: /channel/news
+            - generic [ref=f163e1492]:
+              - img "kumparanNEWS" [ref=f163e1496]
+              - paragraph [ref=f163e1497]:
+                - generic [ref=f163e1498]: kumparanNEWS
+                - img "verified" [ref=f163e1499]
+        - search [ref=f163e8]:
+          - generic [ref=f163e9]: Pencarian
+          - generic [ref=f163e11]:
+            - img "search" [ref=f163e13]
+            - textbox "Pencarian" [ref=f163e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f163e16]:
+          - list [ref=f163e17]:
+            - listitem [ref=f163e18]:
+              - link [ref=f163e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f163e24]
+            - listitem [ref=f163e25]:
+              - button [ref=f163e28] [cursor=pointer]:
+                - img "moon" [ref=f163e31]
+            - listitem [ref=f163e32]:
+              - link [ref=f163e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f163e39]
+            - listitem [ref=f163e40]:
+              - button "Masuk" [ref=f163e41] [cursor=pointer]
+            - listitem [ref=f163e45]:
+              - button "Buat Tulisan" [ref=f163e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f163e51]:
+        - list [ref=f163e52]:
+          - listitem "viewport impression tracker" [ref=f163e53]:
+            - link "News" [ref=f163e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f163e57]:
+            - link "Tekno" [ref=f163e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f163e61]:
+            - link "Bisnis" [ref=f163e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f163e65]:
+            - link "Otomotif" [ref=f163e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f163e69]:
+            - link "Entertainment" [ref=f163e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f163e73]:
+            - link "Food & Travel" [ref=f163e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f163e77]:
+            - link "Bola & Sports" [ref=f163e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f163e81]:
+            - link "Mom" [ref=f163e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f163e85]:
+            - link "Woman" [ref=f163e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f163e89]:
+            - link "Bolanita" [ref=f163e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f163e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f163e98]
+            - generic [ref=f163e99]: Lainnya
+      - navigation "header sub menu" [ref=f163e101]:
+        - list [ref=f163e102]:
+          - listitem [ref=f163e103]:
+            - link "Breaking News" [ref=f163e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f163e109]:
+            - link "Sumatera Pulih" [ref=f163e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f163e115]:
+            - link "Green Initiative" [ref=f163e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f163e121]:
+            - link "Video Story" [ref=f163e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f163e127]:
+            - link "Audio Story" [ref=f163e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f163e133]:
+            - link "Trending" [ref=f163e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f163e139]:
+            - link "kumparanPLUS" [ref=f163e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f163e145]:
+            - link "Opini & Cerita" [ref=f163e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f163e151]:
+      - generic:
+        - complementary
+      - generic [ref=f163e1500]:
+        - complementary [ref=f163e1501]
+        - generic [ref=f163e1504]:
+          - generic:
+            - complementary
+          - generic:
+            - complementary
+          - generic [ref=f163e1505]:
+            - navigation [ref=f163e1506]:
+              - list [ref=f163e1507]:
+                - listitem [ref=f163e1508]:
+                  - link "Beranda" [ref=f163e1509] [cursor=pointer]:
+                    - /url: /
+                  - img "chevron-next" [ref=f163e1510]
+                - listitem [ref=f163e1511]:
+                  - link "News" [ref=f163e1512] [cursor=pointer]:
+                    - /url: /channel/news
+            - article [ref=f163e1513]:
+              - generic "column wrapper" [ref=f163e1514]:
+                - heading "Wali Kota Depok Pertama Badrul Kamal Meninggal Dunia" [level=1] [ref=f163e1515]
+                - generic [ref=f163e1516]:
+                  - generic [ref=f163e1517]:
+                    - generic [ref=f163e1518]:
+                      - link "author" [ref=f163e1519] [cursor=pointer]:
+                        - /url: /kumparannews
+                        - paragraph [ref=f163e1520]:
+                          - generic [ref=f163e1521]: kumparanNEWS
+                          - img "verified" [ref=f163e1522]
+                      - paragraph [ref=f163e1524]:
+                        - time [ref=f163e1525]: 10 November 2026 12:41 WIB
+                        - generic [ref=f163e1526]: ·
+                        - generic [ref=f163e1527]: waktu baca 1 menit
+                    - generic [ref=f163e1528]:
+                      - link "google add preference button" [ref=f163e1529] [cursor=pointer]:
+                        - /url: https://www.google.com/preferences/source?q=kumparan.com
+                        - generic [ref=f163e1530]:
+                          - img "google" [ref=f163e1532]
+                          - generic [ref=f163e1533]: Ikuti kumparan di Google
+                      - img "info" [ref=f163e1537]
+                  - generic [ref=f163e1539]:
+                    - generic [ref=f163e1541]:
+                      - button "like 0" [ref=f163e1542] [cursor=pointer]:
+                        - generic [ref=f163e1543]:
+                          - img "like" [ref=f163e1545]
+                          - generic [ref=f163e1546]: "0"
+                      - link "comment 0" [ref=f163e1548] [cursor=pointer]:
+                        - /url: /kumparannews/response/wali-kota-depok-pertama-badrul-kamal-meninggal-dunia-28XrQpurZCj
+                        - generic [ref=f163e1549]:
+                          - img "comment" [ref=f163e1551]
+                          - generic [ref=f163e1552]: "0"
+                    - generic [ref=f163e1554]:
+                      - img "sosmed-whatsapp-white" [ref=f163e1556] [cursor=pointer]
+                      - img "copy-circle" [ref=f163e1558] [cursor=pointer]
+                      - img "more-vertical" [ref=f163e1560] [cursor=pointer]
+              - main [ref=f163e1561]:
+                - 'figure "Badrul Kamal. Foto: Istimewa" [ref=f163e1562]'
+                - complementary [ref=f163e1571]:
+                  - complementary [ref=f163e1572]:
+                    - generic [ref=f163e1573]: ADVERTISEMENT
+                - paragraph [ref=f163e1576]: Wali Kota Depok definitif pertama, Badrul Kamal, meninggal dunia pada Senin (9/11) malam.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f163e1577]:
+                  - complementary [ref=f163e1578]:
+                    - generic [ref=f163e1579]: ADVERTISEMENT
+                - paragraph [ref=f163e1582]: Kabar duka tersebut dikonfirmasi Kepala Dinas Koperasi dan Usaha Mikro (DKUM) Kota Depok, Mohamad Thamrin, saat dihubungi pada Selasa (10/11).
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f163e1583]: "\"Meninggal hari ini jam 19.02 di RS Persahabatan (Jakarta). Jenazah sudah berada di rumah almarhum di Ciawi,\" ujarnya."
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary
+                - paragraph [ref=f163e1584]: Thamrin mengungkapkan, almarhum memang telah lama menderita sakit kanker paru-paru.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - paragraph [ref=f163e1585]: Saat dikonfirmasi, Thamrin mengaku sedang berada di rumah duka di kawasan Ciawi, Bogor. Ia menyebut masih sempat menjenguk Badrul Kamal beberapa hari sebelum wafat.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - generic [ref=f163e1586]:
+                  - heading "Dimakamkan di Cikreteg" [level=2] [ref=f163e1587]
+                  - paragraph [ref=f163e1588]: Rencananya, jenazah Badrul Kamal akan dimakamkan pada Selasa (10/11/2026) hari ini di pemakaman keluarga di kawasan Cikreteg, Ciawi, Kabupaten Bogor.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f163e1589]: Badrul Kamal merupakan sosok penting dalam sejarah berdirinya Kota Depok. Sebelum menjadi wali kota definitif, ia menjabat sebagai Wali Kota Administratif Depok periode 1997-1999. Di masa itu, ia menjadi salah satu tokoh yang mengawal proses perubahan status Depok dari kota administratif menjadi kota otonom.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - complementary [ref=f163e1590]:
+                    - complementary [ref=f163e1591]:
+                      - generic [ref=f163e1592]: ADVERTISEMENT
+                  - complementary
+                  - complementary
+              - generic [ref=f163e1595]:
+                - navigation [ref=f163e1596]:
+                  - list [ref=f163e1597]:
+                    - listitem [ref=f163e1598]:
+                      - link "Depok" [ref=f163e1599] [cursor=pointer]:
+                        - /url: /topic/depok
+                    - listitem [ref=f163e1603]:
+                      - link "Wali Kota" [ref=f163e1604] [cursor=pointer]:
+                        - /url: /topic/wali-kota
+                    - listitem [ref=f163e1608]:
+                      - link "Berita Duka" [ref=f163e1609] [cursor=pointer]:
+                        - /url: /topic/berita-duka
+                - navigation [ref=f163e1613]:
+                  - list [ref=f163e1614]:
+                    - listitem [ref=f163e1615]:
+                      - link "Informasi Redaksi" [ref=f163e1616] [cursor=pointer]:
+                        - /url: /kumparannews/organisation-info
+                    - listitem [ref=f163e1617]: ·
+                    - listitem [ref=f163e1618]:
+                      - link "Laporkan tulisan" [ref=f163e1619] [cursor=pointer]:
+                        - /url: /report/story/wali-kota-depok-pertama-badrul-kamal-meninggal-dunia-28XrQpurZCj
+                - region "editor section" [ref=f163e1620]:
+                  - generic [ref=f163e1621] [cursor=pointer]:
+                    - heading "Editor Section" [level=2] [ref=f163e1622]
+                    - generic [ref=f163e1624]:
+                      - img "editor-avatar-0" [ref=f163e1628]
+                      - img "editor-avatar-1" [ref=f163e1632]
+                    - button "drop-down Tim Editor" [ref=f163e1634]:
+                      - generic [ref=f163e1635]:
+                        - img "drop-down" [ref=f163e1637]
+                        - generic [ref=f163e1638]: Tim Editor
+          - generic [ref=f163e1642]:
+            - complementary [ref=f163e1643]
+            - complementary [ref=f163e1646]

@@ -1,0 +1,255 @@
+- generic [active] [ref=f108e1]:
+  - complementary
+  - generic [ref=f108e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f108e3]:
+      - generic [ref=f108e4]:
+        - generic "kumparan logo" [ref=f108e5]:
+          - link "author" [ref=f108e1588] [cursor=pointer]:
+            - /url: /channel/news
+            - generic [ref=f108e1589]:
+              - img "kumparanNEWS" [ref=f108e1593]
+              - paragraph [ref=f108e1594]:
+                - generic [ref=f108e1595]: kumparanNEWS
+                - img "verified" [ref=f108e1596]
+        - search [ref=f108e8]:
+          - generic [ref=f108e9]: Pencarian
+          - generic [ref=f108e11]:
+            - img "search" [ref=f108e13]
+            - textbox "Pencarian" [ref=f108e15]:
+              - /placeholder: Cari di sini...
+        - navigation "user menu" [ref=f108e16]:
+          - list [ref=f108e17]:
+            - listitem [ref=f108e18]:
+              - link [ref=f108e21] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f108e24]
+            - listitem [ref=f108e25]:
+              - button [ref=f108e28] [cursor=pointer]:
+                - img "moon" [ref=f108e31]
+            - listitem [ref=f108e32]:
+              - link [ref=f108e36] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f108e39]
+            - listitem [ref=f108e40]:
+              - button "Masuk" [ref=f108e41] [cursor=pointer]
+            - listitem [ref=f108e45]:
+              - button "Buat Tulisan" [ref=f108e47] [cursor=pointer]
+      - navigation "headermain menu" [ref=f108e51]:
+        - list [ref=f108e52]:
+          - listitem "viewport impression tracker" [ref=f108e53]:
+            - link "News" [ref=f108e54] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f108e57]:
+            - link "Tekno" [ref=f108e58] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f108e61]:
+            - link "Bisnis" [ref=f108e62] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f108e65]:
+            - link "Otomotif" [ref=f108e66] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f108e69]:
+            - link "Entertainment" [ref=f108e70] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f108e73]:
+            - link "Food & Travel" [ref=f108e74] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f108e77]:
+            - link "Bola & Sports" [ref=f108e78] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f108e81]:
+            - link "Mom" [ref=f108e82] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f108e85]:
+            - link "Woman" [ref=f108e86] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f108e89]:
+            - link "Bolanita" [ref=f108e90] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f108e95] [cursor=pointer]:
+            - img "more-vertical" [ref=f108e98]
+            - generic [ref=f108e99]: Lainnya
+      - navigation "header sub menu" [ref=f108e101]:
+        - list [ref=f108e102]:
+          - listitem [ref=f108e103]:
+            - link "Breaking News" [ref=f108e104] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f108e109]:
+            - link "Sumatera Pulih" [ref=f108e110] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f108e115]:
+            - link "Green Initiative" [ref=f108e116] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f108e121]:
+            - link "Video Story" [ref=f108e122] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f108e127]:
+            - link "Audio Story" [ref=f108e128] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f108e133]:
+            - link "Trending" [ref=f108e134] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f108e139]:
+            - link "kumparanPLUS" [ref=f108e140] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f108e145]:
+            - link "Opini & Cerita" [ref=f108e146] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f108e151]:
+      - generic:
+        - complementary
+      - generic [ref=f108e1597]:
+        - complementary [ref=f108e1598]
+        - generic [ref=f108e1601]:
+          - generic:
+            - complementary
+          - generic:
+            - complementary
+          - generic [ref=f108e1602]:
+            - navigation [ref=f108e1603]:
+              - list [ref=f108e1604]:
+                - listitem [ref=f108e1605]:
+                  - link "Beranda" [ref=f108e1606] [cursor=pointer]:
+                    - /url: /
+                  - img "chevron-next" [ref=f108e1607]
+                - listitem [ref=f108e1608]:
+                  - link "News" [ref=f108e1609] [cursor=pointer]:
+                    - /url: /channel/news
+            - article [ref=f108e1610]:
+              - generic "column wrapper" [ref=f108e1611]:
+                - heading "Makkah Gelar Maraton Bulan Depan, Peserta Berlari Lintasi Muzdalifah hingga Arafah" [level=1] [ref=f108e1612]
+                - generic [ref=f108e1613]:
+                  - generic [ref=f108e1614]:
+                    - generic [ref=f108e1615]:
+                      - link "author" [ref=f108e1616] [cursor=pointer]:
+                        - /url: /kumparannews
+                        - paragraph [ref=f108e1617]:
+                          - generic [ref=f108e1618]: kumparanNEWS
+                          - img "verified" [ref=f108e1619]
+                      - paragraph [ref=f108e1621]:
+                        - time [ref=f108e1622]: 10 November 2026 11:58 WIB
+                        - generic [ref=f108e1623]: ·
+                        - generic [ref=f108e1624]: waktu baca 2 menit
+                    - generic [ref=f108e1625]:
+                      - link "google add preference button" [ref=f108e1626] [cursor=pointer]:
+                        - /url: https://www.google.com/preferences/source?q=kumparan.com
+                        - generic [ref=f108e1627]:
+                          - img "google" [ref=f108e1629]
+                          - generic [ref=f108e1630]: Ikuti kumparan di Google
+                      - img "info" [ref=f108e1634]
+                  - generic [ref=f108e1636]:
+                    - generic [ref=f108e1638]:
+                      - button "like 0" [ref=f108e1639] [cursor=pointer]:
+                        - generic [ref=f108e1640]:
+                          - img "like" [ref=f108e1642]
+                          - generic [ref=f108e1643]: "0"
+                      - link "comment 0" [ref=f108e1645] [cursor=pointer]:
+                        - /url: /kumparannews/response/makkah-gelar-maraton-bulan-depan-peserta-berlari-lintasi-muzdalifah-hingga-arafah-28XpfBE5m0Q
+                        - generic [ref=f108e1646]:
+                          - img "comment" [ref=f108e1648]
+                          - generic [ref=f108e1649]: "0"
+                    - generic [ref=f108e1651]:
+                      - img "sosmed-whatsapp-white" [ref=f108e1653] [cursor=pointer]
+                      - img "copy-circle" [ref=f108e1655] [cursor=pointer]
+                      - img "more-vertical" [ref=f108e1657] [cursor=pointer]
+              - main [ref=f108e1658]:
+                - 'figure "Jabal Rahmah di Arafah, Makkah, Arab Saudi, Kamis (5/11/2026), salah satu titik Foto: Angga Palguna/ ANTARA FOTO" [ref=f108e1659]':
+                  - generic [ref=f108e1663] [cursor=pointer]:
+                    - 'img "Jabal Rahmah di Arafah, Makkah, Arab Saudi, Kamis (5/11/2026), salah satu titik Foto: Angga Palguna/ ANTARA FOTO" [ref=f108e1664]'
+                    - generic [ref=f108e1665]:
+                      - img "zoom-in-white" [ref=f108e1666]
+                      - generic [ref=f108e1667]: Perbesar
+                - complementary [ref=f108e1669]:
+                  - complementary [ref=f108e1670]:
+                    - generic [ref=f108e1671]: ADVERTISEMENT
+                - paragraph [ref=f108e1674]: Kota Makkah, Arab Saudi, akan menggelar Makkah Marathon 2026 pada 18–19 Desember mendatang. Ajang lari ini menawarkan pengalaman berbeda karena peserta akan melintasi sejumlah kawasan yang selama ini dikenal sebagai bagian penting dari rangkaian ibadah haji, mulai dari Muzdalifah hingga Arafah.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - complementary [ref=f108e1675]:
+                  - complementary [ref=f108e1676]:
+                    - generic [ref=f108e1677]: ADVERTISEMENT
+                - paragraph [ref=f108e1680]:
+                  - text: "\"Kegiatan ini menyajikan pengalaman olahraga dan budaya unik yang menggabungkan tantangan atletik dengan penjelajahan situs-situs bersejarah dan keagamaan di kota suci,\" tulis kantor berita Saudi,"
+                  - emphasis [ref=f108e1681]: SPA.
+                - complementary:
+                  - generic "viewport impression tracker"
+                - generic [ref=f108e1682]:
+                  - heading "Rute dan Kategori Lomba" [level=2] [ref=f108e1683]
+                  - paragraph [ref=f108e1684]: Mengutip situs resmi Makkah Marathon, Selasa (10/11), lomba akan mengambil titik awal dan akhir di jalur pejalan kaki Muzdalifah (Muzdalifah Walkway).
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1685]: Muzdalifah Walkway merupakan bagian dari jalur pejalan kaki di kawasan tempat-tempat suci Makkah yang membentang sekitar 25 kilometer, menghubungkan Arafah, Muzdalifah, hingga Mina. Jalur tersebut disebut sebagai jalur pejalan kaki terpanjang di dunia.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1686]: Khusus kategori 21 kilometer, peserta akan berlari menuju Masjid Namirah, kemudian memasuki Jalan Lingkar Arafah (Arafat Ring Road), sebelum kembali melewati Jabal Rahmah dan finis di Muzdalifah.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - 'figure "Masjid Namirah di Arafah pada masa puncak haji. Foto: SPA via X/@makkahregion" [ref=f108e1687]'
+                  - paragraph [ref=f108e1689]: Sementara itu, kategori 5 kilometer dan 10 kilometer akan berlangsung di kawasan jalur pejalan kaki Muzdalifah.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - complementary [ref=f108e1690]:
+                    - complementary [ref=f108e1691]:
+                      - generic [ref=f108e1692]: ADVERTISEMENT
+                  - complementary
+                  - paragraph [ref=f108e1695]: Penyelenggara menyediakan lima kategori perlombaan. Pada 18 Desember, akan digelar lomba anak-anak sejauh 2 kilometer untuk usia 4–11 tahun serta lomba adaptif 200 meter bagi penyandang disabilitas motorik.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1696]: Adapun pada 19 Desember, digelar lomba 5 kilometer, 10 kilometer, dan 21 kilometer. Batas usia minimum masing-masing kategori adalah 10 tahun, 14 tahun, dan 16 tahun.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1697]: Situs resmi penyelenggara mencantumkan bahwa pendaftaran kategori lomba diperuntukkan bagi laki-laki, sementara lomba anak-anak terbuka bagi anak laki-laki maupun perempuan.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - 'figure "Muzalifah pada masa puncak haji, 2026 Foto: Citro Atmoko/ANTARA FOTO" [ref=f108e1698]'
+                  - paragraph [ref=f108e1700]: Rangkaian acara akan diawali dengan pembukaan Makkah Marathon Village pada 17 Desember di kawasan Muzdalifah. Area ini menjadi pusat kegiatan peserta dan pengunjung, termasuk pengambilan perlengkapan lomba, layanan medis, area sponsor, serta berbagai aktivitas olahraga dan hiburan.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - complementary [ref=f108e1701]:
+                    - complementary [ref=f108e1702]:
+                      - generic [ref=f108e1703]: ADVERTISEMENT
+                  - paragraph [ref=f108e1706]: Komisi Kerajaan untuk Kota Makkah dan Tempat-Tempat Suci (Royal Commission for Makkah City and Holy Sites) menjadi penyelenggara kegiatan tersebut.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1707]: Maraton ini merupakan bagian dari upaya mempromosikan Makkah sebagai destinasi kegiatan olahraga dan kemasyarakatan sekaligus memperkenalkan warisan sejarah dan budayanya.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - paragraph [ref=f108e1708]: Penyelenggara menyediakan total hadiah sebesar 69.000 riyal (sekitar Rp 331 juta) untuk berbagai kategori perlombaan.
+                  - complementary:
+                    - generic "viewport impression tracker"
+                  - complementary
+                  - complementary
+              - generic [ref=f108e1709]:
+                - navigation [ref=f108e1710]:
+                  - list [ref=f108e1711]:
+                    - listitem [ref=f108e1712]:
+                      - link "Internasional" [ref=f108e1713] [cursor=pointer]:
+                        - /url: /topic/internasional
+                    - listitem [ref=f108e1717]:
+                      - link "Makkah" [ref=f108e1718] [cursor=pointer]:
+                        - /url: /topic/makkah
+                - navigation [ref=f108e1722]:
+                  - list [ref=f108e1723]:
+                    - listitem [ref=f108e1724]:
+                      - link "Informasi Redaksi" [ref=f108e1725] [cursor=pointer]:
+                        - /url: /kumparannews/organisation-info
+                    - listitem [ref=f108e1726]: ·
+                    - listitem [ref=f108e1727]:
+                      - link "Laporkan tulisan" [ref=f108e1728] [cursor=pointer]:
+                        - /url: /report/story/makkah-gelar-maraton-bulan-depan-peserta-berlari-lintasi-muzdalifah-hingga-arafah-28XpfBE5m0Q
+                - region "editor section" [ref=f108e1729]:
+                  - generic [ref=f108e1730] [cursor=pointer]:
+                    - heading "Editor Section" [level=2] [ref=f108e1731]
+                    - generic [ref=f108e1733]:
+                      - img "editor-avatar-0" [ref=f108e1737]
+                      - img "editor-avatar-1" [ref=f108e1741]
+                    - button "drop-down Tim Editor" [ref=f108e1743]:
+                      - generic [ref=f108e1744]:
+                        - img "drop-down" [ref=f108e1746]
+                        - generic [ref=f108e1747]: Tim Editor
+          - generic [ref=f108e1751]:
+            - complementary [ref=f108e1752]
+            - complementary [ref=f108e1755]

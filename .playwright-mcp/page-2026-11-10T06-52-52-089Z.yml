@@ -1,0 +1,133 @@
+- generic [active] [ref=f187e1]:
+  - complementary
+  - generic [ref=f187e2]:
+    - complementary
+    - complementary:
+      - complementary
+    - banner [ref=f187e3]:
+      - generic [ref=f187e4]:
+        - generic "kumparan logo" [ref=f187e5]:
+          - link [ref=f187e6] [cursor=pointer]:
+            - /url: /
+            - img "Kumparan Logo" [ref=f187e7]
+        - search [ref=f187e8]:
+          - generic [ref=f187e9]: Pencarian
+          - generic [ref=f187e11]:
+            - img "search" [ref=f187e13]
+            - textbox "Pencarian" [ref=f187e15]:
+              - /placeholder: Cari di sini...
+              - text: xyz999nonexistentquery123
+            - button [ref=f187e17] [cursor=pointer]:
+              - img "x-circle" [ref=f187e20]
+        - navigation "user menu" [ref=f187e21]:
+          - list [ref=f187e22]:
+            - listitem [ref=f187e23]:
+              - link [ref=f187e26] [cursor=pointer]:
+                - /url: /
+                - img "home" [ref=f187e29]
+            - listitem [ref=f187e30]:
+              - button [ref=f187e33] [cursor=pointer]:
+                - img "moon" [ref=f187e36]
+            - listitem [ref=f187e37]:
+              - link [ref=f187e41] [cursor=pointer]:
+                - /url: /notifications
+                - img "notification" [ref=f187e44]
+            - listitem [ref=f187e45]:
+              - button "Masuk" [ref=f187e46] [cursor=pointer]
+            - listitem [ref=f187e50]:
+              - button "Buat Tulisan" [ref=f187e52] [cursor=pointer]
+      - navigation "headermain menu" [ref=f187e56]:
+        - list [ref=f187e57]:
+          - listitem "viewport impression tracker" [ref=f187e58]:
+            - link "News" [ref=f187e59] [cursor=pointer]:
+              - /url: /channel/news
+          - listitem "viewport impression tracker" [ref=f187e62]:
+            - link "Tekno" [ref=f187e63] [cursor=pointer]:
+              - /url: /channel/tekno
+          - listitem "viewport impression tracker" [ref=f187e66]:
+            - link "Bisnis" [ref=f187e67] [cursor=pointer]:
+              - /url: /channel/bisnis
+          - listitem "viewport impression tracker" [ref=f187e70]:
+            - link "Otomotif" [ref=f187e71] [cursor=pointer]:
+              - /url: /channel/otomotif
+          - listitem "viewport impression tracker" [ref=f187e74]:
+            - link "Entertainment" [ref=f187e75] [cursor=pointer]:
+              - /url: /channel/entertainment
+          - listitem "viewport impression tracker" [ref=f187e78]:
+            - link "Food & Travel" [ref=f187e79] [cursor=pointer]:
+              - /url: /channel/food-travel
+          - listitem "viewport impression tracker" [ref=f187e82]:
+            - link "Bola & Sports" [ref=f187e83] [cursor=pointer]:
+              - /url: /channel/bola-sports
+          - listitem "viewport impression tracker" [ref=f187e86]:
+            - link "Mom" [ref=f187e87] [cursor=pointer]:
+              - /url: /channel/mom
+          - listitem "viewport impression tracker" [ref=f187e90]:
+            - link "Woman" [ref=f187e91] [cursor=pointer]:
+              - /url: /channel/woman
+          - listitem "viewport impression tracker" [ref=f187e94]:
+            - link "Bolanita" [ref=f187e95] [cursor=pointer]:
+              - /url: /channel/bolanita
+          - generic [ref=f187e100] [cursor=pointer]:
+            - img "more-vertical" [ref=f187e103]
+            - generic [ref=f187e104]: Lainnya
+      - navigation "header sub menu" [ref=f187e106]:
+        - list [ref=f187e107]:
+          - listitem [ref=f187e108]:
+            - link "Breaking News" [ref=f187e109] [cursor=pointer]:
+              - /url: /breakingnews
+          - listitem [ref=f187e114]:
+            - link "Sumatera Pulih" [ref=f187e115] [cursor=pointer]:
+              - /url: /topic/sumatra-pulih
+          - listitem [ref=f187e120]:
+            - link "Green Initiative" [ref=f187e121] [cursor=pointer]:
+              - /url: /topic/green-initiative
+          - listitem [ref=f187e126]:
+            - link "Video Story" [ref=f187e127] [cursor=pointer]:
+              - /url: /video-story
+          - listitem [ref=f187e132]:
+            - link "Audio Story" [ref=f187e133] [cursor=pointer]:
+              - /url: /audio-story
+          - listitem [ref=f187e138]:
+            - link "Trending" [ref=f187e139] [cursor=pointer]:
+              - /url: /trending
+          - listitem [ref=f187e144]:
+            - link "kumparanPLUS" [ref=f187e145] [cursor=pointer]:
+              - /url: /kumparan-plus
+          - listitem [ref=f187e150]:
+            - link "Opini & Cerita" [ref=f187e151] [cursor=pointer]:
+              - /url: /opini-cerita
+    - main [ref=f187e156]:
+      - generic:
+        - complementary
+      - generic [ref=f187e157]:
+        - generic:
+          - complementary
+        - generic:
+          - complementary
+        - generic [ref=f187e158]:
+          - complementary [ref=f187e159]:
+            - iframe [ref=f187e163]
+          - generic [ref=f187e164]:
+            - generic [ref=f187e165]:
+              - heading "Hasil Pencarian" [level=1] [ref=f187e167]
+              - generic [ref=f187e169]:
+                - generic [ref=f187e170]:
+                  - button "Konten" [ref=f187e173] [cursor=pointer]
+                  - button "Video Story" [ref=f187e181] [cursor=pointer]
+                  - button "kumparanPLUS" [ref=f187e188] [cursor=pointer]
+                  - button "Topik" [ref=f187e195] [cursor=pointer]
+                  - button "Pengguna" [ref=f187e202] [cursor=pointer]
+                  - button "Publisher" [ref=f187e209] [cursor=pointer]
+                - generic [ref=f187e216]:
+                  - generic [ref=f187e218]:
+                    - generic [ref=f187e219]: Relevansi
+                    - generic [ref=f187e224]: Terbaru
+                  - generic [ref=f187e232]:
+                    - generic [ref=f187e236]: Story tidak ditemukan
+                    - generic [ref=f187e238]: Sudah benarkah story yang dicari?
+            - generic [ref=f187e241]:
+              - complementary [ref=f187e242]:
+                - iframe [ref=f187e246]
+              - complementary [ref=f187e247]:
+                - iframe [ref=f187e251]
